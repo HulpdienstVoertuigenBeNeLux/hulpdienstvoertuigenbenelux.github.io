@@ -14,36 +14,34 @@ def get_data():
             response = requests.get(url, headers=headers, timeout=30)
             response.raise_for_status()
             return response.json()
-        except Exception as e:
-            print(f"Poging {i+1} mislukt: {e}")
+        except:
             time.sleep(5)
     return None
 
 def process():
     data = get_data()
-    if data is None: return
-
+    if not data: return
     rows = data.get("values", data) if isinstance(data, dict) else data
-    if not isinstance(rows, list): return
 
-    stats = {}
+    # Dictionary om te tellen: key is (afkorting, type), value is aantal
+    counts = {}
+    
     for row in rows[1:]:
         if isinstance(row, list) and len(row) > 6:
-            # Kolomindexen op basis van jouw indeling:
-            # 2 = Afkorting
-            # 3 = TypeVoertuig
-            # 6 = Hulpdienst
-            hulpdienst = str(row[6]).strip().lower()
-            type_voertuig = str(row[3]).strip()
-            afkorting = str(row[2]).strip()
-            
-            if hulpdienst == "brandweer" and type_voertuig:
-                # Combineren: TypeVoertuig (Afkorting)
-                key = f"{type_voertuig} ({afkorting})"
-                stats[key] = stats.get(key, 0) + 1
+            # 6=Hulpdienst, 2=Afkorting, 3=TypeVoertuig
+            if str(row[6]).strip().lower() == "brandweer":
+                afk = str(row[2]).strip()
+                typ = str(row[3]).strip()
+                key = (afk, typ)
+                counts[key] = counts.get(key, 0) + 1
     
-    with open('vehicle_counts.json', 'w', encoding='utf-8') as out_f:
-        json.dump(stats, out_f, indent=4, ensure_ascii=False)
+    # Omzetten naar lijst voor de tabel
+    result = []
+    for (afk, typ), count in counts.items():
+        result.append({"afkorting": afk, "type": typ, "aantal": count})
+    
+    with open('vehicle_counts.json', 'w', encoding='utf-8') as f:
+        json.dump(result, f, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
     process()
