@@ -53,8 +53,7 @@
             const data = await res.json();
             const tbody = document.getElementById('table-body');
             
-            // Sorteren op aantal (hoog naar laag)
-            data.sort((a,b) => b.aantal - a.aantal).forEach(item => {
+            data.forEach(item => {
                 tbody.innerHTML += `<tr>
                     <td><strong>${item.afkorting}</strong></td>
                     <td>${item.type}</td>
