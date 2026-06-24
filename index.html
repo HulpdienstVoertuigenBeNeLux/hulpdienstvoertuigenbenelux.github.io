@@ -2,41 +2,24 @@
 <html lang="nl">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brandweer Voertuigen Overzicht</title>
+    <title>Brandweer Voertuigen</title>
     <style>
         body { font-family: 'Segoe UI', Arial, sans-serif; background-color: #f4f7f6; margin: 0; padding: 20px; }
-        .container { max-width: 900px; margin: auto; background: white; border: 1px solid #ddd; border-radius: 4px; overflow: hidden; }
-        
+        .container { max-width: 800px; margin: auto; background: white; border: 1px solid #ddd; border-radius: 4px; overflow: hidden; }
         .header { background-color: #333; color: white; padding: 20px; text-align: center; }
-        .header h2 { margin: 0; }
-        
-        #last-update { padding: 10px 20px; background: #eee; font-size: 0.85em; border-bottom: 1px solid #ddd; color: #555; }
-
+        #last-update { padding: 10px 20px; background: #eee; font-size: 0.8em; border-bottom: 1px solid #ddd; }
         table { width: 100%; border-collapse: collapse; }
-        th { background-color: #f8f8f8; color: #333; padding: 12px 20px; text-align: left; border-bottom: 2px solid #ddd; text-transform: uppercase; font-size: 0.8em; letter-spacing: 1px; }
-        td { padding: 12px 20px; border-bottom: 1px solid #eee; color: #444; }
-        
-        /* Zebra-strepen zoals in je voorbeeld */
+        th { background: #f8f8f8; padding: 12px 20px; text-align: left; border-bottom: 2px solid #ddd; text-transform: uppercase; font-size: 0.8em; }
+        td { padding: 12px 20px; border-bottom: 1px solid #eee; }
         tr:nth-child(even) { background-color: #f9f9f9; }
-        tr:hover { background-color: #f1f1f1; }
     </style>
 </head>
 <body>
-
 <div class="container">
-    <div class="header">
-        <h2>Brandweer Voertuigen</h2>
-    </div>
-    <div id="last-update">Laatste update: <span class="loading">data ophalen...</span></div>
-    
+    <div class="header"><h2>Brandweer Voertuigen</h2></div>
+    <div id="last-update">Laden...</div>
     <table>
-        <thead>
-            <tr>
-                <th>Type Voertuig</th>
-                <th>Aantal</th>
-            </tr>
-        </thead>
+        <thead><tr><th>Voertuigtype (Afkorting)</th><th>Aantal</th></tr></thead>
         <tbody id="table-body"></tbody>
     </table>
 </div>
@@ -44,29 +27,19 @@
 <script>
     async function loadData() {
         try {
-            const response = await fetch('vehicle_counts.json');
-            const data = await response.json();
+            const res = await fetch('vehicle_counts.json');
+            const data = await res.json();
             const tbody = document.getElementById('table-body');
-            
-            const sortedData = Object.entries(data).sort((a, b) => b[1] - a[1]);
-
-            sortedData.forEach(([type, count]) => {
-                tbody.innerHTML += `<tr><td>${type}</td><td>${count}</td></tr>`;
+            Object.entries(data).sort((a,b) => b[1] - a[1]).forEach(([k,v]) => {
+                tbody.innerHTML += `<tr><td>${k}</td><td>${v}</td></tr>`;
             });
 
-            // Timestamp ophalen via GitHub API
-            const commitRes = await fetch('https://api.github.com/repos/HulpdienstVoertuigenBeNeLux/hulpdienstvoertuigenbenelux.github.io/commits?path=vehicle_counts.json');
+            const commitRes = await fetch('https://api.github.com/repos/JOUW_GEBRUIKERSNAAM/JOUW_REPO_NAAM/commits?path=vehicle_counts.json');
             const commits = await commitRes.json();
-            const date = new Date(commits[0].commit.committer.date);
-            
-            document.getElementById('last-update').innerText = "Laatste update: " + date.toLocaleString('nl-NL');
-        
-        } catch (error) {
-            document.getElementById('last-update').innerText = "Kon data niet laden.";
-        }
+            document.getElementById('last-update').innerText = "Laatste update: " + new Date(commits[0].commit.committer.date).toLocaleString('nl-NL');
+        } catch(e) { document.getElementById('last-update').innerText = "Fout bij laden."; }
     }
     loadData();
 </script>
-
 </body>
 </html>
