@@ -2,19 +2,33 @@
 <html lang="nl">
 <head>
     <meta charset="UTF-8">
-    <title>Brandweer Voertuig Statistieken</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brandweer Voertuigen Overzicht</title>
     <style>
-        body { font-family: sans-serif; margin: 20px; }
-        table { border-collapse: collapse; width: 100%; max-width: 600px; }
-        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-        th { background-color: #f2f2f2; }
-        #last-update { margin-top: 20px; color: #666; font-size: 0.9em; }
+        :root { --primary: #e63946; --bg: #f8f9fa; }
+        body { font-family: 'Segoe UI', Tahoma, sans-serif; background-color: var(--bg); margin: 40px; }
+        
+        .container { max-width: 800px; margin: auto; background: white; padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        
+        h2 { color: var(--primary); border-bottom: 2px solid var(--primary); padding-bottom: 10px; }
+        
+        #last-update { font-size: 0.85em; color: #666; margin-bottom: 20px; font-weight: bold; }
+
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th { background-color: var(--primary); color: white; padding: 12px; text-align: left; }
+        td { padding: 10px; border-bottom: 1px solid #eee; }
+        tr:hover { background-color: #fff5f5; }
+        
+        .loading { font-style: italic; color: #999; }
     </style>
 </head>
 <body>
 
-    <h2>Aantal Brandweervoertuigen per type</h2>
-    <table id="vehicle-table">
+<div class="container">
+    <h2>Brandweer Voertuig Statistieken</h2>
+    <div id="last-update">Laatste update: <span class="loading">data ophalen...</span></div>
+    
+    <table>
         <thead>
             <tr>
                 <th>Type Voertuig</th>
@@ -23,35 +37,38 @@
         </thead>
         <tbody id="table-body"></tbody>
     </table>
+</div>
 
-    <div id="last-update">Laatste update: Laden...</div>
-
-    <script>
-        async function loadData() {
-            try {
-                // Haal de JSON data op
-                const response = await fetch('vehicle_counts.json');
-                const data = await response.json();
-
-                const tbody = document.getElementById('table-body');
-                
-                // Vul de tabel
-                for (const [type, count] of Object.entries(data)) {
-                    const row = `<tr><td>${type}</td><td>${count}</td></tr>`;
-                    tbody.innerHTML += row;
-                }
-
-                // Haal de timestamp op van de laatste GitHub commit via de API
-                const commitResponse = await fetch('https://api.github.com/repos/JOUW_GEBRUIKERSNAAM/JOUW_REPO_NAAM/commits?path=vehicle_counts.json');
-                const commits = await commitResponse.json();
-                const date = new Date(commits[0].commit.committer.date);
-                document.getElementById('last-update').innerText = "Laatste update: " + date.toLocaleString('nl-NL');
+<script>
+    async function loadData() {
+        try {
+            // 1. Haal de JSON data op
+            const response = await fetch('vehicle_counts.json');
+            const data = await response.json();
+            const tbody = document.getElementById('table-body');
             
-            } catch (error) {
-                document.getElementById('last-update').innerText = "Fout bij laden van data.";
-            }
+            // Sorteer op aantal (hoogste eerst)
+            const sortedData = Object.entries(data).sort((a, b) => b[1] - a[1]);
+
+            sortedData.forEach(([type, count]) => {
+                tbody.innerHTML += `<tr><td>${type}</td><td>${count}</td></tr>`;
+            });
+
+            // 2. Haal timestamp op uit GitHub commit geschiedenis
+            const commitRes = await fetch('https://api.github.com/repos/HulpdienstVoertuigenBeNeLux/hulpdienstvoertuigenbenelux.github.io/commits?path=vehicle_counts.json');
+            const commits = await commitRes.json();
+            const date = new Date(commits[0].commit.committer.date);
+            
+            document.getElementById('last-update').innerHTML = 
+                `Laatste update: ${date.toLocaleString('nl-NL', { dateStyle: 'full', timeStyle: 'short' })}`;
+        
+        } catch (error) {
+            document.getElementById('last-update').innerText = "Kon data niet laden.";
+            console.error(error);
         }
-        loadData();
-    </script>
+    }
+    loadData();
+</script>
+
 </body>
 </html>
