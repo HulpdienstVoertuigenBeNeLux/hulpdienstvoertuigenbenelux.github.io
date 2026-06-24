@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'raw_data.json'
+  workflow_dispatch:
 
 jobs:
   process-stats:
