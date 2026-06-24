@@ -1,7 +1,6 @@
 import json
 import requests
 import time
-from collections import Counter
 
 def get_data():
     url = "https://hulpdienstvoertuigenbenelux.nl/fetch-sheet?region=NL"
@@ -30,12 +29,16 @@ def process():
     stats = {}
     for row in rows[1:]:
         if isinstance(row, list) and len(row) > 6:
+            # Kolomindexen op basis van jouw indeling:
+            # 2 = Afkorting
+            # 3 = TypeVoertuig
+            # 6 = Hulpdienst
             hulpdienst = str(row[6]).strip().lower()
             type_voertuig = str(row[3]).strip()
-            afkorting = str(row[4]).strip()
+            afkorting = str(row[2]).strip()
             
             if hulpdienst == "brandweer" and type_voertuig:
-                # Combineer type en afkorting
+                # Combineren: TypeVoertuig (Afkorting)
                 key = f"{type_voertuig} ({afkorting})"
                 stats[key] = stats.get(key, 0) + 1
     
