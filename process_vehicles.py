@@ -13,12 +13,15 @@ def process():
         # We maken een dictionary om te tellen met een unieke sleutel
         counts = {}
         for row in rows[1:]:
-            if isinstance(row, list) and len(row) > 6:
-                if str(row[6]).strip().lower() == "brandweer":
-                    afkorting = str(row[2]).strip()
-                    type_voertuig = str(row[3]).strip()
-                    key = (afkorting, type_voertuig)
-                    counts[key] = counts.get(key, 0) + 1
+        if isinstance(row, list) and len(row) > 6:
+            hulpdienst = str(row[6]).strip().lower()
+            afkorting = str(row[2]).strip()
+            type_voertuig = str(row[3]).strip()
+            
+            # Alleen toevoegen als hulpdienst "brandweer" is EN de afkorting/type niet leeg zijn
+            if hulpdienst == "brandweer" and afkorting and type_voertuig:
+                key = (afkorting, type_voertuig)
+                counts[key] = counts.get(key, 0) + 1
         
         # Omzetten naar de gewenste structuur: lijst van objecten
         result = []
