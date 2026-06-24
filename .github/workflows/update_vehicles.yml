@@ -1,38 +1,25 @@
-name: Update Voertuig Stats
+name: Verwerk Voertuig Data
 on:
-  schedule:
-    - cron: '0 * * * *' # Elk uur
-  workflow_dispatch: # Handmatig starten mogelijk
+  push:
+    paths:
+      - 'raw_data.json' # Workflow start alleen als dit bestand wijzigt
 
 jobs:
-  update-stats:
+  process-stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
+      - uses: actions/checkout@v4
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run script
+      - name: Run processor
         run: python process_vehicles.py
-
-      - name: Commit en push wijzigingen
+      - name: Commit en push
         run: |
-          # Controleer of het bestand bestaat voordat we git-commando's uitvoeren
-          if [ -f "vehicle_counts.json" ]; then
-            git config --global user.name 'github-actions'
-            git config --global user.email 'github-actions@github.com'
-            git add vehicle_counts.json
-            # Commit alleen als er echt iets veranderd is
-            git diff --quiet && git diff --staged --quiet || (git commit -m "Update voertuig statistieken" && git push)
-          else
-            echo "Bestand niet gevonden, overgeslagen."
-          fi
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add vehicle_counts.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update voertuig statistieken" && git push)
