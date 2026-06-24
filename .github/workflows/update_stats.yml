@@ -2,7 +2,7 @@ name: Verwerk Voertuig Data
 on:
   push:
     paths:
-      - 'raw_data.json' # Workflow start alleen als dit bestand wijzigt
+      - 'raw_data.json'
 
 jobs:
   process-stats:
@@ -21,5 +21,11 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add vehicle_counts.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update voertuig statistieken" && git push)
+          # Controleer of er wijzigingen zijn
+          if [ -n "$(git status --porcelain vehicle_counts.json)" ]; then
+            git add vehicle_counts.json
+            git commit -m "Update voertuig statistieken: $(date +'%Y-%m-%d %H:%M')"
+            git push
+          else
+            echo "Geen wijzigingen in vehicle_counts.json."
+          fi
