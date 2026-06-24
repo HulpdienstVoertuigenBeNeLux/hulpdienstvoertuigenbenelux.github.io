@@ -1,0 +1,28 @@
+name: Wekelijkse Update Afkortingen
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Maandag 00:00
+  workflow_dispatch:
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with: { python-version: '3.9' }
+      - name: Install dependencies
+        run: pip install pandas
+      - name: Run Update Script
+        env:
+          SHEET_URL: ${{ secrets.SHEET_URL }}
+        run: python update_afkortingen.py
+      - name: Commit & Push
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add Afkortingen.json
+          git commit -m "Update Afkortingen.json vanuit Secret URL"
+          git push
