@@ -2,24 +2,51 @@
 <html lang="nl">
 <head>
     <meta charset="UTF-8">
-    <title>Brandweer Voertuigen</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brandweer Voertuigen Overzicht</title>
     <style>
+        /* Algemene stijl */
         body { font-family: 'Segoe UI', Arial, sans-serif; background-color: #f4f7f6; margin: 0; padding: 20px; }
-        .container { max-width: 800px; margin: auto; background: white; border: 1px solid #ddd; border-radius: 4px; overflow: hidden; }
+        .container { max-width: 900px; margin: auto; background: white; border: 1px solid #ddd; border-radius: 6px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        
+        /* Header stijl */
         .header { background-color: #333; color: white; padding: 20px; text-align: center; }
-        #last-update { padding: 10px 20px; background: #eee; font-size: 0.8em; border-bottom: 1px solid #ddd; }
+        .header h2 { margin: 0; font-size: 1.5em; }
+        
+        /* Timestamp stijl */
+        #last-update { padding: 12px 20px; background: #eee; font-size: 0.85em; border-bottom: 1px solid #ddd; color: #555; text-align: center; font-weight: bold; }
+
+        /* Tabel stijl */
         table { width: 100%; border-collapse: collapse; }
-        th { background: #f8f8f8; padding: 12px 20px; text-align: left; border-bottom: 2px solid #ddd; text-transform: uppercase; font-size: 0.8em; }
-        td { padding: 12px 20px; border-bottom: 1px solid #eee; }
-        tr:nth-child(even) { background-color: #f9f9f9; }
+        th { background-color: #f8f8f8; color: #333; padding: 14px 20px; text-align: left; border-bottom: 2px solid #ddd; text-transform: uppercase; font-size: 0.85em; letter-spacing: 0.5px; }
+        td { padding: 14px 20px; border-bottom: 1px solid #eee; color: #444; }
+        
+        /* Zebra-strepen */
+        tr:nth-child(even) { background-color: #fcfcfc; }
+        tr:hover { background-color: #f1f1f1; transition: 0.2s; }
+        
+        /* Mobiele responsiviteit */
+        @media (max-width: 600px) {
+            th, td { padding: 10px; font-size: 0.9em; }
+        }
     </style>
 </head>
 <body>
+
 <div class="container">
-    <div class="header"><h2>Brandweer Voertuigen</h2></div>
-    <div id="last-update">Laden...</div>
+    <div class="header">
+        <h2>Brandweer Voertuigen Statistieken</h2>
+    </div>
+    <div id="last-update">Laatste update: <span class="loading">data ophalen...</span></div>
+    
     <table>
-        <thead><tr><th>Voertuigtype (Afkorting)</th><th>Aantal</th></tr></thead>
+        <thead>
+            <tr>
+                <th>Afkorting</th>
+                <th>Type Voertuig</th>
+                <th>Aantal</th>
+            </tr>
+        </thead>
         <tbody id="table-body"></tbody>
     </table>
 </div>
@@ -27,19 +54,32 @@
 <script>
     async function loadData() {
         try {
+            // Data inladen
             const res = await fetch('vehicle_counts.json');
             const data = await res.json();
             const tbody = document.getElementById('table-body');
-            Object.entries(data).sort((a,b) => b[1] - a[1]).forEach(([k,v]) => {
-                tbody.innerHTML += `<tr><td>${k}</td><td>${v}</td></tr>`;
+            
+            // Sorteren op aantal (hoog naar laag)
+            data.sort((a,b) => b.aantal - a.aantal).forEach(item => {
+                tbody.innerHTML += `<tr>
+                    <td><strong>${item.afkorting}</strong></td>
+                    <td>${item.type}</td>
+                    <td>${item.aantal}</td>
+                </tr>`;
             });
 
-            const commitRes = await fetch('https://api.github.com/repos/JOUW_GEBRUIKERSNAAM/JOUW_REPO_NAAM/commits?path=vehicle_counts.json');
+            // Timestamp ophalen via GitHub API
+            const commitRes = await fetch('https://api.github.com/repos/HulpdienstVoertuigenBeNeLux/hulpdienstvoertuigenbenelux.github.io/commits?path=vehicle_counts.json');
             const commits = await commitRes.json();
-            document.getElementById('last-update').innerText = "Laatste update: " + new Date(commits[0].commit.committer.date).toLocaleString('nl-NL');
-        } catch(e) { document.getElementById('last-update').innerText = "Fout bij laden."; }
+            const date = new Date(commits[0].commit.committer.date);
+            document.getElementById('last-update').innerText = "Laatste update: " + date.toLocaleString('nl-NL');
+        
+        } catch(e) { 
+            document.getElementById('last-update').innerText = "Kon data niet laden."; 
+        }
     }
     loadData();
 </script>
+
 </body>
 </html>
