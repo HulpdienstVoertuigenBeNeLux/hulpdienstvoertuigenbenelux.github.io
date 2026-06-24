@@ -1,0 +1,32 @@
+name: Update Voertuig Stats
+on:
+  schedule:
+    - cron: '0 * * * *' # Elk uur
+  workflow_dispatch: # Handmatig starten mogelijk
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script
+        run: python process_vehicles.py
+
+      - name: Commit en push wijzigingen
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add vehicle_counts.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update voertuig statistieken" && git push)
