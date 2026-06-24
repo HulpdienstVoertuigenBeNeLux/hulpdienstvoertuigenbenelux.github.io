@@ -19,27 +19,53 @@ def get_data():
     return None
 
 def process():
+    # 1. Laad de sorteervolgorde uit Afkortingen.json
+    try:
+        with open('Afkortingen.json', 'r', encoding='utf-8') as f:
+            sort_order_data = json.load(f)
+            # Maak een map: {"Afkorting": Volgnummer}
+            # Hiermee kunnen we supersnel opzoeken wat de positie is
+            sort_map = {item['afkorting']: i for i, item in enumerate(sort_order_data)}
+    except FileNotFoundError:
+        print("Afkortingen.json niet gevonden, sorteervolgorde wordt standaard.")
+        sort_map = {}
+
+    # 2. Haal de voertuigdata op via de API
     data = get_data()
     if not data: return
     rows = data.get("values", data) if isinstance(data, dict) else data
 
+    # 3. Tellen van de voertuigen
     counts = {}
     for row in rows[1:]:
         if isinstance(row, list) and len(row) > 6:
-            # 6=Hulpdienst, 2=Afkorting, 3=TypeVoertuig
             hulpdienst = str(row[6]).strip().lower()
-            afkorting = str(row[2]).strip()
-            type_voertuig = str(row[3]).strip()
+            afk = str(row[2]).strip()
+            typ = str(row[3]).strip()
             
-            # Filter: Brandweer en beide velden moeten ingevuld zijn
-            if hulpdienst == "brandweer" and afkorting and type_voertuig:
-                key = (afkorting, type_voertuig)
+            # Filter: alleen Brandweer en volledige data
+            if hulpdienst == "brandweer" and afk and typ:
+                key = (afk, typ)
                 counts[key] = counts.get(key, 0) + 1
     
-    result = []
-    for (afk, typ), aantal in counts.items():
-        result.append({"afkorting": afk, "type": typ, "aantal": aantal})
+    # 4. Sorteren op basis van de sort_map
+    # Gebruik 999 voor voertuigen die niet in de lijst staan (komen onderaan)
+    def sort_key(key):
+        afk = key[0]
+        return sort_map.get(afk, 999)
+
+    sorted_keys = sorted(counts.keys(), key=sort_key)
     
+    # 5. Resultaat opbouwen in de juiste volgorde
+    result = []
+    for key in sorted_keys:
+        result.append({
+            "afkorting": key[0], 
+            "type": key[1], 
+            "aantal": counts[key]
+        })
+    
+    # 6. Wegschrijven naar JSON
     with open('vehicle_counts.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, indent=4, ensure_ascii=False)
 
