@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 813
+        "aantal": 814
     },
     {
         "afkorting": "DAT",
@@ -1230,12 +1230,12 @@
         "aantal": 1
     },
     {
-        "afkorting": "Chinook",
+        "afkorting": "CHINOOK",
         "type": "Chinook Defensie t.b.v. FBO",
         "aantal": 24
     },
     {
-        "afkorting": "Cougar",
+        "afkorting": "COUGAR",
         "type": "Cougar Defensie t.b.v. FBO",
         "aantal": 17
     },
