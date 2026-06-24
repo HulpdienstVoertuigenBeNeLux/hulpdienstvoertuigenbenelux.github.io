@@ -1,0 +1,2106 @@
+[
+    {
+        "afkorting": "-",
+        "type": "- Personen vervoer niet specifiek"
+    },
+    {
+        "afkorting": "AV",
+        "type": "Aanvulling bezetting voertuig"
+    },
+    {
+        "afkorting": "DA",
+        "type": "Dienstauto"
+    },
+    {
+        "afkorting": "DAT",
+        "type": "Dienstauto terreinvaardig"
+    },
+    {
+        "afkorting": "DB",
+        "type": "Dienstbus"
+    },
+    {
+        "afkorting": "DBT",
+        "type": "Dienstbus terreinvaardig"
+    },
+    {
+        "afkorting": "PM",
+        "type": "Personeel/materieelvoertuig"
+    },
+    {
+        "afkorting": "PMT",
+        "type": "Personeel/materieelvoertuig terreinvaardig"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Inzet op water gerelateerd"
+    },
+    {
+        "afkorting": "BRV",
+        "type": "Brandweervaartuig"
+    },
+    {
+        "afkorting": "BRV-K",
+        "type": "Brandweervaartuig klein"
+    },
+    {
+        "afkorting": "BRV-M",
+        "type": "Brandweervaartuig middel"
+    },
+    {
+        "afkorting": "BRV-G",
+        "type": "Brandweervaartuig groot"
+    },
+    {
+        "afkorting": "BRV-Z",
+        "type": "Brandweervaartuig zeer groot"
+    },
+    {
+        "afkorting": "BRV-WSC",
+        "type": "Brandweervaartuig waterscooter"
+    },
+    {
+        "afkorting": "ON-BRV",
+        "type": "Ondersteuningsteam brandweervaartuig"
+    },
+    {
+        "afkorting": "DB-MIRG",
+        "type": "Dienstbus MIRG"
+    },
+    {
+        "afkorting": "HBV",
+        "type": "Havenbedrijf vaartuig"
+    },
+    {
+        "afkorting": "NRV",
+        "type": "Nationale reddingsvloot vaartuig"
+    },
+    {
+        "afkorting": "OR",
+        "type": "Oppervlakte reddingsteam voertuig"
+    },
+    {
+        "afkorting": "WO",
+        "type": "Waterongevallenvoertuig"
+    },
+    {
+        "afkorting": "WOA",
+        "type": "Waterongevallen materieel aanhanger"
+    },
+    {
+        "afkorting": "ON-WO",
+        "type": "Ondersteuningsteam waterongevallenvoertuig"
+    },
+    {
+        "afkorting": "WOV",
+        "type": "Waterongevallenvaartuig"
+    },
+    {
+        "afkorting": "WOV-K",
+        "type": "Waterongevallenvaartuig klein"
+    },
+    {
+        "afkorting": "WOV-M",
+        "type": "Waterongevallenvaartuig middel"
+    },
+    {
+        "afkorting": "WOV-G",
+        "type": "Waterongevallenvaartuig groot"
+    },
+    {
+        "afkorting": "-",
+        "type": "- IBGS materieel"
+    },
+    {
+        "afkorting": "CP",
+        "type": "Chemiepakteam voertuig"
+    },
+    {
+        "afkorting": "GP",
+        "type": "Gaspakteam voertuig"
+    },
+    {
+        "afkorting": "GPH",
+        "type": "Gaspakteam haakarmbak"
+    },
+    {
+        "afkorting": "ON-GP",
+        "type": "Ondersteuningsteam gaspakteam"
+    },
+    {
+        "afkorting": "GS",
+        "type": "Gevaarlijke stoffen voertuig"
+    },
+    {
+        "afkorting": "GSA",
+        "type": "Gevaarlijke stoffen aanhanger"
+    },
+    {
+        "afkorting": "GSH",
+        "type": "Gevaarlijke stoffen haakarmbak"
+    },
+    {
+        "afkorting": "ON-GS",
+        "type": "Ondersteuningsteam gevaarlijke stoffen voertuig"
+    },
+    {
+        "afkorting": "GSH-PBM",
+        "type": "Gevaarlijke stoffen haakarmbak met persoonlijke beschermingsmiddelen"
+    },
+    {
+        "afkorting": "GS-S",
+        "type": "Gevaarlijke stoffen voertuig specialistisch IBGS team"
+    },
+    {
+        "afkorting": "GSA-S",
+        "type": "Gevaarlijke stoffen aanhanger specialistisch IBGS team"
+    },
+    {
+        "afkorting": "GSH-S",
+        "type": "Gevaarlijke stoffen haakarmbak specialistisch IBGS team"
+    },
+    {
+        "afkorting": "GSH-LS",
+        "type": "Gevaarlijke stoffen haakarmbak landelijk specialistisch IBGS team"
+    },
+    {
+        "afkorting": "BO-DC",
+        "type": "Basis ontsmetting voertuig decontaminatie"
+    },
+    {
+        "afkorting": "BOH-DC",
+        "type": "Basis ontsmetting haakarmbak decontaminatie"
+    },
+    {
+        "afkorting": "ON-BO",
+        "type": "Ondersteuningsteam basis ontsmetting"
+    },
+    {
+        "afkorting": "TS-BO",
+        "type": "Tankautospuit ondersteuning basis ontsmetting"
+    },
+    {
+        "afkorting": "GOH-DC",
+        "type": "Grootschalige ontsmetting haakarmbak decontaminatie"
+    },
+    {
+        "afkorting": "GOH-GGO",
+        "type": "Grootschalige ontsmetting haakarmbak gebouw gebonden ontsmetting"
+    },
+    {
+        "afkorting": "GOH-LO",
+        "type": "Grootschalige ontsmetting haakarmbak logistiek"
+    },
+    {
+        "afkorting": "ON-GO",
+        "type": "Ondersteuningsteam grootschalige ontsmetting"
+    },
+    {
+        "afkorting": "TS-GO",
+        "type": "Tankautospuit ondersteuning grootschalige ontsmetting"
+    },
+    {
+        "afkorting": "OS",
+        "type": "Olieschermen voertuig"
+    },
+    {
+        "afkorting": "OSH",
+        "type": "Olieschermen haakarmbak"
+    },
+    {
+        "afkorting": "ON-OS",
+        "type": "Ondersteuningsteam olieschermen"
+    },
+    {
+        "afkorting": "VK-GS",
+        "type": "Verkenningsvoertuig IBGS"
+    },
+    {
+        "afkorting": "OG",
+        "type": "Omgevingsdienst voertuig"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Tankautospuiten branche conform"
+    },
+    {
+        "afkorting": "TS",
+        "type": "Tankautospuit"
+    },
+    {
+        "afkorting": "TST",
+        "type": "Tankautospuit terreinvaardig"
+    },
+    {
+        "afkorting": "TS-4",
+        "type": "Tankautospuit 4 mans bezetting"
+    },
+    {
+        "afkorting": "TS-IB",
+        "type": "Tankautospuit industrie brandbestrijding"
+    },
+    {
+        "afkorting": "TS-OPS",
+        "type": "Tankautospuit t.b.v. inzet bij opschaling"
+    },
+    {
+        "afkorting": "TS-RO",
+        "type": "Tankautospuit t.b.v. inzet bij rellen en \nordeverstoring"
+    },
+    {
+        "afkorting": "TS-SIB",
+        "type": "Tankautospuit inzetbaar voor \nscheepsincidentbestrijding"
+    },
+    {
+        "afkorting": "TS-SK",
+        "type": "TS Slagkracht"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Natuurbrandbestrijding"
+    },
+    {
+        "afkorting": "BU-NWS",
+        "type": "Bijzondere uitrusting natuurbrandbestrijding waterscherm"
+    },
+    {
+        "afkorting": "BMA-NWS",
+        "type": "Bijzonder materieel aanhanger met natuurbrandbestrijding waterscherm"
+    },
+    {
+        "afkorting": "BMA-NB",
+        "type": "Bijzonder materieel aanhanger met natuurbrandbestrijding materieel"
+    },
+    {
+        "afkorting": "BMH-NB",
+        "type": "Bijzonder materieel haakarmbak met natuurbrand bestrijdingmaterieel"
+    },
+    {
+        "afkorting": "HC",
+        "type": "Handcrew voertuig"
+    },
+    {
+        "afkorting": "HCH",
+        "type": "Handcrew haakarmbak"
+    },
+    {
+        "afkorting": "TS-NB",
+        "type": "Tankautospuit natuurbrandbestrijding"
+    },
+    {
+        "afkorting": "NBT-OZM",
+        "type": "Natuurbrandbestrijdingsvoertuig terreinvaardig ook zonder monitor"
+    },
+    {
+        "afkorting": "NBT",
+        "type": "Natuurbrandbestrijdingsvoertuig terreinvaardig"
+    },
+    {
+        "afkorting": "NBT-K",
+        "type": "Natuurbrandbestrijdingsvoertuig terreinvaardig klein"
+    },
+    {
+        "afkorting": "NBT-M",
+        "type": "Natuurbrandbestrijdingsvoertuig terreinvaardig middel"
+    },
+    {
+        "afkorting": "NBT-G",
+        "type": "Natuurbrandbestrijdingsvoertuig terreinvaardig groot"
+    },
+    {
+        "afkorting": "NBT-Z",
+        "type": "Natuurbrandbestrijdingsvoertuig terreinvaardig zeer groot"
+    },
+    {
+        "afkorting": "NBH",
+        "type": "Natuurbrandbestrijdingshaakarmbak"
+    },
+    {
+        "afkorting": "TST-NB",
+        "type": "Tankautospuit terreinvaardig natuurbrandbestrijding"
+    },
+    {
+        "afkorting": "VKL-NB",
+        "type": "Verkenningsvliegtuig natuurbrand"
+    },
+    {
+        "afkorting": "VKT-NB",
+        "type": "Verkenningsvoertuig terreinvaardig natuurbrandbestrijding"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Redding"
+    },
+    {
+        "afkorting": "AL",
+        "type": "Autoladder"
+    },
+    {
+        "afkorting": "AL-BB",
+        "type": "Autoladder bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "AL-QRT",
+        "type": "Autoladder QRT"
+    },
+    {
+        "afkorting": "HW-IB",
+        "type": "Hoogwerker industrie brandbestrijding"
+    },
+    {
+        "afkorting": "HW",
+        "type": "Hoogwerker"
+    },
+    {
+        "afkorting": "RV",
+        "type": "Redvoertuig"
+    },
+    {
+        "afkorting": "RV-AF",
+        "type": "Redvoertuig inzetbaar voor afhijsen "
+    },
+    {
+        "afkorting": "ON-AFT",
+        "type": "Ondersteuningsteam afhijsen tuilijnen"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Brandbestrijding niet TS of NBT"
+    },
+    {
+        "afkorting": "AS",
+        "type": "Autospuit"
+    },
+    {
+        "afkorting": "AS-IB",
+        "type": "Autospuit industrie brandbestrijding"
+    },
+    {
+        "afkorting": "SI",
+        "type": "Snel inzetbaar voertuig"
+    },
+    {
+        "afkorting": "BM-BBM",
+        "type": "Bijzonder materieel voertuig met bijzondere brandbestrijdingsmiddelen"
+    },
+    {
+        "afkorting": "BMH-BBM",
+        "type": "Bijzonder materieel haakarmbak met bijzondere brandbestrijdingsmiddelen"
+    },
+    {
+        "afkorting": "PM-BBM",
+        "type": "Personeel/materieelvoertuig met bijzondere brandbestrijdingsmiddelen"
+    },
+    {
+        "afkorting": "ON-BBM",
+        "type": "Ondersteuningsteam bijzondere \r\nbrandbestrijdingsmiddelen"
+    },
+    {
+        "afkorting": "BU-BRB",
+        "type": "Bijzondere uitrusting blusrobot"
+    },
+    {
+        "afkorting": "BM-BRB",
+        "type": "Bijzonder materieel voertuig met blusrobot"
+    },
+    {
+        "afkorting": "BMH-BRB",
+        "type": "Bijzonder materieel haakarmbak met blusrobot"
+    },
+    {
+        "afkorting": "ON-BRB",
+        "type": "Ondersteuningsteam blusrobot"
+    },
+    {
+        "afkorting": "BU-DS",
+        "type": "Bijzondere uitrusting druklucht schuim"
+    },
+    {
+        "afkorting": "BU-UHD",
+        "type": "Bijzondere uitrusting ultra hoge druk blussysteem"
+    },
+    {
+        "afkorting": "PM-UHD",
+        "type": "Personeel/materieelvoertuig ultra hoge druk blussysteem"
+    },
+    {
+        "afkorting": "ON-UHD",
+        "type": "Ondersteuningsteam ultra hoge druk blussysteem"
+    },
+    {
+        "afkorting": "BMH-SIB",
+        "type": "Bijzonder materieel haakarmbak scheepsincidentbestrijding"
+    },
+    {
+        "afkorting": "ON-SIB",
+        "type": "Ondersteuningsteam scheepsincidentbestrijding"
+    },
+    {
+        "afkorting": "BU-WS",
+        "type": "Bijzondere uitrusting waterschermsysteem"
+    },
+    {
+        "afkorting": "RI",
+        "type": "Rietdak brandbestrijdingsteam"
+    },
+    {
+        "afkorting": "ON-RI",
+        "type": "Ondersteuningsteam rietdak brandbestrijding"
+    },
+    {
+        "afkorting": "RIA",
+        "type": "Rietdak brandbestrijdingsteam aanhanger"
+    },
+    {
+        "afkorting": "RIH",
+        "type": "Rietdak brandbestrijdingsteam haakarmbak"
+    },
+    {
+        "afkorting": "PBA",
+        "type": "Poederblusaanhanger"
+    },
+    {
+        "afkorting": "PBH",
+        "type": "Poederblushaakarmbak"
+    },
+    {
+        "afkorting": "ON-SPB",
+        "type": "Ondersteuningsteam specialistische blussing"
+    },
+    {
+        "afkorting": "ON-SB",
+        "type": "Ondersteuningsteam schuimbluseenheid"
+    },
+    {
+        "afkorting": "CT",
+        "type": "Crashtender"
+    },
+    {
+        "afkorting": "SB",
+        "type": "Schuimblusvoertuig"
+    },
+    {
+        "afkorting": "SBA",
+        "type": "Schuimblusaanhanger"
+    },
+    {
+        "afkorting": "SBH",
+        "type": "Schuimblushaakarmbak"
+    },
+    {
+        "afkorting": "SBT",
+        "type": "Schuimblusvoertuig terreinvaardig"
+    },
+    {
+        "afkorting": "SB-BA",
+        "type": "Schuimblusvoertuig met blusarm"
+    },
+    {
+        "afkorting": "SB-G",
+        "type": "Schuimblusvoertuig groot"
+    },
+    {
+        "afkorting": "SBH-G",
+        "type": "Schuimblushaakarmbak groot"
+    },
+    {
+        "afkorting": "SB-Z",
+        "type": "Schuimblusvoertuig zeer groot"
+    },
+    {
+        "afkorting": "SBH-Z",
+        "type": "Schuimblushaakarmbak zeer groot"
+    },
+    {
+        "afkorting": "SVA",
+        "type": "Schuimvormend middel aanhanger"
+    },
+    {
+        "afkorting": "SVH",
+        "type": "Schuimvormend middel haakarmbak"
+    },
+    {
+        "afkorting": "ON-SV",
+        "type": "Ondersteuningsteam aanvoer schuimvormend \nmiddel"
+    },
+    {
+        "afkorting": "BPA",
+        "type": "Bron-/buispomp aanhanger"
+    },
+    {
+        "afkorting": "BPH",
+        "type": "Bron-/buispomp haakarmbak"
+    },
+    {
+        "afkorting": "KW",
+        "type": "Kleinschalige watervoorziening voertuig"
+    },
+    {
+        "afkorting": "MSA",
+        "type": "Motorspuitaanhanger"
+    },
+    {
+        "afkorting": "SL-KW",
+        "type": "Slangenvoertuig kleinschalige watervoorziening"
+    },
+    {
+        "afkorting": "SLA-KW",
+        "type": "Slangenaanhanger kleinschalige watervoorziening"
+    },
+    {
+        "afkorting": "BMH-GW",
+        "type": "Bijzonder materieel haakarmbak grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "BU-DPGW",
+        "type": "Bijzondere uitrusting dompelpomp grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "BUH-DPK",
+        "type": "Bijzondere uitrusting haakarmbak dompelpomp klein"
+    },
+    {
+        "afkorting": "BUH-DPM",
+        "type": "Bijzondere uitrusting haakarmbak dompelpomp middel"
+    },
+    {
+        "afkorting": "BUH-DPG",
+        "type": "Bijzondere uitrusting haakarmbak dompelpomp groot"
+    },
+    {
+        "afkorting": "BU-SO",
+        "type": "Bijzondere uitrusting slangen opneem apparaat"
+    },
+    {
+        "afkorting": "BU-GW",
+        "type": "Bijzondere uitrusting grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "DP-GW",
+        "type": "Dompelpompvoertuig grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "DPA-GW",
+        "type": "Dompelpompaanhanger grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "DPH-GW",
+        "type": "Dompelpomphaakarmbak grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "SL-GW",
+        "type": "Slangenvoertuig grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "SLH-GW",
+        "type": "Slangenhaakarmbak grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "ON-GW",
+        "type": "Ondersteuningsteam grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "ON-TPB",
+        "type": "Ondersteuningsteam tankput brandbestrijding"
+    },
+    {
+        "afkorting": "DPH-TPB",
+        "type": "Dompelpomphaakarmbak tankput brandbestrijding"
+    },
+    {
+        "afkorting": "DPV-TPB",
+        "type": "Dompelpompvaartuig tankput brandbestrijding"
+    },
+    {
+        "afkorting": "BMH-TPB",
+        "type": "Bijzonder materieel haakarmbak tankput brandbestrijding"
+    },
+    {
+        "afkorting": "MSA-TPB",
+        "type": "Motorspuit/boosterpompaanhanger tankput brandbestrijding"
+    },
+    {
+        "afkorting": "MSH-TPB",
+        "type": "Motorspuit/boosterpomphaakarmbak tankput brandbestrijding"
+    },
+    {
+        "afkorting": "SLH-TPB",
+        "type": "Slangenhaakarmbak tankput brandbestrijding"
+    },
+    {
+        "afkorting": "SOH-TPB",
+        "type": "Slangenopneemhaakarmbak tankput brandbestrijding"
+    },
+    {
+        "afkorting": "SVA-TPB",
+        "type": "Schuimvormend middel aanhanger tankput brandbestrijding"
+    },
+    {
+        "afkorting": "SVH-TPB",
+        "type": "Schuimvormend middel haakarmbak tankput brandbestrijding"
+    },
+    {
+        "afkorting": "WKA-TPB",
+        "type": "Waterkanonaanhanger tankput brandbestrijding"
+    },
+    {
+        "afkorting": "WKH-TPB",
+        "type": "Waterkanonhaakarmbak tankput brandbestrijding"
+    },
+    {
+        "afkorting": "ON-VN",
+        "type": "Ondersteuningsteam ventilator"
+    },
+    {
+        "afkorting": "BU-VN",
+        "type": "Bijzondere uitrusting ventilator"
+    },
+    {
+        "afkorting": "VNA",
+        "type": "Ventilatoraanhanger"
+    },
+    {
+        "afkorting": "WBH",
+        "type": "Waterbassinhaakarmbak"
+    },
+    {
+        "afkorting": "WT",
+        "type": "Watertankwagen"
+    },
+    {
+        "afkorting": "WTT",
+        "type": "Watertankwagen terreinvaardig"
+    },
+    {
+        "afkorting": "WT-G",
+        "type": "Watertankwagen groot"
+    },
+    {
+        "afkorting": "WTH",
+        "type": "Watertankhaakarmbak"
+    },
+    {
+        "afkorting": "WTA-G",
+        "type": "Watertankaanhanger groot"
+    },
+    {
+        "afkorting": "WTH-G",
+        "type": "Watertankhaakarmbak groot"
+    },
+    {
+        "afkorting": "WT-NB",
+        "type": "Watertank natuurbrandbestrijding"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Hulpverlening"
+    },
+    {
+        "afkorting": "FR-B",
+        "type": "First responder brandweer"
+    },
+    {
+        "afkorting": "MA",
+        "type": "Medische assistentie voertuig"
+    },
+    {
+        "afkorting": "PAT",
+        "type": "Patiëntenvervoer voertuig terreinvaardig"
+    },
+    {
+        "afkorting": "HV",
+        "type": "Hulpverleningsvoertuig"
+    },
+    {
+        "afkorting": "HVA",
+        "type": "Hulpverleningsaanhanger"
+    },
+    {
+        "afkorting": "HVH",
+        "type": "Hulpverleningshaakarmbak"
+    },
+    {
+        "afkorting": "HVT",
+        "type": "Hulpverleningsvoertuig terreinvaardig"
+    },
+    {
+        "afkorting": "HV-KR",
+        "type": "Hulpverleningsvoertuig met kraan"
+    },
+    {
+        "afkorting": "HVH-SAM",
+        "type": "Hulpverleningshaakarmbak SAMIJ"
+    },
+    {
+        "afkorting": "ON-HV",
+        "type": "Ondersteuningsteam hulpverlening"
+    },
+    {
+        "afkorting": "BMA-SOB",
+        "type": "Bijzonder materieel aanhanger spoorsloot overbrugging"
+    },
+    {
+        "afkorting": "BMH-SOB",
+        "type": "Bijzonder materieel haakarmbak spoorsloot overbrugging"
+    },
+    {
+        "afkorting": "ON-SOB",
+        "type": "Ondersteuningsteam spoorsloot overbrugging"
+    },
+    {
+        "afkorting": "ON-LT",
+        "type": "Ondersteuningsteam langstransport"
+    },
+    {
+        "afkorting": "BU-RTV",
+        "type": "Bijzondere uitrusting rampterrein verlichting"
+    },
+    {
+        "afkorting": "LI",
+        "type": "Verlichtingsvoertuig"
+    },
+    {
+        "afkorting": "LIA",
+        "type": "Verlichtingsaanhanger"
+    },
+    {
+        "afkorting": "LIH",
+        "type": "Verlichtingshaakarmbak"
+    },
+    {
+        "afkorting": "LIH-RTV",
+        "type": "Verlichtingshaakarmbak rampterrein verlichting"
+    },
+    {
+        "afkorting": "ON-LI",
+        "type": "Ondersteuningsteam verlichting"
+    },
+    {
+        "afkorting": "RH",
+        "type": "Redteam hoogteverschillen"
+    },
+    {
+        "afkorting": "SHH-LO",
+        "type": "Specialistische technische hulpverlening haakarmbak logistiek"
+    },
+    {
+        "afkorting": "SHH-RD",
+        "type": "Specialistische technische hulpverlening haakarmbak redding"
+    },
+    {
+        "afkorting": "SHH-ST",
+        "type": "Specialistische technische hulpverlening haakarmbak stutmaterieel"
+    },
+    {
+        "afkorting": "BMH-ST",
+        "type": "Bijzonder materieel haakarmbak stutmaterieel"
+    },
+    {
+        "afkorting": "MFT-STH",
+        "type": "Multifunctioneel voertuig terreinvaardig specialistische technische hulpverlening"
+    },
+    {
+        "afkorting": "ON-STH",
+        "type": "Ondersteuningsteam specialistische technische hulpverlening"
+    },
+    {
+        "afkorting": "BMA-USR",
+        "type": "Bijzonder materieel aanhanger USAR"
+    },
+    {
+        "afkorting": "PMT-USR",
+        "type": "Personeel/materieelvoertuig terreinvaardig USAR"
+    },
+    {
+        "afkorting": "BU-DK",
+        "type": "Bijzondere uitrusting daklijnen set"
+    },
+    {
+        "afkorting": "BU-MOR",
+        "type": "Bijzondere uitrusting metro ongeval redgereedschap"
+    },
+    {
+        "afkorting": "BU-PDB",
+        "type": "Bijzondere uitrusting paardenbroek"
+    },
+    {
+        "afkorting": "BU-RK",
+        "type": "Bijzondere uitrusting reddingskussen"
+    },
+    {
+        "afkorting": "BU-TN",
+        "type": "Bijzondere uitrusting tent"
+    },
+    {
+        "afkorting": "BU-VI",
+        "type": "Bijzondere uitrusting veetakel installatie"
+    },
+    {
+        "afkorting": "VI",
+        "type": "Veetakel installatie voertuig"
+    },
+    {
+        "afkorting": "VIA",
+        "type": "Veetakel installatie aanhanger"
+    },
+    {
+        "afkorting": "ON-VI",
+        "type": " Ondersteuningsteam veetakel installatie"
+    },
+    {
+        "afkorting": "BU-VTHS",
+        "type": "Bijzondere uitrusting veiligheidstester hoogspanning"
+    },
+    {
+        "afkorting": "BU-VTLS",
+        "type": "Bijzondere uitrusting veiligheidstester laagspanning"
+    },
+    {
+        "afkorting": "BU-ZS",
+        "type": "Bijzondere uitrusting zichtscherm"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Logistiek en overig materieel"
+    },
+    {
+        "afkorting": "AB",
+        "type": "Adembescherming voertuig"
+    },
+    {
+        "afkorting": "ABH",
+        "type": "Adembescherming haakarmbak"
+    },
+    {
+        "afkorting": "AH",
+        "type": "Arbeidshygiëne voertuig"
+    },
+    {
+        "afkorting": "AHH",
+        "type": "Arbeidshygiëne haakarmbak"
+    },
+    {
+        "afkorting": "BRM",
+        "type": "Brandweer motor"
+    },
+    {
+        "afkorting": "BS",
+        "type": "Brandstoftankwagen"
+    },
+    {
+        "afkorting": "BSA",
+        "type": "Brandstoftankaanhanger"
+    },
+    {
+        "afkorting": "BSH",
+        "type": "Brandstoftankhaakarmbak"
+    },
+    {
+        "afkorting": "BU-VVP",
+        "type": "Bijzondere uitrusting voertuigverplaatser"
+    },
+    {
+        "afkorting": "ON-VVP",
+        "type": "Ondersteuningsteam voertuigverplaatser"
+    },
+    {
+        "afkorting": "GM",
+        "type": "Gereedschap/materieelvoertuig"
+    },
+    {
+        "afkorting": "GMT",
+        "type": "Gereedschap/materieelvoertuig terreinvaardig"
+    },
+    {
+        "afkorting": "GMH",
+        "type": "Gereedschap/materieelhaakarmbak"
+    },
+    {
+        "afkorting": "TK-K",
+        "type": "Trekker klein"
+    },
+    {
+        "afkorting": "TK-G",
+        "type": "Trekker groot"
+    },
+    {
+        "afkorting": "HA",
+        "type": "Haakarmvoertuig"
+    },
+    {
+        "afkorting": "HA-KR",
+        "type": "Haakarmvoertuig met kraan"
+    },
+    {
+        "afkorting": "HA-G",
+        "type": "Haakarmvoertuig groot"
+    },
+    {
+        "afkorting": "HAT",
+        "type": "Haakarmvoertuig terreinvaardig"
+    },
+    {
+        "afkorting": "HAT-KR",
+        "type": "Haakarmvoertuig terreinvaardig met kraan"
+    },
+    {
+        "afkorting": "HAT-G",
+        "type": "Haakarmvoertuig terreinvaardig groot"
+    },
+    {
+        "afkorting": "BMH-KR",
+        "type": "Bijzonder materieel haakarmbak kraanvoertuig"
+    },
+    {
+        "afkorting": "ON-LO",
+        "type": "Ondersteuningsteam logistiek"
+    },
+    {
+        "afkorting": "LO",
+        "type": "Logistiek voertuig"
+    },
+    {
+        "afkorting": "LO-KR",
+        "type": "Logistiek voertuig met kraan"
+    },
+    {
+        "afkorting": "LOA",
+        "type": "Logistiek aanhanger"
+    },
+    {
+        "afkorting": "LOH",
+        "type": "Logistiek haakarmbak"
+    },
+    {
+        "afkorting": "LOH-KR",
+        "type": "Logistiek haakarmbak met kraan"
+    },
+    {
+        "afkorting": "LOH-O",
+        "type": "Logistiek haakarmbak open uitvoering"
+    },
+    {
+        "afkorting": "LOH-GGB",
+        "type": "Logistiek haakarmbak grootschalige geneeskundige bijstand"
+    },
+    {
+        "afkorting": "LO-ICT",
+        "type": "Logistiek voertuig ICT"
+    },
+    {
+        "afkorting": "MFT",
+        "type": "Multifunctioneel voertuig terreinvaardig"
+    },
+    {
+        "afkorting": "MFT-VER",
+        "type": "Multifunctioneel voertuig terreinvaardig verreiker"
+    },
+    {
+        "afkorting": "QR",
+        "type": "Quick response team"
+    },
+    {
+        "afkorting": "BU-SA",
+        "type": "Bijzondere uitrusting stroom aggregaat"
+    },
+    {
+        "afkorting": "SAA",
+        "type": "Stroom aggregaat aanhanger"
+    },
+    {
+        "afkorting": "SAH",
+        "type": "Stroom aggregaat haakarmbak"
+    },
+    {
+        "afkorting": "BM-TES",
+        "type": "Test eenheid"
+    },
+    {
+        "afkorting": "VK",
+        "type": "Verkenningsvoertuig"
+    },
+    {
+        "afkorting": "VKT",
+        "type": "Verkenningsvoertuig terreinvaardig"
+    },
+    {
+        "afkorting": "VK-TDV",
+        "type": "Verkenningsvoertuig team digitale verkenning"
+    },
+    {
+        "afkorting": "OP-TDV",
+        "type": "Operator team digitale verkenning"
+    },
+    {
+        "afkorting": "VKL-DRG",
+        "type": "Verkenningsluchtvaartuig groot"
+    },
+    {
+        "afkorting": "BUL-BID",
+        "type": "Bijzondere uitrusting luchtvaartuig binnen drone"
+    },
+    {
+        "afkorting": "BUL-BUD",
+        "type": "Bijzondere uitrusting luchtvaartuig buiten drone"
+    },
+    {
+        "afkorting": "BU-VRB",
+        "type": "Bijzondere uitrusting verkenningsrobot"
+    },
+    {
+        "afkorting": "BUV-OWD",
+        "type": "Bijzondere uitrusting vaartuig onderwater drone"
+    },
+    {
+        "afkorting": "BUV-SN",
+        "type": "Bijzondere uitrusting vaartuig sonar"
+    },
+    {
+        "afkorting": "ON-VZ",
+        "type": "Ondersteuningsteam verzorging"
+    },
+    {
+        "afkorting": "VZ",
+        "type": "Verzorgingsvoertuig"
+    },
+    {
+        "afkorting": "VZA",
+        "type": "Verzorgingsaanhanger"
+    },
+    {
+        "afkorting": "VZH",
+        "type": "Verzorgingshaakarmbak"
+    },
+    {
+        "afkorting": "VZ-KA",
+        "type": "Verzorgingsvoertuig met kantine"
+    },
+    {
+        "afkorting": "VZH-KA",
+        "type": "Verzorgingshaakarmbak met kantine"
+    },
+    {
+        "afkorting": "VZA-WC",
+        "type": "Verzorgingsaanhanger met WC"
+    },
+    {
+        "afkorting": "VZH-WC",
+        "type": "Verzorgingshaakarmbak met WC"
+    },
+    {
+        "afkorting": "BU-KST",
+        "type": "Bijzondere uitrusting koelstoel"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Commando en coördinatie"
+    },
+    {
+        "afkorting": "CI-B",
+        "type": "Coördinatie- en informatievoorzieningsvoertuig Brandweer"
+    },
+    {
+        "afkorting": "CIH-B",
+        "type": "Coördinatie- en informatievoorzieningshaakarmbak Brandweer"
+    },
+    {
+        "afkorting": "COH-B",
+        "type": "Commando haakarmbak Brandweer"
+    },
+    {
+        "afkorting": "CO-FBO",
+        "type": "Commando voertuig fire bucket operations"
+    },
+    {
+        "afkorting": "CO-LCM",
+        "type": "Commando voertuig leiding en coördinatie multi opschaling"
+    },
+    {
+        "afkorting": "CO-MU",
+        "type": "Commando voertuig multidisciplinair"
+    },
+    {
+        "afkorting": "COH-MU",
+        "type": "Commando haakarmbak multidisciplinair"
+    },
+    {
+        "afkorting": "COV-COW",
+        "type": "Commando vaartuig coördinatie team op het water"
+    },
+    {
+        "afkorting": "VC",
+        "type": "Verbindingscommando voertuig"
+    },
+    {
+        "afkorting": "VD-MOP",
+        "type": "Verbindingsdienst voertuig mobiel opstelpunt"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Functie posten"
+    },
+    {
+        "afkorting": "COP-DCU",
+        "type": "Commando/Coördinatiepost decentrale uitgifte"
+    },
+    {
+        "afkorting": "COP-HB",
+        "type": "Commando/Coördinatiepost havenbedrijf"
+    },
+    {
+        "afkorting": "COP-RB",
+        "type": "Commando/Coördinatiepost reddingsbrigade"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Functie voertuigen"
+    },
+    {
+        "afkorting": "AC-B",
+        "type": "Algemeen commandant brandweer"
+    },
+    {
+        "afkorting": "CDT-B",
+        "type": "Commandant Brandweer"
+    },
+    {
+        "afkorting": "CVD-B",
+        "type": "Commandant van dienst Brandweer"
+    },
+    {
+        "afkorting": "AC-CC",
+        "type": "Algemeen commandant crisiscommunicatie"
+    },
+    {
+        "afkorting": "AC-HB",
+        "type": "Algemeen commandant havenbedrijf"
+    },
+    {
+        "afkorting": "AFO",
+        "type": "Airport fire officer"
+    },
+    {
+        "afkorting": "AGS",
+        "type": "Adviseur gevaarlijke stoffen"
+    },
+    {
+        "afkorting": "AGS-ROT",
+        "type": "Adviseur gevaarlijke stoffen ROT"
+    },
+    {
+        "afkorting": "CTL-B",
+        "type": "Centralist brandweer"
+    },
+    {
+        "afkorting": "C-VE",
+        "type": "Coördinator verkenningseenheden"
+    },
+    {
+        "afkorting": "DAD",
+        "type": "Duikadviseur"
+    },
+    {
+        "afkorting": "FL",
+        "type": "Functionaris logistiek"
+    },
+    {
+        "afkorting": "GIMCOPI",
+        "type": "Geo informatie medewerker COPI"
+    },
+    {
+        "afkorting": "GIM-ROT",
+        "type": "Geo informatie medewerker ROT"
+    },
+    {
+        "afkorting": "HBEB-B",
+        "type": "Hoofd bron- en effectbestrijding"
+    },
+    {
+        "afkorting": "HGO-B",
+        "type": "Hoofd grootschalige ontsmetting Brandweer"
+    },
+    {
+        "afkorting": "HIN-B",
+        "type": "Hoofd informatie Brandweer"
+    },
+    {
+        "afkorting": "HON-B",
+        "type": "Hoofd ondersteuning Brandweer"
+    },
+    {
+        "afkorting": "HOVD-B",
+        "type": "Hoofdofficier van dienst Brandweer"
+    },
+    {
+        "afkorting": "HOVD-HB",
+        "type": "Hoofdofficier van dienst havenbedrijf"
+    },
+    {
+        "afkorting": "IC-ROT",
+        "type": "Informatiecoördinator ROT"
+    },
+    {
+        "afkorting": "IM-GBT",
+        "type": "Informatiemanager GBT"
+    },
+    {
+        "afkorting": "IM-COPI",
+        "type": "Informatiemanager COPI"
+    },
+    {
+        "afkorting": "IM-ROT",
+        "type": "Informatiemanager ROT"
+    },
+    {
+        "afkorting": "L-COPI",
+        "type": "Leider COPI"
+    },
+    {
+        "afkorting": "LA-GS",
+        "type": "Landelijk adviseur gevaarlijke stoffen"
+    },
+    {
+        "afkorting": "LA-NB",
+        "type": "Landelijk adviseur natuurbrandbestrijding"
+    },
+    {
+        "afkorting": "RA-NB",
+        "type": "Regionaal adviseur natuurbrandbestrijding"
+    },
+    {
+        "afkorting": "LA-SIB",
+        "type": "Landelijk adviseur scheepsincidentbestrijding"
+    },
+    {
+        "afkorting": "LA-STH",
+        "type": "Landelijk adviseur specialitische technische hulpverlening"
+    },
+    {
+        "afkorting": "LA-TDV",
+        "type": "Landelijk adviseur team digitale verkenning"
+    },
+    {
+        "afkorting": "LFO",
+        "type": "Landelijke faciliteit ontmantelen"
+    },
+    {
+        "afkorting": "OSC",
+        "type": "On scene commander"
+    },
+    {
+        "afkorting": "OVD-B",
+        "type": "Officier van dienst Brandweer"
+    },
+    {
+        "afkorting": "OVD-BZ",
+        "type": "Officier van dienst bevolkingszorg"
+    },
+    {
+        "afkorting": "OVD-HB",
+        "type": "Officier van dienst havenbedrijf"
+    },
+    {
+        "afkorting": "OVD-MB",
+        "type": "Officier van dienst Marinebrandweer"
+    },
+    {
+        "afkorting": "OVDRAIL",
+        "type": "Officier van dienst ProRail"
+    },
+    {
+        "afkorting": "PC-B",
+        "type": "Pelotonscommandant Brandweer"
+    },
+    {
+        "afkorting": "PC-GO",
+        "type": "Pelotonscommandant grootschalige ontsmetting"
+    },
+    {
+        "afkorting": "PC-GS",
+        "type": "Pelotonscommandant IBGS"
+    },
+    {
+        "afkorting": "PC-GW",
+        "type": "Pelotonscommandant grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "PC-GWNB",
+        "type": "Pelotonscommandant grootschalige watervoorziening natuurbrandbestrijding"
+    },
+    {
+        "afkorting": "PC-L",
+        "type": "Pelotonscommandant logistiek"
+    },
+    {
+        "afkorting": "PC-NB",
+        "type": "Pelotonscommandant natuurbrandbestrijding"
+    },
+    {
+        "afkorting": "PC-R",
+        "type": "Pelotonscommandant redding"
+    },
+    {
+        "afkorting": "PC-SIB",
+        "type": "Pelotonscommandant scheepsincidentbestrijding"
+    },
+    {
+        "afkorting": "PC-SPB",
+        "type": "Pelotonscommandant specialistische blussing"
+    },
+    {
+        "afkorting": "PC-TPB",
+        "type": "Pelotonscommandant tankput brandbestrijding"
+    },
+    {
+        "afkorting": "PR",
+        "type": "Preventie"
+    },
+    {
+        "afkorting": "ROL",
+        "type": "Regionaal operationeel leider"
+    },
+    {
+        "afkorting": "TBO",
+        "type": "Team brandonderzoek"
+    },
+    {
+        "afkorting": "TC-B",
+        "type": "Taakcommandant Brandweer"
+    },
+    {
+        "afkorting": "TD",
+        "type": "Technische dienst"
+    },
+    {
+        "afkorting": "TL-HC",
+        "type": "Teamleider handcrew"
+    },
+    {
+        "afkorting": "TL-QRT",
+        "type": "Teamleider quick response team"
+    },
+    {
+        "afkorting": "TL-RH",
+        "type": "Teamleider redteam hoogteverschillen"
+    },
+    {
+        "afkorting": "TL-STH",
+        "type": "Teamleider specialitische technische hulpverlening"
+    },
+    {
+        "afkorting": "TL-TDV",
+        "type": "Teamleider team digitale verkenning"
+    },
+    {
+        "afkorting": "TO-MKB",
+        "type": "Tactisch officier meldkamer Brandweer"
+    },
+    {
+        "afkorting": "VD",
+        "type": "Verbindingsdienst"
+    },
+    {
+        "afkorting": "VL-B",
+        "type": "Voorlichter Brandweer"
+    },
+    {
+        "afkorting": "-",
+        "type": "- KNRM en RB taken gerelateerd"
+    },
+    {
+        "afkorting": "CI-RB",
+        "type": "Coördinatie- en informatievoorzieningsvoertuig Reddingsbrigade"
+    },
+    {
+        "afkorting": "LG",
+        "type": "Lifeguard team"
+    },
+    {
+        "afkorting": "SRT",
+        "type": "Surf rescue team terreinvaardig"
+    },
+    {
+        "afkorting": "RB",
+        "type": "Reddingsbrigade voertuig"
+    },
+    {
+        "afkorting": "RBT",
+        "type": "Reddingsbrigade voertuig terreinvaardig"
+    },
+    {
+        "afkorting": "RMT-KHV",
+        "type": "Reddingsmaatschappij voertuig terreinvaardig kusthulpverleningsvoertuig"
+    },
+    {
+        "afkorting": "RBV",
+        "type": "Reddingsbrigade vaartuig"
+    },
+    {
+        "afkorting": "RMV",
+        "type": "Reddingsmaatschappij vaartuig"
+    },
+    {
+        "afkorting": "RMV-WSC",
+        "type": "Reddingsmaatschappij vaartuig waterscooter"
+    },
+    {
+        "afkorting": "RBV-WSC",
+        "type": "Reddingsbrigade vaartuig waterscooter"
+    },
+    {
+        "afkorting": "MFT-RB",
+        "type": "Multifunctioneel voertuig terreinvaardig Reddingsbrigade"
+    },
+    {
+        "afkorting": "OVD-RB",
+        "type": "Officier van dienst Reddingsbrigade"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Defensie materieel en functies"
+    },
+    {
+        "afkorting": "DA-DF",
+        "type": "Dienstauto Defensie"
+    },
+    {
+        "afkorting": "DB-DF",
+        "type": "Dienstbus Defensie"
+    },
+    {
+        "afkorting": "PM-DF",
+        "type": "Personeel/materieelvoertuig Defensie"
+    },
+    {
+        "afkorting": "WO-DF",
+        "type": "Waterongevallenvoertuig Defensie"
+    },
+    {
+        "afkorting": "TS-DF",
+        "type": "Tankautospuit Defensie"
+    },
+    {
+        "afkorting": "TST-DF",
+        "type": "Tankautospuit terreinvaardig Defensie"
+    },
+    {
+        "afkorting": "HW-DF",
+        "type": "Hoogwerker Defensie"
+    },
+    {
+        "afkorting": "MSA-DF",
+        "type": "Motorspuitaanhanger Defensie"
+    },
+    {
+        "afkorting": "WT-DF",
+        "type": "Watertankwagen Defensie"
+    },
+    {
+        "afkorting": "WTH-DF",
+        "type": "Watertankhaakarmbak Defensie"
+    },
+    {
+        "afkorting": "CT-DF",
+        "type": "Crashtender Defensie"
+    },
+    {
+        "afkorting": "FR-DF",
+        "type": "First responder Defensie"
+    },
+    {
+        "afkorting": "HAT-DF",
+        "type": "Haakarmvoertuig Defensie"
+    },
+    {
+        "afkorting": "GM-DF",
+        "type": "Gereedschap/materieelvoertuig Defensie"
+    },
+    {
+        "afkorting": "LOH-DF",
+        "type": "Logistiek haakarmbak Defensie"
+    },
+    {
+        "afkorting": "HA-DF",
+        "type": "Haakarmvoertuig Defensie"
+    },
+    {
+        "afkorting": "OVD-DF",
+        "type": "Officier van dienst Defensie"
+    },
+    {
+        "afkorting": "OSC-DF",
+        "type": "On scene commander Defensie"
+    },
+    {
+        "afkorting": "VC-DF",
+        "type": "Verbindingscommando voertuig Defensie"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Bedrijfsbrw mat. en functies"
+    },
+    {
+        "afkorting": "BB",
+        "type": "Bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "DA-BB",
+        "type": "Dienstauto bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "DB-BB",
+        "type": "Dienstbus bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "TS-BB",
+        "type": "Tankautospuit bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "SB-BB",
+        "type": "Schuimblusvoertuig bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "HV-BB",
+        "type": "Hulpverleningsvoertuig bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "HA-BB",
+        "type": "Haakarmvoertuig bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "OVD-BB",
+        "type": "Officier van dienst bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "PM-BB",
+        "type": "Personeel/materieelvoertuig bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "GS-BB",
+        "type": "Gevaarlijke stoffen voertuig bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "GSH-BB",
+        "type": "Gevaarlijke stoffen haakarmbak bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "AS-BB",
+        "type": "Autospuit bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Opleidingsmaterieel en functies"
+    },
+    {
+        "afkorting": "OO",
+        "type": "Opleidingsvoertuig"
+    },
+    {
+        "afkorting": "BMA-OTO",
+        "type": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen"
+    },
+    {
+        "afkorting": "BMH-OTO",
+        "type": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen"
+    },
+    {
+        "afkorting": "TS-OTO",
+        "type": "Tankautospuit t.b.v. opleiding, training en oefenen"
+    },
+    {
+        "afkorting": "HV-OTO",
+        "type": "Hulpverleningsvoertuig t.b.v. opleiding, training en oefenen"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Peloton selectie rollen"
+    },
+    {
+        "afkorting": "TS-PLB",
+        "type": "Tankautospuit basis peloton"
+    },
+    {
+        "afkorting": "HV-PLB",
+        "type": "Hulpverleningsvoertuig basis peloton"
+    },
+    {
+        "afkorting": "TS-PLG",
+        "type": "Tankautospuit peloton IBGS"
+    },
+    {
+        "afkorting": "HV-PLG",
+        "type": "Hulpverleningsvoertuig peloton IBGS"
+    },
+    {
+        "afkorting": "ON-PLL",
+        "type": "Ondersteuningsteam peloton logistiek en ondersteuning"
+    },
+    {
+        "afkorting": "HV-PLR",
+        "type": "Hulpverleningsvoertuig peloton redding"
+    },
+    {
+        "afkorting": "ON-PLR",
+        "type": "Ondersteuningsteam peloton redding"
+    },
+    {
+        "afkorting": "TS-PLR",
+        "type": "Tankautospuit peloton redding"
+    },
+    {
+        "afkorting": "SB-PLS",
+        "type": "Schuimblusvoertuig peloton specialistische blussing"
+    },
+    {
+        "afkorting": "DP-PLS",
+        "type": "Dompelpomp peloton specialistische blussing"
+    },
+    {
+        "afkorting": "SL-PLS",
+        "type": "Slangenvoertuig peloton specialistische blussing"
+    },
+    {
+        "afkorting": "SV-PLS",
+        "type": "Schuimvormend middel haakarmbak peloton specialistische blussing"
+    },
+    {
+        "afkorting": "TS-PLS",
+        "type": "Tankautospuit peloton specialistische blussing"
+    },
+    {
+        "afkorting": "DP-PLW",
+        "type": "Dompelpompvoertuig peloton grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "SL-PLW",
+        "type": "Slangenhaakarmbak peloton grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "ON-PLW",
+        "type": "Ondersteuningsteam peloton grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Rollen tbv selectie bij noodprocedure en noodalarmering"
+    },
+    {
+        "afkorting": "BRV-NA",
+        "type": "BRV Noodalarmering"
+    },
+    {
+        "afkorting": "BRV-NO",
+        "type": "BRV Noodprocedure"
+    },
+    {
+        "afkorting": "GP-NA",
+        "type": "GP Noodalarmering"
+    },
+    {
+        "afkorting": "GP-NO",
+        "type": "GP Noodprocedure"
+    },
+    {
+        "afkorting": "HV-NA",
+        "type": "HV Noodalarmering"
+    },
+    {
+        "afkorting": "HV-NO",
+        "type": "HV Noodprocedure"
+    },
+    {
+        "afkorting": "NBT-NA",
+        "type": "NBT Noodalarmering"
+    },
+    {
+        "afkorting": "TS-NA",
+        "type": "TS Noodalarmering"
+    },
+    {
+        "afkorting": "TS-NO",
+        "type": "TS Noodprocedure"
+    },
+    {
+        "afkorting": "RV-NA",
+        "type": "RV Noodalarmering"
+    },
+    {
+        "afkorting": "RV-NO",
+        "type": "RV Noodprocedure"
+    },
+    {
+        "afkorting": "WT-NA",
+        "type": "WT Noodalarmering"
+    },
+    {
+        "afkorting": "OR-NA",
+        "type": "OR Noodalarmering"
+    },
+    {
+        "afkorting": "OR-NO",
+        "type": "OR Noodprocedure"
+    },
+    {
+        "afkorting": "WO-NA",
+        "type": "WO Noodalarmering"
+    },
+    {
+        "afkorting": "WO-NO",
+        "type": "WO Noodprocedure"
+    },
+    {
+        "afkorting": "WOV-NA",
+        "type": "WOV Noodalarmering"
+    },
+    {
+        "afkorting": "WOV-NO",
+        "type": "WOV Noodprocedure"
+    },
+    {
+        "afkorting": "AGS-NA",
+        "type": "AGS Noodalarmering"
+    },
+    {
+        "afkorting": "OVD-NA",
+        "type": "OVD-B Noodalarmering"
+    },
+    {
+        "afkorting": "OVD-NO",
+        "type": "OVD-B Noodprocedure"
+    },
+    {
+        "afkorting": "HOVD-NA",
+        "type": "HOVD-B Noodalarmering"
+    },
+    {
+        "afkorting": "HOVD-NO",
+        "type": "HOVD-B Noodprocedure"
+    },
+    {
+        "afkorting": "-",
+        "type": "- GHOR/RAV (RA)"
+    },
+    {
+        "afkorting": "AC-G",
+        "type": "Algemeen commandant geneeskundige zorg"
+    },
+    {
+        "afkorting": "AGS-G",
+        "type": "Adviseur gevaarlijke stoffen geneeskundige zorg"
+    },
+    {
+        "afkorting": "AMBU",
+        "type": "Ambulance"
+    },
+    {
+        "afkorting": "AMBU-HC",
+        "type": "Ambulance hoogcomplexe zorg"
+    },
+    {
+        "afkorting": "AMBU-MC",
+        "type": "Ambulance middencomplexe zorg"
+    },
+    {
+        "afkorting": "AMBU-LC",
+        "type": "Ambulance laagcomplexe zorg"
+    },
+    {
+        "afkorting": "AMBU-DF",
+        "type": "Ambulance Defensie"
+    },
+    {
+        "afkorting": "AMBU-IT",
+        "type": "Ambulance internationaal"
+    },
+    {
+        "afkorting": "AMBU-PZ",
+        "type": "Ambulance psychiatrische zorg"
+    },
+    {
+        "afkorting": "AMBU-SC",
+        "type": "Ambulance special care"
+    },
+    {
+        "afkorting": "ARTS",
+        "type": "Arts voertuig"
+    },
+    {
+        "afkorting": "ARTS-HP",
+        "type": "Huisarts voertuig"
+    },
+    {
+        "afkorting": "ARTS-SC",
+        "type": "Arts voertuig special care"
+    },
+    {
+        "afkorting": "BT-RA",
+        "type": "Biketeam regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "CA-RA",
+        "type": "Calamiteitenvoertuig regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "CO-RA",
+        "type": "Commando voertuig regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "CVD-G",
+        "type": "Commandant van dienst geneeskundige zorg"
+    },
+    {
+        "afkorting": "CGV",
+        "type": "Coördinator gewondenvervoer"
+    },
+    {
+        "afkorting": "DA-RA",
+        "type": "Dienstauto regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "DB-RA",
+        "type": "Dienstbus regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "GGB",
+        "type": "Grootschalige geneeskundige bijstand voertuig"
+    },
+    {
+        "afkorting": "HART",
+        "type": "Hazardous Area Response Team voertuig"
+    },
+    {
+        "afkorting": "HA-RA",
+        "type": "Haakarmvoertuig regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "HIN-RA",
+        "type": "Hoofd informatie regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "HON-RA",
+        "type": "Hoofd ondersteuning regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "HOVD-G",
+        "type": "Hoofdofficier van dienst geneeskundige zorg"
+    },
+    {
+        "afkorting": "MFT-RA",
+        "type": "Multifunctioneel terreinvoertuig regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "MICU",
+        "type": "Mobiele intensive care unit"
+    },
+    {
+        "afkorting": "MMT",
+        "type": "Mobiel medisch team voertuig"
+    },
+    {
+        "afkorting": "MMTL",
+        "type": "Mobiel medisch team luchtvaartuig"
+    },
+    {
+        "afkorting": "NICU",
+        "type": "Neonatale intensive care unit"
+    },
+    {
+        "afkorting": "ON-RA",
+        "type": "Ondersteuningsteam regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "OO-RA",
+        "type": "Opleiding voertuig regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "OVD-G",
+        "type": "Officier van dienst geneeskundige zorg"
+    },
+    {
+        "afkorting": "OVDG-RR",
+        "type": "Officier van dienst geneeskundige zorg rapid responder"
+    },
+    {
+        "afkorting": "OVDG-DF",
+        "type": "Officier van dienst geneeskundige zorg Defensie"
+    },
+    {
+        "afkorting": "PAL-RA",
+        "type": "Patiëntenvervoer luchtvaartuig regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "PICU",
+        "type": "Pediatrische intensive care unit"
+    },
+    {
+        "afkorting": "RA",
+        "type": "Regionale ambulancevoorziening voertuig"
+    },
+    {
+        "afkorting": "RAA",
+        "type": "Regionale ambulancevoorziening aanhanger"
+    },
+    {
+        "afkorting": "RAH",
+        "type": "Regionale ambulancevoorziening haakarmbak"
+    },
+    {
+        "afkorting": "RAV",
+        "type": "Regionale ambulancevoorziening vaartuig"
+    },
+    {
+        "afkorting": "RGF",
+        "type": "Regionaal geneeskundig functionaris"
+    },
+    {
+        "afkorting": "RR",
+        "type": "Rapid responder"
+    },
+    {
+        "afkorting": "RR-VS",
+        "type": "Rapid responder verpleegkundig specialist"
+    },
+    {
+        "afkorting": "RRM",
+        "type": "Rapid responder motor"
+    },
+    {
+        "afkorting": "SC",
+        "type": "Special care voertuig"
+    },
+    {
+        "afkorting": "SORT",
+        "type": "Special Operations Response Team voertuig"
+    },
+    {
+        "afkorting": "LO-RA",
+        "type": "Logistiek voertuig regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "LOA-RA",
+        "type": "Logistiek aanhanger regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "LOH-RA",
+        "type": "Logistiek haakarmbak regionale ambulancevoorziening"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Nederlandse Rode Kruis (RK)"
+    },
+    {
+        "afkorting": "AMBU-RK",
+        "type": "Ambulance Rode Kruis"
+    },
+    {
+        "afkorting": "BT-RK",
+        "type": "Biketeam Rode Kruis"
+    },
+    {
+        "afkorting": "CO-RK",
+        "type": "Commando voertuig Rode Kruis"
+    },
+    {
+        "afkorting": "COP-RK",
+        "type": "Commando-/Coördinatiepost Rode Kruis"
+    },
+    {
+        "afkorting": "DA-RK",
+        "type": "Dienstauto Rode Kruis"
+    },
+    {
+        "afkorting": "DB-RK",
+        "type": "Dienstbus Rode Kruis"
+    },
+    {
+        "afkorting": "HA-RK",
+        "type": "Haakarmvoertuig Rode Kruis"
+    },
+    {
+        "afkorting": "LO-RK",
+        "type": "Logistiek voertuig Rode Kruis"
+    },
+    {
+        "afkorting": "NHT",
+        "type": "Noodhulpteam voertuig Rode Kruis"
+    },
+    {
+        "afkorting": "ON-RK",
+        "type": "Ondersteuningsteam voertuig Rode Kruis"
+    },
+    {
+        "afkorting": "RK",
+        "type": "Rode Kruis voertuig"
+    },
+    {
+        "afkorting": "RKA",
+        "type": "Rode Kruis aanhanger"
+    },
+    {
+        "afkorting": "RKA-MP",
+        "type": "Rode Kruis aanhanger mobiele post"
+    },
+    {
+        "afkorting": "RKH",
+        "type": "Rode Kruis haakarmbak"
+    },
+    {
+        "afkorting": "RKH-MP",
+        "type": "Rode Kruis haakarmbak mobiele post"
+    },
+    {
+        "afkorting": "RR-RK",
+        "type": "Rapid responder Rode Kruis"
+    },
+    {
+        "afkorting": "TK-RK",
+        "type": "Trekker Rode Kruis"
+    },
+    {
+        "afkorting": "VZ-RK",
+        "type": "Verzorging voertuig Rode Kruis"
+    },
+    {
+        "afkorting": "-",
+        "type": "- Evenementenhulpverlening (EH)"
+    },
+    {
+        "afkorting": "EH",
+        "type": "Evenementenhulpverlening voertuig"
+    },
+    {
+        "afkorting": "AMBU-EH",
+        "type": "Ambulance evenementenhulpverlening"
+    },
+    {
+        "afkorting": "BT-EH",
+        "type": "Biketeam evenementenhulpverlening"
+    },
+    {
+        "afkorting": "CA-EH",
+        "type": "Calamiteiten voertuig evenementenhulpverlening"
+    },
+    {
+        "afkorting": "MFT-EH",
+        "type": "Multifunctioneel terreinvoertuig evenementenhulpverlening"
+    },
+    {
+        "afkorting": "RR-EH",
+        "type": "Rapid responder evenementenhulpverlening"
+    },
+    {
+        "afkorting": "RRM-EH",
+        "type": "Rapid responder motor evenementenhulpverlening"
+    },
+    {
+        "afkorting": "-",
+        "type": "- OVERIG/TEST"
+    },
+    {
+        "afkorting": "Chinook",
+        "type": "Chinook Defensie t.b.v. FBO"
+    },
+    {
+        "afkorting": "Cougar",
+        "type": "Cougar Defensie t.b.v. FBO"
+    }
+]
