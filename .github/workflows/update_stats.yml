@@ -6,27 +6,20 @@ on:
   workflow_dispatch:
 
 jobs:
-  process-stats:
+  run-script:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
       - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      - name: Run processor
-        run: python process_vehicles.py
+        run: pip install requests
+      - name: Run script
+        run: python process_vehicles.py # Dit script haalt nu zelf op en slaat op
       - name: Commit en push
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          # Controleer of er wijzigingen zijn
-          if [ -n "$(git status --porcelain vehicle_counts.json)" ]; then
-            git add vehicle_counts.json
-            git commit -m "Update voertuig statistieken: $(date +'%Y-%m-%d %H:%M')"
-            git push
-          else
-            echo "Geen wijzigingen in vehicle_counts.json."
-          fi
+          # Voeg zowel de raw data als de nieuwe statistieken toe
+          git add raw/ vehicle_counts.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update voertuig data en statistieken" && git push)
