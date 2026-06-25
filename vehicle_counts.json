@@ -17,7 +17,7 @@
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
-        "aantal": 156
+        "aantal": 155
     },
     {
         "afkorting": "PMT",
@@ -162,7 +162,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1146
+        "aantal": 1143
     },
     {
         "afkorting": "TST",
@@ -437,7 +437,7 @@
     {
         "afkorting": "ON-GW",
         "type": "Ondersteuningsteam grootschalige watervoorziening",
-        "aantal": 6
+        "aantal": 7
     },
     {
         "afkorting": "MSH-TPB",
@@ -1217,7 +1217,7 @@
     {
         "afkorting": "TS-OTO",
         "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
-        "aantal": 14
+        "aantal": 17
     },
     {
         "afkorting": "HV-OTO",
