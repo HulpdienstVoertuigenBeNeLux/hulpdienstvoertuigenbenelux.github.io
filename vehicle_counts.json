@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 814
+        "aantal": 809
     },
     {
         "afkorting": "DAT",
@@ -12,7 +12,7 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 708
+        "aantal": 707
     },
     {
         "afkorting": "PM",
@@ -80,7 +80,7 @@
         "aantal": 6
     },
     {
-        "afkorting": "WOV-G",
+        "afkorting": "WOV-M",
         "type": "Waterongevallenvaartuig groot",
         "aantal": 1
     },
@@ -152,7 +152,7 @@
     {
         "afkorting": "VK-GS",
         "type": "Verkenningsvoertuig IBGS",
-        "aantal": 74
+        "aantal": 73
     },
     {
         "afkorting": "OG",
@@ -162,7 +162,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1143
+        "aantal": 1140
     },
     {
         "afkorting": "TST",
@@ -230,7 +230,7 @@
         "aantal": 78
     },
     {
-        "afkorting": "AL-QRT",
+        "afkorting": "AL",
         "type": "Autoladder QRT",
         "aantal": 1
     },
@@ -243,6 +243,11 @@
         "afkorting": "HW",
         "type": "Hoogwerker",
         "aantal": 95
+    },
+    {
+        "afkorting": "HW",
+        "type": "Tankautospuit",
+        "aantal": 1
     },
     {
         "afkorting": "RV",
@@ -527,7 +532,7 @@
     {
         "afkorting": "HV",
         "type": "Hulpverleningsvoertuig",
-        "aantal": 46
+        "aantal": 45
     },
     {
         "afkorting": "HVA",
@@ -652,7 +657,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 145
+        "aantal": 143
     },
     {
         "afkorting": "GMT",
