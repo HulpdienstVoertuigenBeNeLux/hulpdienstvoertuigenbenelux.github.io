@@ -897,7 +897,12 @@
     {
         "afkorting": "AGS",
         "type": "Adviseur gevaarlijke stoffen",
-        "aantal": 30
+        "aantal": 29
+    },
+    {
+        "afkorting": "AGS-ROT",
+        "type": "Adviseur gevaarlijke stoffen ROT",
+        "aantal": 1
     },
     {
         "afkorting": "CTL-B",
@@ -937,7 +942,7 @@
     {
         "afkorting": "HOVD-B",
         "type": "Hoofdofficier van dienst Brandweer",
-        "aantal": 48
+        "aantal": 49
     },
     {
         "afkorting": "HOVD-HB",
@@ -1238,10 +1243,5 @@
         "afkorting": "COUGAR",
         "type": "Cougar Defensie t.b.v. FBO",
         "aantal": 17
-    },
-    {
-        "afkorting": "ONBEKEND",
-        "type": "ONBEKEND",
-        "aantal": 1
     }
 ]
