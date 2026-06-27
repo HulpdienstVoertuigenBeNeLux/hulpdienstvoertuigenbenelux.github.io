@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 809
+        "aantal": 808
     },
     {
         "afkorting": "DAT",
@@ -12,7 +12,7 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 707
+        "aantal": 706
     },
     {
         "afkorting": "PM",
@@ -1082,7 +1082,7 @@
     {
         "afkorting": "TS-DF",
         "type": "Tankautospuit Defensie",
-        "aantal": 23
+        "aantal": 22
     },
     {
         "afkorting": "TST-DF",
