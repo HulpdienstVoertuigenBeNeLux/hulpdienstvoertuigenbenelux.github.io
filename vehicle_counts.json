@@ -77,12 +77,7 @@
     {
         "afkorting": "WOV-M",
         "type": "Waterongevallenvaartuig middel",
-        "aantal": 6
-    },
-    {
-        "afkorting": "WOV-M",
-        "type": "Waterongevallenvaartuig groot",
-        "aantal": 1
+        "aantal": 7
     },
     {
         "afkorting": "GP",
@@ -170,6 +165,11 @@
         "aantal": 127
     },
     {
+        "afkorting": "TS-4",
+        "type": "Tankautospuit 4 mans bezetting",
+        "aantal": 1
+    },
+    {
         "afkorting": "TS-IB",
         "type": "Tankautospuit industrie brandbestrijding",
         "aantal": 14
@@ -227,12 +227,7 @@
     {
         "afkorting": "AL",
         "type": "Autoladder",
-        "aantal": 78
-    },
-    {
-        "afkorting": "AL",
-        "type": "Autoladder QRT",
-        "aantal": 1
+        "aantal": 79
     },
     {
         "afkorting": "HW-IB",
@@ -242,12 +237,7 @@
     {
         "afkorting": "HW",
         "type": "Hoogwerker",
-        "aantal": 95
-    },
-    {
-        "afkorting": "HW",
-        "type": "Tankautospuit",
-        "aantal": 1
+        "aantal": 96
     },
     {
         "afkorting": "RV",
@@ -737,7 +727,7 @@
     {
         "afkorting": "LOH-O",
         "type": "Logistiek haakarmbak open uitvoering",
-        "aantal": 26
+        "aantal": 27
     },
     {
         "afkorting": "LO-ICT",
@@ -1248,5 +1238,10 @@
         "afkorting": "COUGAR",
         "type": "Cougar Defensie t.b.v. FBO",
         "aantal": 17
+    },
+    {
+        "afkorting": "ONBEKEND",
+        "type": "Invoer Error",
+        "aantal": 1
     }
 ]
