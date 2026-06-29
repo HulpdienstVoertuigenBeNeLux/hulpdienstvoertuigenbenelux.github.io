@@ -1985,6 +1985,22 @@
     },
     {
         "afkorting": "-",
+        "type": "- Bevestigde afkortingen RAV"
+    },
+    {
+        "afkorting": "RES-PKT",
+        "type": "Reserve piketvoertuig"
+    },
+    {
+        "afkorting": "OVDG-N",
+        "type": "Officier van dienst geneeskundige zorg ?"
+    },
+    {
+        "afkorting": "OVDG-Z",
+        "type": "Officier van dienst geneeskundige zorg ?"
+    },
+    {
+        "afkorting": "-",
         "type": "- Nederlandse Rode Kruis (RK)"
     },
     {
