@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 812
+        "aantal": 810
     },
     {
         "afkorting": "DAT",
@@ -665,6 +665,11 @@
         "aantal": 7
     },
     {
+        "afkorting": "GMH",
+        "type": "Logistiek haakarmbak open uitvoering",
+        "aantal": 2
+    },
+    {
         "afkorting": "TK-K",
         "type": "Trekker klein",
         "aantal": 7
@@ -732,7 +737,7 @@
     {
         "afkorting": "LOH-O",
         "type": "Logistiek haakarmbak open uitvoering",
-        "aantal": 27
+        "aantal": 25
     },
     {
         "afkorting": "LO-ICT",
@@ -1248,5 +1253,10 @@
         "afkorting": "ONBEKEND",
         "type": "Invoer Error",
         "aantal": 1
+    },
+    {
+        "afkorting": "ONBEKEND",
+        "type": "Dienstauto",
+        "aantal": 2
     }
 ]
