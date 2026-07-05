@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 811
+        "aantal": 812
     },
     {
         "afkorting": "DAT",
@@ -12,7 +12,7 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 706
+        "aantal": 707
     },
     {
         "afkorting": "PM",
@@ -647,7 +647,12 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 143
+        "aantal": 144
+    },
+    {
+        "afkorting": "GM",
+        "type": "Dienstbus",
+        "aantal": 1
     },
     {
         "afkorting": "GMT",
