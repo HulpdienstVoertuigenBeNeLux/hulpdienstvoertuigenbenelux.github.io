@@ -1988,6 +1988,10 @@
         "type": "- Bevestigde afkortingen RAV"
     },
     {
+        "afkorting": "RAPID",
+        "type": "Rapid responder"
+    },
+    {
         "afkorting": "RES-PKT",
         "type": "Reserve piketvoertuig"
     },
