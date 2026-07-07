@@ -176,7 +176,7 @@
     },
     {
         "afkorting": "TS-RO",
-        "type": "Tankautospuit t.b.v. inzet bij rellen en \nordeverstoring",
+        "type": "Tankautospuit t.b.v. inzet bij rellen en ordeverstoring",
         "aantal": 1
     },
     {
@@ -187,7 +187,7 @@
     {
         "afkorting": "TS-SK",
         "type": "TS Slagkracht",
-        "aantal": 3
+        "aantal": 4
     },
     {
         "afkorting": "BMA-NWS",
@@ -647,7 +647,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 144
+        "aantal": 145
     },
     {
         "afkorting": "GM",
@@ -890,6 +890,11 @@
         "aantal": 18
     },
     {
+        "afkorting": "AC-CC",
+        "type": "Algemeen commandant crisiscommunicatie",
+        "aantal": 1
+    },
+    {
         "afkorting": "AC-HB",
         "type": "Algemeen commandant havenbedrijf",
         "aantal": 2
@@ -1057,7 +1062,7 @@
     {
         "afkorting": "VL-B",
         "type": "Voorlichter Brandweer",
-        "aantal": 28
+        "aantal": 27
     },
     {
         "afkorting": "DA-DF",
