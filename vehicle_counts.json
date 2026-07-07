@@ -342,7 +342,7 @@
     {
         "afkorting": "SBH",
         "type": "Schuimblushaakarmbak",
-        "aantal": 21
+        "aantal": 22
     },
     {
         "afkorting": "SBT",
@@ -647,7 +647,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 145
+        "aantal": 147
     },
     {
         "afkorting": "GM",
@@ -952,7 +952,7 @@
     {
         "afkorting": "HOVD-B",
         "type": "Hoofdofficier van dienst Brandweer",
-        "aantal": 49
+        "aantal": 50
     },
     {
         "afkorting": "HOVD-HB",
