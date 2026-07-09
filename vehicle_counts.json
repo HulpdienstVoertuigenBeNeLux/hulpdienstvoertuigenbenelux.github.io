@@ -12,7 +12,7 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 706
+        "aantal": 707
     },
     {
         "afkorting": "PM",
@@ -912,7 +912,7 @@
     {
         "afkorting": "AFO",
         "type": "Airport fire officer",
-        "aantal": 5
+        "aantal": 6
     },
     {
         "afkorting": "AGS",
