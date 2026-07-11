@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 810
+        "aantal": 809
     },
     {
         "afkorting": "DAT",
@@ -17,7 +17,7 @@
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
-        "aantal": 158
+        "aantal": 153
     },
     {
         "afkorting": "PMT",
@@ -307,7 +307,7 @@
     {
         "afkorting": "BMH-SIB",
         "type": "Bijzonder materieel haakarmbak scheepsincidentbestrijding",
-        "aantal": 5
+        "aantal": 2
     },
     {
         "afkorting": "RI",
@@ -372,7 +372,7 @@
     {
         "afkorting": "SVH",
         "type": "Schuimvormend middel haakarmbak",
-        "aantal": 11
+        "aantal": 12
     },
     {
         "afkorting": "BPA",
@@ -427,7 +427,7 @@
     {
         "afkorting": "DPH-GW",
         "type": "Dompelpomphaakarmbak grootschalige watervoorziening",
-        "aantal": 83
+        "aantal": 82
     },
     {
         "afkorting": "SL-GW",
@@ -722,7 +722,7 @@
     {
         "afkorting": "LO",
         "type": "Logistiek voertuig",
-        "aantal": 111
+        "aantal": 110
     },
     {
         "afkorting": "LO-KR",
@@ -1012,7 +1012,7 @@
     {
         "afkorting": "OVD-MB",
         "type": "Officier van dienst Marinebrandweer",
-        "aantal": 2
+        "aantal": 1
     },
     {
         "afkorting": "PC-B",
@@ -1077,12 +1077,12 @@
     {
         "afkorting": "DA-DF",
         "type": "Dienstauto Defensie",
-        "aantal": 13
+        "aantal": 2
     },
     {
         "afkorting": "DB-DF",
         "type": "Dienstbus Defensie",
-        "aantal": 1
+        "aantal": 19
     },
     {
         "afkorting": "PM-DF",
@@ -1097,22 +1097,22 @@
     {
         "afkorting": "TS-DF",
         "type": "Tankautospuit Defensie",
-        "aantal": 22
+        "aantal": 18
     },
     {
         "afkorting": "TST-DF",
         "type": "Tankautospuit terreinvaardig Defensie",
-        "aantal": 17
+        "aantal": 16
     },
     {
         "afkorting": "HW-DF",
         "type": "Hoogwerker Defensie",
-        "aantal": 1
+        "aantal": 2
     },
     {
         "afkorting": "MSA-DF",
         "type": "Motorspuitaanhanger Defensie",
-        "aantal": 5
+        "aantal": 7
     },
     {
         "afkorting": "WT-DF",
@@ -1135,14 +1135,14 @@
         "aantal": 2
     },
     {
-        "afkorting": "GM-DF",
-        "type": "Gereedschap/materieelvoertuig Defensie",
-        "aantal": 1
+        "afkorting": "LOH-DF",
+        "type": "Logistiek haakarmbak Defensie",
+        "aantal": 3
     },
     {
         "afkorting": "LOH-DF",
-        "type": "Logistiek haakarmbak Defensie",
-        "aantal": 4
+        "type": "Logistiek haakarmbak open uitvoering",
+        "aantal": 1
     },
     {
         "afkorting": "HA-DF",
@@ -1152,12 +1152,12 @@
     {
         "afkorting": "OVD-DF",
         "type": "Officier van dienst Defensie",
-        "aantal": 3
+        "aantal": 2
     },
     {
         "afkorting": "OSC-DF",
         "type": "On scene commander Defensie",
-        "aantal": 12
+        "aantal": 13
     },
     {
         "afkorting": "VC-DF",
@@ -1283,5 +1283,10 @@
         "afkorting": "BM",
         "type": "Bijzonder materieel",
         "aantal": 2
+    },
+    {
+        "afkorting": "BMH-SBB",
+        "type": "Bijzonder materieel haakarmbak scheepsbrandbestrijding",
+        "aantal": 3
     }
 ]
