@@ -12,12 +12,12 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 707
+        "aantal": 706
     },
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
-        "aantal": 153
+        "aantal": 152
     },
     {
         "afkorting": "PMT",
@@ -267,7 +267,7 @@
     {
         "afkorting": "BMH-BBM",
         "type": "Bijzonder materieel haakarmbak met bijzondere brandbestrijdingsmiddelen",
-        "aantal": 15
+        "aantal": 13
     },
     {
         "afkorting": "PM-BBM",
@@ -297,12 +297,12 @@
     {
         "afkorting": "PM-UHD",
         "type": "Personeel/materieelvoertuig ultra hoge druk blussysteem",
-        "aantal": 1
+        "aantal": 2
     },
     {
         "afkorting": "BMH-SIB",
         "type": "Bijzonder materieel haakarmbak scheepsincidentbestrijding",
-        "aantal": 2
+        "aantal": 4
     },
     {
         "afkorting": "RI",
@@ -322,7 +322,7 @@
     {
         "afkorting": "PBH",
         "type": "Poederblushaakarmbak",
-        "aantal": 3
+        "aantal": 4
     },
     {
         "afkorting": "CT",
@@ -332,7 +332,7 @@
     {
         "afkorting": "SB",
         "type": "Schuimblusvoertuig",
-        "aantal": 26
+        "aantal": 25
     },
     {
         "afkorting": "SBA",
@@ -342,7 +342,7 @@
     {
         "afkorting": "SBH",
         "type": "Schuimblushaakarmbak",
-        "aantal": 22
+        "aantal": 21
     },
     {
         "afkorting": "SBT",
@@ -352,7 +352,7 @@
     {
         "afkorting": "SB-BA",
         "type": "Schuimblusvoertuig met blusarm",
-        "aantal": 9
+        "aantal": 8
     },
     {
         "afkorting": "SVA",
@@ -362,7 +362,7 @@
     {
         "afkorting": "SVH",
         "type": "Schuimvormend middel haakarmbak",
-        "aantal": 12
+        "aantal": 8
     },
     {
         "afkorting": "BPA",
@@ -382,7 +382,7 @@
     {
         "afkorting": "MSA",
         "type": "Motorspuitaanhanger",
-        "aantal": 94
+        "aantal": 93
     },
     {
         "afkorting": "SL-KW",
@@ -417,7 +417,7 @@
     {
         "afkorting": "DPH-GW",
         "type": "Dompelpomphaakarmbak grootschalige watervoorziening",
-        "aantal": 82
+        "aantal": 81
     },
     {
         "afkorting": "SL-GW",
@@ -427,7 +427,7 @@
     {
         "afkorting": "SLH-GW",
         "type": "Slangenhaakarmbak grootschalige watervoorziening",
-        "aantal": 39
+        "aantal": 38
     },
     {
         "afkorting": "ON-GW",
@@ -532,7 +532,7 @@
     {
         "afkorting": "HVH",
         "type": "Hulpverleningshaakarmbak",
-        "aantal": 21
+        "aantal": 22
     },
     {
         "afkorting": "HVT",
@@ -657,7 +657,7 @@
     {
         "afkorting": "GMH",
         "type": "Gereedschap/materieelhaakarmbak",
-        "aantal": 9
+        "aantal": 10
     },
     {
         "afkorting": "TK-K",
@@ -672,7 +672,7 @@
     {
         "afkorting": "HA",
         "type": "Haakarmvoertuig",
-        "aantal": 249
+        "aantal": 247
     },
     {
         "afkorting": "HA-KR",
@@ -737,12 +737,12 @@
     {
         "afkorting": "MFT",
         "type": "Multifunctioneel voertuig terreinvaardig",
-        "aantal": 10
+        "aantal": 11
     },
     {
         "afkorting": "MFT-VER",
         "type": "Multifunctioneel voertuig terreinvaardig verreiker",
-        "aantal": 5
+        "aantal": 6
     },
     {
         "afkorting": "QR",
@@ -857,7 +857,7 @@
     {
         "afkorting": "VC",
         "type": "Verbindingscommando voertuig",
-        "aantal": 6
+        "aantal": 5
     },
     {
         "afkorting": "VD-MOP",
@@ -1162,7 +1162,7 @@
     {
         "afkorting": "SB-BB",
         "type": "Schuimblusvoertuig bedrijfsbrandweer",
-        "aantal": 15
+        "aantal": 17
     },
     {
         "afkorting": "HV-BB",
@@ -1172,7 +1172,7 @@
     {
         "afkorting": "HA-BB",
         "type": "Haakarmvoertuig bedrijfsbrandweer",
-        "aantal": 14
+        "aantal": 16
     },
     {
         "afkorting": "OVD-BB",
@@ -1182,7 +1182,7 @@
     {
         "afkorting": "PM-BB",
         "type": "Personeel/materieelvoertuig bedrijfsbrandweer",
-        "aantal": 10
+        "aantal": 11
     },
     {
         "afkorting": "GS-BB",
@@ -1245,18 +1245,63 @@
         "aantal": 4
     },
     {
-        "afkorting": "BMH",
-        "type": "Invoer Error",
-        "aantal": 4
+        "afkorting": "VC-BB",
+        "type": "Verbindingscommando voertuig bedrijfsbrandweer",
+        "aantal": 1
     },
     {
-        "afkorting": "BM",
-        "type": "Invoer Error",
-        "aantal": 2
+        "afkorting": "DPH-BB",
+        "type": "Dompelpomphaakarmbak bedrijfsbrandweer",
+        "aantal": 1
     },
     {
-        "afkorting": "BMH-SBB",
-        "type": "Invoer Error",
+        "afkorting": "SLH-BB",
+        "type": "Slangenhaakarmbak bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "SVH-BB",
+        "type": "Schuimvormend middel haakarmbak bedrijfsbrandweer",
         "aantal": 3
+    },
+    {
+        "afkorting": "WKH-BB",
+        "type": "Waterkanonhaakarmbak bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "BMH-BB",
+        "type": "Bijzonder materieel haakarmbak bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "GMH-BB",
+        "type": "Gereedschap/materieelhaakarmbak bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "MSA-BB",
+        "type": "Motorspuitaanhanger bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "SVH-DF",
+        "type": "Schuimvormend middel haakarmbak Defensie",
+        "aantal": 1
+    },
+    {
+        "afkorting": "OSH-DF",
+        "type": "Olieschermen haakarmbak Defensie",
+        "aantal": 1
+    },
+    {
+        "afkorting": "BMH-DF",
+        "type": "Bijzonder materieel haakarmbak Defensie",
+        "aantal": 1
+    },
+    {
+        "afkorting": "CAH-BH",
+        "type": "Calamiteitenhaakarmbak bedrijfshulpverlening",
+        "aantal": 1
     }
 ]
