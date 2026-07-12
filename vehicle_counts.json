@@ -302,7 +302,7 @@
     {
         "afkorting": "BMH-SIB",
         "type": "Bijzonder materieel haakarmbak scheepsincidentbestrijding",
-        "aantal": 4
+        "aantal": 2
     },
     {
         "afkorting": "RI",
@@ -1285,6 +1285,11 @@
         "aantal": 1
     },
     {
+        "afkorting": "BMH-DF",
+        "type": "Bijzonder materieel haakarmbak Defensie",
+        "aantal": 2
+    },
+    {
         "afkorting": "SVH-DF",
         "type": "Schuimvormend middel haakarmbak Defensie",
         "aantal": 1
@@ -1292,12 +1297,7 @@
     {
         "afkorting": "OSH-DF",
         "type": "Olieschermen haakarmbak Defensie",
-        "aantal": 1
-    },
-    {
-        "afkorting": "BMH-DF",
-        "type": "Bijzonder materieel haakarmbak Defensie",
-        "aantal": 1
+        "aantal": 2
     },
     {
         "afkorting": "CAH-BH",
