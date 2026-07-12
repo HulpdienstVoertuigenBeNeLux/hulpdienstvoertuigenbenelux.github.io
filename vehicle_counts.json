@@ -227,7 +227,12 @@
     {
         "afkorting": "VKT-NB",
         "type": "Verkenningsvoertuig terreinvaardig natuurbrandbestrijding",
-        "aantal": 10
+        "aantal": 9
+    },
+    {
+        "afkorting": "VKT-NB",
+        "type": "-",
+        "aantal": 1
     },
     {
         "afkorting": "AL",
