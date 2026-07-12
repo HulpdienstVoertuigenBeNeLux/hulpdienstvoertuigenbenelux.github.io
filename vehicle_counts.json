@@ -117,12 +117,7 @@
     {
         "afkorting": "BOH-DC",
         "type": "Basis ontsmetting haakarmbak decontaminatie",
-        "aantal": 21
-    },
-    {
-        "afkorting": "BOH-DC",
-        "type": "Basis ontsmetting haakarmbak",
-        "aantal": 1
+        "aantal": 22
     },
     {
         "afkorting": "GOH-DC",
@@ -162,7 +157,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1141
+        "aantal": 1142
     },
     {
         "afkorting": "TST",
@@ -181,7 +176,7 @@
     },
     {
         "afkorting": "TS-RO",
-        "type": "Tankautospuit t.b.v. inzet bij rellen en ordeverstoring",
+        "type": "Tankautospuit t.b.v. inzet bij rellen en \nordeverstoring",
         "aantal": 1
     },
     {
@@ -227,12 +222,7 @@
     {
         "afkorting": "VKT-NB",
         "type": "Verkenningsvoertuig terreinvaardig natuurbrandbestrijding",
-        "aantal": 9
-    },
-    {
-        "afkorting": "VKT-NB",
-        "type": "-",
-        "aantal": 1
+        "aantal": 10
     },
     {
         "afkorting": "AL",
@@ -342,12 +332,7 @@
     {
         "afkorting": "SB",
         "type": "Schuimblusvoertuig",
-        "aantal": 25
-    },
-    {
-        "afkorting": "SB",
-        "type": "Schuimblusvoetuig",
-        "aantal": 1
+        "aantal": 26
     },
     {
         "afkorting": "SBA",
@@ -662,12 +647,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 145
-    },
-    {
-        "afkorting": "GM",
-        "type": "Dienstbus",
-        "aantal": 1
+        "aantal": 146
     },
     {
         "afkorting": "GMT",
@@ -677,12 +657,7 @@
     {
         "afkorting": "GMH",
         "type": "Gereedschap/materieelhaakarmbak",
-        "aantal": 7
-    },
-    {
-        "afkorting": "GMH",
-        "type": "Logistiek haakarmbak open uitvoering",
-        "aantal": 2
+        "aantal": 9
     },
     {
         "afkorting": "TK-K",
@@ -787,7 +762,7 @@
     {
         "afkorting": "BM-TES",
         "type": "Test eenheid",
-        "aantal": 1
+        "aantal": 2
     },
     {
         "afkorting": "VK",
@@ -1142,12 +1117,7 @@
     {
         "afkorting": "LOH-DF",
         "type": "Logistiek haakarmbak Defensie",
-        "aantal": 3
-    },
-    {
-        "afkorting": "LOH-DF",
-        "type": "Logistiek haakarmbak open uitvoering",
-        "aantal": 1
+        "aantal": 4
     },
     {
         "afkorting": "HA-DF",
@@ -1272,26 +1242,21 @@
     {
         "afkorting": "ONBEKEND",
         "type": "Invoer Error",
-        "aantal": 1
-    },
-    {
-        "afkorting": "ONBEKEND",
-        "type": "Dienstauto",
-        "aantal": 2
+        "aantal": 4
     },
     {
         "afkorting": "BMH",
-        "type": "Bijzondere Materialen Haakarmbak",
+        "type": "Invoer Error",
         "aantal": 4
     },
     {
         "afkorting": "BM",
-        "type": "Bijzonder materieel",
+        "type": "Invoer Error",
         "aantal": 2
     },
     {
         "afkorting": "BMH-SBB",
-        "type": "Bijzonder materieel haakarmbak scheepsbrandbestrijding",
+        "type": "Invoer Error",
         "aantal": 3
     }
 ]
