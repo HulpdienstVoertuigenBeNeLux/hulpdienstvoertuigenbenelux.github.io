@@ -1536,6 +1536,22 @@
         "type": "Verbindingscommando voertuig Defensie"
     },
     {
+        "afkorting": "SVH-DF",
+        "type": "Schuimvormend middel haakarmbak Defensie"
+    },
+    {
+        "afkorting": "BMH-DF",
+        "type": "Bijzonder materieel haakarmbak Defensie"
+    },
+    {
+        "afkorting": "GMH-DF",
+        "type": "Gereedschap/materieelhaakarmbak Defensie"
+    },
+    {
+        "afkorting": "OSH-DF",
+        "type": "Olieschermen haakarmbak Defensie"
+    },
+    {
         "afkorting": "-",
         "type": "- Bedrijfsbrw mat. en functies"
     },
@@ -1586,6 +1602,38 @@
     {
         "afkorting": "AS-BB",
         "type": "Autospuit bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "GMH-BB",
+        "type": "Gereedschap/materieelhaakarmbak bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "VC-BB",
+        "type": "Verbindingscommando voertuig bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "DPH-BB",
+        "type": "Dompelpomphaakarmbak bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "SLH-BB",
+        "type": "Slangenhaakarmbak bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "SVH-BB",
+        "type": "Schuimvormend middel haakarmbak bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "WKH-BB",
+        "type": "Waterkanonhaakarmbak bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "BMH-BB",
+        "type": "Bijzonder materieel haakarmbak bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "MSA-BB",
+        "type": "Motorspuitaanhanger bedrijfsbrandweer"
     },
     {
         "afkorting": "-",
@@ -1997,11 +2045,15 @@
     },
     {
         "afkorting": "OVDG-N",
-        "type": "Officier van dienst geneeskundige zorg ?"
+        "type": "Officier van dienst geneeskundige zorg Noord"
     },
     {
         "afkorting": "OVDG-Z",
-        "type": "Officier van dienst geneeskundige zorg ?"
+        "type": "Officier van dienst geneeskundige zorg Zuid"
+    },
+    {
+        "afkorting": "OVDG-ZW",
+        "type": "Officier van dienst geneeskundige zorg Zuid-West"
     },
     {
         "afkorting": "-",
@@ -2081,11 +2133,19 @@
     },
     {
         "afkorting": "-",
-        "type": "- Evenementenhulpverlening (EH)"
+        "type": "- Evenementenhulpverlening (EH) en bedrijfshulpverlening (BH)"
     },
     {
         "afkorting": "EH",
         "type": "Evenementenhulpverlening voertuig"
+    },
+    {
+        "afkorting": "EHH",
+        "type": "Evenementenhulpverlening haakarmbak"
+    },
+    {
+        "afkorting": "EHH-MP",
+        "type": "Evenementenhulpverlening haakarmbak mobiele post"
     },
     {
         "afkorting": "AMBU-EH",
@@ -2110,6 +2170,10 @@
     {
         "afkorting": "RRM-EH",
         "type": "Rapid responder motor evenementenhulpverlening"
+    },
+    {
+        "afkorting": "CAH-BH",
+        "type": "Calamiteitenhaakarmbak bedrijfshulpverlening"
     },
     {
         "afkorting": "-",
