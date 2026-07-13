@@ -1140,6 +1140,21 @@
         "aantal": 1
     },
     {
+        "afkorting": "SVH-DF",
+        "type": "Schuimvormend middel haakarmbak Defensie",
+        "aantal": 1
+    },
+    {
+        "afkorting": "BMH-DF",
+        "type": "Bijzonder materieel haakarmbak Defensie",
+        "aantal": 2
+    },
+    {
+        "afkorting": "OSH-DF",
+        "type": "Olieschermen haakarmbak Defensie",
+        "aantal": 2
+    },
+    {
         "afkorting": "BB",
         "type": "Bedrijfsbrandweer",
         "aantal": 7
@@ -1200,49 +1215,9 @@
         "aantal": 1
     },
     {
-        "afkorting": "OO",
-        "type": "Opleidingsvoertuig",
-        "aantal": 2
-    },
-    {
-        "afkorting": "BMA-OTO",
-        "type": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-        "aantal": 120
-    },
-    {
-        "afkorting": "BMH-OTO",
-        "type": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
-        "aantal": 46
-    },
-    {
-        "afkorting": "TS-OTO",
-        "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
-        "aantal": 17
-    },
-    {
-        "afkorting": "HV-OTO",
-        "type": "Hulpverleningsvoertuig t.b.v. opleiding, training en oefenen",
+        "afkorting": "GMH-BB",
+        "type": "Gereedschap/materieelhaakarmbak bedrijfsbrandweer",
         "aantal": 1
-    },
-    {
-        "afkorting": "RAH",
-        "type": "Regionale ambulancevoorziening haakarmbak",
-        "aantal": 1
-    },
-    {
-        "afkorting": "CHINOOK",
-        "type": "Chinook Defensie t.b.v. FBO",
-        "aantal": 24
-    },
-    {
-        "afkorting": "COUGAR",
-        "type": "Cougar Defensie t.b.v. FBO",
-        "aantal": 17
-    },
-    {
-        "afkorting": "ONBEKEND",
-        "type": "Invoer Error",
-        "aantal": 4
     },
     {
         "afkorting": "VC-BB",
@@ -1275,33 +1250,58 @@
         "aantal": 1
     },
     {
-        "afkorting": "GMH-BB",
-        "type": "Gereedschap/materieelhaakarmbak bedrijfsbrandweer",
-        "aantal": 1
-    },
-    {
         "afkorting": "MSA-BB",
         "type": "Motorspuitaanhanger bedrijfsbrandweer",
         "aantal": 1
     },
     {
-        "afkorting": "BMH-DF",
-        "type": "Bijzonder materieel haakarmbak Defensie",
+        "afkorting": "OO",
+        "type": "Opleidingsvoertuig",
         "aantal": 2
     },
     {
-        "afkorting": "SVH-DF",
-        "type": "Schuimvormend middel haakarmbak Defensie",
+        "afkorting": "BMA-OTO",
+        "type": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
+        "aantal": 120
+    },
+    {
+        "afkorting": "BMH-OTO",
+        "type": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
+        "aantal": 46
+    },
+    {
+        "afkorting": "TS-OTO",
+        "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
+        "aantal": 17
+    },
+    {
+        "afkorting": "HV-OTO",
+        "type": "Hulpverleningsvoertuig t.b.v. opleiding, training en oefenen",
         "aantal": 1
     },
     {
-        "afkorting": "OSH-DF",
-        "type": "Olieschermen haakarmbak Defensie",
-        "aantal": 2
+        "afkorting": "RAH",
+        "type": "Regionale ambulancevoorziening haakarmbak",
+        "aantal": 1
     },
     {
         "afkorting": "CAH-BH",
         "type": "Calamiteitenhaakarmbak bedrijfshulpverlening",
         "aantal": 1
+    },
+    {
+        "afkorting": "CHINOOK",
+        "type": "Chinook Defensie t.b.v. FBO",
+        "aantal": 24
+    },
+    {
+        "afkorting": "COUGAR",
+        "type": "Cougar Defensie t.b.v. FBO",
+        "aantal": 17
+    },
+    {
+        "afkorting": "ONBEKEND",
+        "type": "Invoer Error",
+        "aantal": 4
     }
 ]
