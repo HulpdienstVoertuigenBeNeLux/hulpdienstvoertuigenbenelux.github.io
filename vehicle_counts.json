@@ -12,7 +12,7 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 706
+        "aantal": 707
     },
     {
         "afkorting": "PM",
@@ -382,7 +382,7 @@
     {
         "afkorting": "MSA",
         "type": "Motorspuitaanhanger",
-        "aantal": 92
+        "aantal": 93
     },
     {
         "afkorting": "SL-KW",
@@ -1262,7 +1262,7 @@
     {
         "afkorting": "BMA-OTO",
         "type": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-        "aantal": 120
+        "aantal": 121
     },
     {
         "afkorting": "BMH-OTO",
