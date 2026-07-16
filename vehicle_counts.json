@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 811
+        "aantal": 813
     },
     {
         "afkorting": "DAT",
@@ -12,7 +12,7 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 707
+        "aantal": 708
     },
     {
         "afkorting": "PM",
@@ -647,7 +647,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 146
+        "aantal": 147
     },
     {
         "afkorting": "GMT",
@@ -1257,7 +1257,7 @@
     {
         "afkorting": "OO",
         "type": "Opleidingsvoertuig",
-        "aantal": 2
+        "aantal": 3
     },
     {
         "afkorting": "BMA-OTO",
@@ -1303,5 +1303,10 @@
         "afkorting": "ONBEKEND",
         "type": "Invoer Error",
         "aantal": 4
+    },
+    {
+        "afkorting": "WOH",
+        "type": "Waterongevallenvaartuig middel",
+        "aantal": 1
     }
 ]
