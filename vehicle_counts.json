@@ -167,7 +167,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1148
+        "aantal": 1149
     },
     {
         "afkorting": "TST",
@@ -237,17 +237,12 @@
     {
         "afkorting": "AL",
         "type": "Autoladder",
-        "aantal": 79
+        "aantal": 80
     },
     {
         "afkorting": "HW",
         "type": "Hoogwerker",
         "aantal": 99
-    },
-    {
-        "afkorting": "RV",
-        "type": "Redvoertuig",
-        "aantal": 1
     },
     {
         "afkorting": "AS",
@@ -302,7 +297,7 @@
     {
         "afkorting": "PM-UHD",
         "type": "Personeel/materieelvoertuig ultra hoge druk blussysteem",
-        "aantal": 4
+        "aantal": 5
     },
     {
         "afkorting": "BMH-SIB",
@@ -657,7 +652,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 144
+        "aantal": 145
     },
     {
         "afkorting": "GMT",
@@ -667,7 +662,7 @@
     {
         "afkorting": "GMH",
         "type": "Gereedschap/materieelhaakarmbak",
-        "aantal": 10
+        "aantal": 11
     },
     {
         "afkorting": "TK-K",
@@ -752,7 +747,7 @@
     {
         "afkorting": "MFT-VER",
         "type": "Multifunctioneel voertuig terreinvaardig verreiker",
-        "aantal": 8
+        "aantal": 9
     },
     {
         "afkorting": "QR",
@@ -1282,7 +1277,7 @@
     {
         "afkorting": "TS-OTO",
         "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
-        "aantal": 25
+        "aantal": 26
     },
     {
         "afkorting": "HV-OTO",
@@ -1347,11 +1342,6 @@
     {
         "afkorting": "HW-BB",
         "type": "Hoogwerker bedrijfsbrandweer",
-        "aantal": 1
-    },
-    {
-        "afkorting": "BM-UHD",
-        "type": "Invoer Error",
         "aantal": 1
     }
 ]
