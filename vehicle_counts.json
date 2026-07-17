@@ -12,7 +12,7 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 708
+        "aantal": 709
     },
     {
         "afkorting": "PM",
@@ -68,6 +68,11 @@
         "afkorting": "WOA",
         "type": "Waterongevallen materieel aanhanger",
         "aantal": 5
+    },
+    {
+        "afkorting": "WOV",
+        "type": "Waterongevallenvaartuig",
+        "aantal": 1
     },
     {
         "afkorting": "WOV-K",
@@ -382,7 +387,7 @@
     {
         "afkorting": "MSA",
         "type": "Motorspuitaanhanger",
-        "aantal": 93
+        "aantal": 94
     },
     {
         "afkorting": "SL-KW",
@@ -625,6 +630,11 @@
         "aantal": 14
     },
     {
+        "afkorting": "AH",
+        "type": "Logistiek voertuig",
+        "aantal": 2
+    },
+    {
         "afkorting": "AHH",
         "type": "Arbeidshygiëne haakarmbak",
         "aantal": 2
@@ -647,7 +657,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 147
+        "aantal": 146
     },
     {
         "afkorting": "GMT",
@@ -702,7 +712,7 @@
     {
         "afkorting": "LO",
         "type": "Logistiek voertuig",
-        "aantal": 110
+        "aantal": 108
     },
     {
         "afkorting": "LO-KR",
@@ -777,17 +787,12 @@
     {
         "afkorting": "VK-TDV",
         "type": "Verkenningsvoertuig team digitale verkenning",
-        "aantal": 17
+        "aantal": 18
     },
     {
         "afkorting": "VKL-DRG",
         "type": "Verkenningsluchtvaartuig groot",
         "aantal": 4
-    },
-    {
-        "afkorting": "BU-VRB",
-        "type": "Bijzondere uitrusting verkenningsrobot",
-        "aantal": 1
     },
     {
         "afkorting": "BUV-OWD",
@@ -1035,6 +1040,11 @@
         "aantal": 4
     },
     {
+        "afkorting": "TL-STH",
+        "type": "Dienstauto",
+        "aantal": 1
+    },
+    {
         "afkorting": "TL-TDV",
         "type": "Teamleider team digitale verkenning",
         "aantal": 2
@@ -1272,7 +1282,7 @@
     {
         "afkorting": "TS-OTO",
         "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
-        "aantal": 17
+        "aantal": 18
     },
     {
         "afkorting": "HV-OTO",
@@ -1306,7 +1316,7 @@
     },
     {
         "afkorting": "WOH",
-        "type": "Waterongevallenvaartuig middel",
+        "type": "Invoer Error",
         "aantal": 1
     }
 ]
