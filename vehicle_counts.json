@@ -167,7 +167,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1140
+        "aantal": 1148
     },
     {
         "afkorting": "TST",
@@ -237,12 +237,12 @@
     {
         "afkorting": "AL",
         "type": "Autoladder",
-        "aantal": 78
+        "aantal": 79
     },
     {
         "afkorting": "HW",
         "type": "Hoogwerker",
-        "aantal": 97
+        "aantal": 99
     },
     {
         "afkorting": "RV",
@@ -252,7 +252,7 @@
     {
         "afkorting": "AS",
         "type": "Autospuit",
-        "aantal": 1
+        "aantal": 2
     },
     {
         "afkorting": "AS-IB",
@@ -337,7 +337,7 @@
     {
         "afkorting": "SB",
         "type": "Schuimblusvoertuig",
-        "aantal": 25
+        "aantal": 26
     },
     {
         "afkorting": "SBA",
@@ -357,7 +357,7 @@
     {
         "afkorting": "SB-BA",
         "type": "Schuimblusvoertuig met blusarm",
-        "aantal": 9
+        "aantal": 10
     },
     {
         "afkorting": "SVA",
@@ -532,7 +532,7 @@
     {
         "afkorting": "HV",
         "type": "Hulpverleningsvoertuig",
-        "aantal": 45
+        "aantal": 46
     },
     {
         "afkorting": "HVA",
@@ -712,12 +712,7 @@
     {
         "afkorting": "LO",
         "type": "Logistiek voertuig",
-        "aantal": 107
-    },
-    {
-        "afkorting": "LO",
-        "type": "Haakarmvoertuig",
-        "aantal": 1
+        "aantal": 109
     },
     {
         "afkorting": "LO-KR",
