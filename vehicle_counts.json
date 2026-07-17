@@ -67,7 +67,7 @@
     {
         "afkorting": "WO",
         "type": "Waterongevallenvoertuig",
-        "aantal": 65
+        "aantal": 66
     },
     {
         "afkorting": "WOA",
@@ -402,7 +402,7 @@
     {
         "afkorting": "BU-SO",
         "type": "Bijzondere uitrusting slangen opneem apparaat",
-        "aantal": 9
+        "aantal": 8
     },
     {
         "afkorting": "DP-GW",
@@ -652,7 +652,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 145
+        "aantal": 146
     },
     {
         "afkorting": "GMT",
@@ -1312,6 +1312,11 @@
     {
         "afkorting": "SI-BB",
         "type": "Snel inzetbaar voertuig bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "SOA",
+        "type": "Slangenopneemaanhanger",
         "aantal": 1
     },
     {
