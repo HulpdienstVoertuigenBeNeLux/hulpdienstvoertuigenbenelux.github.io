@@ -2,12 +2,12 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 813
+        "aantal": 811
     },
     {
         "afkorting": "DAT",
         "type": "Dienstauto terreinvaardig",
-        "aantal": 5
+        "aantal": 3
     },
     {
         "afkorting": "DB",
@@ -17,7 +17,7 @@
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
-        "aantal": 152
+        "aantal": 151
     },
     {
         "afkorting": "PMT",
@@ -47,7 +47,7 @@
     {
         "afkorting": "ON-BRV",
         "type": "Ondersteuningsteam brandweervaartuig",
-        "aantal": 5
+        "aantal": 7
     },
     {
         "afkorting": "HBV",
@@ -162,7 +162,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1143
+        "aantal": 1137
     },
     {
         "afkorting": "TST",
@@ -232,12 +232,7 @@
     {
         "afkorting": "AL",
         "type": "Autoladder",
-        "aantal": 79
-    },
-    {
-        "afkorting": "HW-IB",
-        "type": "Hoogwerker industrie brandbestrijding",
-        "aantal": 1
+        "aantal": 78
     },
     {
         "afkorting": "HW",
@@ -262,7 +257,7 @@
     {
         "afkorting": "SI",
         "type": "Snel inzetbaar voertuig",
-        "aantal": 20
+        "aantal": 19
     },
     {
         "afkorting": "BM-BBM",
@@ -272,7 +267,7 @@
     {
         "afkorting": "BMH-BBM",
         "type": "Bijzonder materieel haakarmbak met bijzondere brandbestrijdingsmiddelen",
-        "aantal": 13
+        "aantal": 10
     },
     {
         "afkorting": "PM-BBM",
@@ -302,7 +297,7 @@
     {
         "afkorting": "PM-UHD",
         "type": "Personeel/materieelvoertuig ultra hoge druk blussysteem",
-        "aantal": 2
+        "aantal": 3
     },
     {
         "afkorting": "BMH-SIB",
@@ -327,7 +322,7 @@
     {
         "afkorting": "PBH",
         "type": "Poederblushaakarmbak",
-        "aantal": 4
+        "aantal": 3
     },
     {
         "afkorting": "CT",
@@ -422,7 +417,7 @@
     {
         "afkorting": "DPH-GW",
         "type": "Dompelpomphaakarmbak grootschalige watervoorziening",
-        "aantal": 81
+        "aantal": 79
     },
     {
         "afkorting": "SL-GW",
@@ -482,7 +477,7 @@
     {
         "afkorting": "WT",
         "type": "Watertankwagen",
-        "aantal": 87
+        "aantal": 77
     },
     {
         "afkorting": "WTT",
@@ -492,7 +487,7 @@
     {
         "afkorting": "WT-G",
         "type": "Watertankwagen groot",
-        "aantal": 2
+        "aantal": 12
     },
     {
         "afkorting": "WTH",
@@ -537,7 +532,7 @@
     {
         "afkorting": "HVH",
         "type": "Hulpverleningshaakarmbak",
-        "aantal": 22
+        "aantal": 21
     },
     {
         "afkorting": "HVT",
@@ -627,12 +622,7 @@
     {
         "afkorting": "AH",
         "type": "Arbeidshygiëne voertuig",
-        "aantal": 14
-    },
-    {
-        "afkorting": "AH",
-        "type": "Logistiek voertuig",
-        "aantal": 2
+        "aantal": 17
     },
     {
         "afkorting": "AHH",
@@ -657,7 +647,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 146
+        "aantal": 145
     },
     {
         "afkorting": "GMT",
@@ -712,12 +702,12 @@
     {
         "afkorting": "LO",
         "type": "Logistiek voertuig",
-        "aantal": 108
+        "aantal": 107
     },
     {
         "afkorting": "LO-KR",
         "type": "Logistiek voertuig met kraan",
-        "aantal": 2
+        "aantal": 1
     },
     {
         "afkorting": "LOA",
@@ -727,7 +717,7 @@
     {
         "afkorting": "LOH",
         "type": "Logistiek haakarmbak",
-        "aantal": 23
+        "aantal": 22
     },
     {
         "afkorting": "LOH-KR",
@@ -882,7 +872,7 @@
     {
         "afkorting": "CVD-B",
         "type": "Commandant van dienst Brandweer",
-        "aantal": 18
+        "aantal": 19
     },
     {
         "afkorting": "AC-CC",
@@ -1041,7 +1031,7 @@
     },
     {
         "afkorting": "TL-STH",
-        "type": "Dienstauto",
+        "type": "Teamleider specialitische technische hulpverlening",
         "aantal": 1
     },
     {
@@ -1172,7 +1162,7 @@
     {
         "afkorting": "DA-BB",
         "type": "Dienstauto bedrijfsbrandweer",
-        "aantal": 11
+        "aantal": 10
     },
     {
         "afkorting": "DB-BB",
@@ -1202,7 +1192,7 @@
     {
         "afkorting": "OVD-BB",
         "type": "Officier van dienst bedrijfsbrandweer",
-        "aantal": 8
+        "aantal": 9
     },
     {
         "afkorting": "PM-BB",
@@ -1237,7 +1227,7 @@
     {
         "afkorting": "DPH-BB",
         "type": "Dompelpomphaakarmbak bedrijfsbrandweer",
-        "aantal": 1
+        "aantal": 3
     },
     {
         "afkorting": "SLH-BB",
@@ -1257,7 +1247,7 @@
     {
         "afkorting": "BMH-BB",
         "type": "Bijzonder materieel haakarmbak bedrijfsbrandweer",
-        "aantal": 1
+        "aantal": 3
     },
     {
         "afkorting": "MSA-BB",
@@ -1267,7 +1257,7 @@
     {
         "afkorting": "OO",
         "type": "Opleidingsvoertuig",
-        "aantal": 3
+        "aantal": 4
     },
     {
         "afkorting": "BMA-OTO",
@@ -1277,12 +1267,12 @@
     {
         "afkorting": "BMH-OTO",
         "type": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
-        "aantal": 46
+        "aantal": 47
     },
     {
         "afkorting": "TS-OTO",
         "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
-        "aantal": 18
+        "aantal": 24
     },
     {
         "afkorting": "HV-OTO",
@@ -1310,13 +1300,43 @@
         "aantal": 17
     },
     {
+        "afkorting": "WOH",
+        "type": "Waterongevallen materieel haakarmbak",
+        "aantal": 2
+    },
+    {
+        "afkorting": "SI-BB",
+        "type": "Snel inzetbaar voertuig bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "AL-OTO",
+        "type": "Autoladder t.b.v. opleiding, training en oefenen",
+        "aantal": 1
+    },
+    {
         "afkorting": "ONBEKEND",
         "type": "Invoer Error",
         "aantal": 4
     },
     {
-        "afkorting": "WOH",
-        "type": "Invoer Error",
+        "afkorting": "LO-BB",
+        "type": "Logistiek voertuig bedrijfsbrandweer",
+        "aantal": 2
+    },
+    {
+        "afkorting": "PBH-BB",
+        "type": "Poederblushaakarmbak bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "HVH-BB",
+        "type": "Hulpverleningshaakarmbak bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "HW-BB",
+        "type": "Hoogwerker bedrijfsbrandweer",
         "aantal": 1
     }
 ]
