@@ -12,12 +12,12 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 709
+        "aantal": 708
     },
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
-        "aantal": 151
+        "aantal": 150
     },
     {
         "afkorting": "PMT",
@@ -27,7 +27,7 @@
     {
         "afkorting": "BRV-K",
         "type": "Brandweervaartuig klein",
-        "aantal": 40
+        "aantal": 39
     },
     {
         "afkorting": "BRV-M",
@@ -45,9 +45,14 @@
         "aantal": 6
     },
     {
+        "afkorting": "BRV-WSC",
+        "type": "Brandweervaartuig waterscooter",
+        "aantal": 1
+    },
+    {
         "afkorting": "ON-BRV",
         "type": "Ondersteuningsteam brandweervaartuig",
-        "aantal": 7
+        "aantal": 8
     },
     {
         "afkorting": "HBV",
@@ -162,7 +167,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1137
+        "aantal": 1140
     },
     {
         "afkorting": "TST",
@@ -297,7 +302,7 @@
     {
         "afkorting": "PM-UHD",
         "type": "Personeel/materieelvoertuig ultra hoge druk blussysteem",
-        "aantal": 3
+        "aantal": 4
     },
     {
         "afkorting": "BMH-SIB",
@@ -417,7 +422,7 @@
     {
         "afkorting": "DPH-GW",
         "type": "Dompelpomphaakarmbak grootschalige watervoorziening",
-        "aantal": 79
+        "aantal": 77
     },
     {
         "afkorting": "SL-GW",
@@ -427,12 +432,17 @@
     {
         "afkorting": "SLH-GW",
         "type": "Slangenhaakarmbak grootschalige watervoorziening",
-        "aantal": 38
+        "aantal": 36
     },
     {
         "afkorting": "ON-GW",
         "type": "Ondersteuningsteam grootschalige watervoorziening",
         "aantal": 7
+    },
+    {
+        "afkorting": "DPH-TPB",
+        "type": "Dompelpomphaakarmbak tankput brandbestrijding",
+        "aantal": 2
     },
     {
         "afkorting": "MSH-TPB",
@@ -442,7 +452,7 @@
     {
         "afkorting": "SLH-TPB",
         "type": "Slangenhaakarmbak tankput brandbestrijding",
-        "aantal": 1
+        "aantal": 3
     },
     {
         "afkorting": "SOH-TPB",
@@ -647,7 +657,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 145
+        "aantal": 144
     },
     {
         "afkorting": "GMT",
@@ -662,7 +672,7 @@
     {
         "afkorting": "TK-K",
         "type": "Trekker klein",
-        "aantal": 7
+        "aantal": 6
     },
     {
         "afkorting": "TK-G",
@@ -705,6 +715,11 @@
         "aantal": 107
     },
     {
+        "afkorting": "LO",
+        "type": "Haakarmvoertuig",
+        "aantal": 1
+    },
+    {
         "afkorting": "LO-KR",
         "type": "Logistiek voertuig met kraan",
         "aantal": 1
@@ -737,12 +752,12 @@
     {
         "afkorting": "MFT",
         "type": "Multifunctioneel voertuig terreinvaardig",
-        "aantal": 11
+        "aantal": 12
     },
     {
         "afkorting": "MFT-VER",
         "type": "Multifunctioneel voertuig terreinvaardig verreiker",
-        "aantal": 6
+        "aantal": 8
     },
     {
         "afkorting": "QR",
@@ -947,12 +962,12 @@
     {
         "afkorting": "IM-COPI",
         "type": "Informatiemanager COPI",
-        "aantal": 42
+        "aantal": 41
     },
     {
         "afkorting": "IM-ROT",
         "type": "Informatiemanager ROT",
-        "aantal": 3
+        "aantal": 4
     },
     {
         "afkorting": "L-COPI",
@@ -1047,7 +1062,7 @@
     {
         "afkorting": "VD",
         "type": "Verbindingsdienst",
-        "aantal": 1
+        "aantal": 2
     },
     {
         "afkorting": "VL-B",
@@ -1262,7 +1277,7 @@
     {
         "afkorting": "BMA-OTO",
         "type": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-        "aantal": 121
+        "aantal": 124
     },
     {
         "afkorting": "BMH-OTO",
@@ -1272,7 +1287,7 @@
     {
         "afkorting": "TS-OTO",
         "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
-        "aantal": 24
+        "aantal": 25
     },
     {
         "afkorting": "HV-OTO",
@@ -1337,6 +1352,11 @@
     {
         "afkorting": "HW-BB",
         "type": "Hoogwerker bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "BM-UHD",
+        "type": "Invoer Error",
         "aantal": 1
     }
 ]
