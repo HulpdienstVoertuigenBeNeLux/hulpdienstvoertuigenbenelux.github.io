@@ -167,7 +167,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1149
+        "aantal": 1150
     },
     {
         "afkorting": "TST",
@@ -186,12 +186,7 @@
     },
     {
         "afkorting": "TS-RO",
-        "type": "Tankautospuit t.b.v. inzet bij rellen en \nordeverstoring",
-        "aantal": 1
-    },
-    {
-        "afkorting": "TS-SIB",
-        "type": "Tankautospuit inzetbaar voor \nscheepsincidentbestrijding",
+        "type": "Tankautospuit t.b.v. inzet bij rellen en ordeverstoring",
         "aantal": 1
     },
     {
@@ -240,9 +235,14 @@
         "aantal": 80
     },
     {
+        "afkorting": "HW-IB",
+        "type": "Hoogwerker industrie brandbestrijding",
+        "aantal": 2
+    },
+    {
         "afkorting": "HW",
         "type": "Hoogwerker",
-        "aantal": 99
+        "aantal": 97
     },
     {
         "afkorting": "AS",
