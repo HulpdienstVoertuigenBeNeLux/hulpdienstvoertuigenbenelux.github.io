@@ -2,12 +2,12 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 811
+        "aantal": 819
     },
     {
         "afkorting": "DAT",
         "type": "Dienstauto terreinvaardig",
-        "aantal": 3
+        "aantal": 5
     },
     {
         "afkorting": "DB",
@@ -17,7 +17,7 @@
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
-        "aantal": 150
+        "aantal": 149
     },
     {
         "afkorting": "PMT",
@@ -437,17 +437,22 @@
     {
         "afkorting": "DPH-TPB",
         "type": "Dompelpomphaakarmbak tankput brandbestrijding",
-        "aantal": 2
+        "aantal": 4
+    },
+    {
+        "afkorting": "BMH-TPB",
+        "type": "Bijzonder materieel haakarmbak tankput brandbestrijding",
+        "aantal": 3
     },
     {
         "afkorting": "MSH-TPB",
         "type": "Motorspuit/boosterpomphaakarmbak tankput brandbestrijding",
-        "aantal": 4
+        "aantal": 6
     },
     {
         "afkorting": "SLH-TPB",
         "type": "Slangenhaakarmbak tankput brandbestrijding",
-        "aantal": 3
+        "aantal": 5
     },
     {
         "afkorting": "SOH-TPB",
@@ -462,12 +467,12 @@
     {
         "afkorting": "SVH-TPB",
         "type": "Schuimvormend middel haakarmbak tankput brandbestrijding",
-        "aantal": 6
+        "aantal": 8
     },
     {
         "afkorting": "WKA-TPB",
         "type": "Waterkanonaanhanger tankput brandbestrijding",
-        "aantal": 2
+        "aantal": 4
     },
     {
         "afkorting": "VNA",
@@ -527,7 +532,7 @@
     {
         "afkorting": "HV",
         "type": "Hulpverleningsvoertuig",
-        "aantal": 46
+        "aantal": 47
     },
     {
         "afkorting": "HVA",
@@ -677,7 +682,7 @@
     {
         "afkorting": "HA",
         "type": "Haakarmvoertuig",
-        "aantal": 247
+        "aantal": 248
     },
     {
         "afkorting": "HA-KR",
@@ -1027,7 +1032,7 @@
     {
         "afkorting": "TD",
         "type": "Technische dienst",
-        "aantal": 54
+        "aantal": 55
     },
     {
         "afkorting": "TL-QRT",
