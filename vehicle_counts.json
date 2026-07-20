@@ -75,6 +75,11 @@
         "aantal": 5
     },
     {
+        "afkorting": "WOH",
+        "type": "Waterongevallen materieel haakarmbak",
+        "aantal": 2
+    },
+    {
         "afkorting": "WOV",
         "type": "Waterongevallenvaartuig",
         "aantal": 1
@@ -403,6 +408,11 @@
         "afkorting": "BU-SO",
         "type": "Bijzondere uitrusting slangen opneem apparaat",
         "aantal": 8
+    },
+    {
+        "afkorting": "SOA",
+        "type": "Slangenopneemaanhanger",
+        "aantal": 1
     },
     {
         "afkorting": "DP-GW",
@@ -1265,6 +1275,31 @@
         "aantal": 1
     },
     {
+        "afkorting": "SI-BB",
+        "type": "Snel inzetbaar voertuig bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "LO-BB",
+        "type": "Logistiek voertuig bedrijfsbrandweer",
+        "aantal": 2
+    },
+    {
+        "afkorting": "PBH-BB",
+        "type": "Poederblushaakarmbak bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "HVH-BB",
+        "type": "Hulpverleningshaakarmbak bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "HW-BB",
+        "type": "Hoogwerker bedrijfsbrandweer",
+        "aantal": 1
+    },
+    {
         "afkorting": "OO",
         "type": "Opleidingsvoertuig",
         "aantal": 4
@@ -1290,6 +1325,11 @@
         "aantal": 1
     },
     {
+        "afkorting": "AL-OTO",
+        "type": "Autoladder t.b.v. opleiding, training en oefenen",
+        "aantal": 1
+    },
+    {
         "afkorting": "RAH",
         "type": "Regionale ambulancevoorziening haakarmbak",
         "aantal": 1
@@ -1310,48 +1350,8 @@
         "aantal": 17
     },
     {
-        "afkorting": "WOH",
-        "type": "Waterongevallen materieel haakarmbak",
-        "aantal": 2
-    },
-    {
-        "afkorting": "SI-BB",
-        "type": "Snel inzetbaar voertuig bedrijfsbrandweer",
-        "aantal": 1
-    },
-    {
-        "afkorting": "SOA",
-        "type": "Slangenopneemaanhanger",
-        "aantal": 1
-    },
-    {
-        "afkorting": "AL-OTO",
-        "type": "Autoladder t.b.v. opleiding, training en oefenen",
-        "aantal": 1
-    },
-    {
         "afkorting": "ONBEKEND",
         "type": "Invoer Error",
         "aantal": 4
-    },
-    {
-        "afkorting": "LO-BB",
-        "type": "Logistiek voertuig bedrijfsbrandweer",
-        "aantal": 2
-    },
-    {
-        "afkorting": "PBH-BB",
-        "type": "Poederblushaakarmbak bedrijfsbrandweer",
-        "aantal": 1
-    },
-    {
-        "afkorting": "HVH-BB",
-        "type": "Hulpverleningshaakarmbak bedrijfsbrandweer",
-        "aantal": 1
-    },
-    {
-        "afkorting": "HW-BB",
-        "type": "Hoogwerker bedrijfsbrandweer",
-        "aantal": 1
     }
 ]
