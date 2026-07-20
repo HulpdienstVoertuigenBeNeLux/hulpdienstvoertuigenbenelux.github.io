@@ -88,6 +88,10 @@
         "type": "Waterongevallen materieel aanhanger"
     },
     {
+        "afkorting": "WOH",
+        "type": "Waterongevallen materieel haakarmbak"
+    },
+    {
         "afkorting": "ON-WO",
         "type": "Ondersteuningsteam waterongevallenvoertuig"
     },
@@ -245,11 +249,11 @@
     },
     {
         "afkorting": "TS-RO",
-        "type": "Tankautospuit t.b.v. inzet bij rellen en \nordeverstoring"
+        "type": "Tankautospuit t.b.v. inzet bij rellen en ordeverstoring"
     },
     {
         "afkorting": "TS-SIB",
-        "type": "Tankautospuit inzetbaar voor \nscheepsincidentbestrijding"
+        "type": "Tankautospuit inzetbaar voor scheepsincidentbestrijding"
     },
     {
         "afkorting": "TS-SK",
@@ -574,6 +578,14 @@
     {
         "afkorting": "BU-GW",
         "type": "Bijzondere uitrusting grootschalige watervoorziening"
+    },
+    {
+        "afkorting": "SOA",
+        "type": "Slangenopneemaanhanger"
+    },
+    {
+        "afkorting": "SOH",
+        "type": "Slangenopneemhaakarmbak"
     },
     {
         "afkorting": "DP-GW",
@@ -1636,6 +1648,26 @@
         "type": "Motorspuitaanhanger bedrijfsbrandweer"
     },
     {
+        "afkorting": "SI-BB",
+        "type": "Snel inzetbaar voertuig bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "LO-BB",
+        "type": "Logistiek voertuig bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "PBH-BB",
+        "type": "Poederblushaakarmbak bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "HVH-BB",
+        "type": "Hulpverleningshaakarmbak bedrijfsbrandweer"
+    },
+    {
+        "afkorting": "HW-BB",
+        "type": "Hoogwerker bedrijfsbrandweer"
+    },
+    {
         "afkorting": "-",
         "type": "- Opleidingsmaterieel en functies"
     },
@@ -1658,6 +1690,10 @@
     {
         "afkorting": "HV-OTO",
         "type": "Hulpverleningsvoertuig t.b.v. opleiding, training en oefenen"
+    },
+    {
+        "afkorting": "AL-OTO",
+        "type": "Autoladder t.b.v. opleiding, training en oefenen"
     },
     {
         "afkorting": "-",
@@ -2044,8 +2080,20 @@
         "type": "Reserve piketvoertuig"
     },
     {
+        "afkorting": "OVDG-NW",
+        "type": "Officier van dienst geneeskundige zorg Noord-West"
+    },
+    {
         "afkorting": "OVDG-N",
         "type": "Officier van dienst geneeskundige zorg Noord"
+    },
+    {
+        "afkorting": "OVDG-NO",
+        "type": "Officier van dienst geneeskundige zorg Noord-Oost"
+    },
+    {
+        "afkorting": "OVDG-O",
+        "type": "Officier van dienst geneeskundige zorg Oost"
     },
     {
         "afkorting": "OVDG-Z",
@@ -2054,6 +2102,10 @@
     {
         "afkorting": "OVDG-ZW",
         "type": "Officier van dienst geneeskundige zorg Zuid-West"
+    },
+    {
+        "afkorting": "OVDG-W",
+        "type": "Officier van dienst geneeskundige zorg West"
     },
     {
         "afkorting": "-",
