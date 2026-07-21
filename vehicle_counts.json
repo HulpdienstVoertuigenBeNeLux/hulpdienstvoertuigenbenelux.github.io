@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 821
+        "aantal": 825
     },
     {
         "afkorting": "DAT",
@@ -172,7 +172,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1149
+        "aantal": 1148
     },
     {
         "afkorting": "TST",
@@ -552,7 +552,7 @@
     {
         "afkorting": "HVH",
         "type": "Hulpverleningshaakarmbak",
-        "aantal": 21
+        "aantal": 20
     },
     {
         "afkorting": "HVT",
@@ -562,7 +562,7 @@
     {
         "afkorting": "HV-KR",
         "type": "Hulpverleningsvoertuig met kraan",
-        "aantal": 45
+        "aantal": 46
     },
     {
         "afkorting": "ON-HV",
@@ -692,7 +692,7 @@
     {
         "afkorting": "HA",
         "type": "Haakarmvoertuig",
-        "aantal": 248
+        "aantal": 246
     },
     {
         "afkorting": "HA-KR",
@@ -997,7 +997,7 @@
     {
         "afkorting": "OVD-BZ",
         "type": "Officier van dienst bevolkingszorg",
-        "aantal": 22
+        "aantal": 26
     },
     {
         "afkorting": "OVD-HB",
