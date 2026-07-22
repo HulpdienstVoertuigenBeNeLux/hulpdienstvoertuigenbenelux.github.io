@@ -12,12 +12,17 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 709
+        "aantal": 708
     },
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
         "aantal": 149
+    },
+    {
+        "afkorting": "PM",
+        "type": "Personeel/materiaalvoertuig",
+        "aantal": 1
     },
     {
         "afkorting": "PMT",
