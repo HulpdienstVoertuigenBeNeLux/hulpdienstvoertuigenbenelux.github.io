@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 825
+        "aantal": 822
     },
     {
         "afkorting": "DAT",
@@ -12,17 +12,12 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 708
+        "aantal": 707
     },
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
-        "aantal": 149
-    },
-    {
-        "afkorting": "PM",
-        "type": "Personeel/materiaalvoertuig",
-        "aantal": 1
+        "aantal": 148
     },
     {
         "afkorting": "PMT",
@@ -67,7 +62,7 @@
     {
         "afkorting": "OR",
         "type": "Oppervlakte reddingsteam voertuig",
-        "aantal": 43
+        "aantal": 44
     },
     {
         "afkorting": "WO",
@@ -77,7 +72,7 @@
     {
         "afkorting": "WOA",
         "type": "Waterongevallen materieel aanhanger",
-        "aantal": 5
+        "aantal": 4
     },
     {
         "afkorting": "WOH",
@@ -102,7 +97,7 @@
     {
         "afkorting": "GP",
         "type": "Gaspakteam voertuig",
-        "aantal": 8
+        "aantal": 7
     },
     {
         "afkorting": "GPH",
@@ -177,7 +172,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1148
+        "aantal": 1147
     },
     {
         "afkorting": "TST",
@@ -237,7 +232,7 @@
     {
         "afkorting": "VKT-NB",
         "type": "Verkenningsvoertuig terreinvaardig natuurbrandbestrijding",
-        "aantal": 10
+        "aantal": 11
     },
     {
         "afkorting": "AL",
@@ -317,12 +312,12 @@
     {
         "afkorting": "RI",
         "type": "Rietdak brandbestrijdingsteam",
-        "aantal": 9
+        "aantal": 7
     },
     {
         "afkorting": "RIA",
         "type": "Rietdak brandbestrijdingsteam aanhanger",
-        "aantal": 4
+        "aantal": 6
     },
     {
         "afkorting": "PBA",
@@ -337,7 +332,7 @@
     {
         "afkorting": "CT",
         "type": "Crashtender",
-        "aantal": 24
+        "aantal": 25
     },
     {
         "afkorting": "SB",
@@ -362,7 +357,7 @@
     {
         "afkorting": "SB-BA",
         "type": "Schuimblusvoertuig met blusarm",
-        "aantal": 10
+        "aantal": 9
     },
     {
         "afkorting": "SVA",
@@ -387,7 +382,7 @@
     {
         "afkorting": "KW",
         "type": "Kleinschalige watervoorziening voertuig",
-        "aantal": 12
+        "aantal": 11
     },
     {
         "afkorting": "MSA",
@@ -627,12 +622,12 @@
     {
         "afkorting": "VI",
         "type": "Veetakel installatie voertuig",
-        "aantal": 10
+        "aantal": 9
     },
     {
         "afkorting": "VIA",
         "type": "Veetakel installatie aanhanger",
-        "aantal": 37
+        "aantal": 38
     },
     {
         "afkorting": "AB",
@@ -657,7 +652,7 @@
     {
         "afkorting": "BRM",
         "type": "Brandweer motor",
-        "aantal": 4
+        "aantal": 3
     },
     {
         "afkorting": "BSA",
@@ -672,7 +667,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 145
+        "aantal": 143
     },
     {
         "afkorting": "GMT",
@@ -697,7 +692,7 @@
     {
         "afkorting": "HA",
         "type": "Haakarmvoertuig",
-        "aantal": 246
+        "aantal": 245
     },
     {
         "afkorting": "HA-KR",
@@ -802,7 +797,7 @@
     {
         "afkorting": "VK-TDV",
         "type": "Verkenningsvoertuig team digitale verkenning",
-        "aantal": 18
+        "aantal": 17
     },
     {
         "afkorting": "VKL-DRG",
@@ -867,12 +862,12 @@
     {
         "afkorting": "CO-MU",
         "type": "Commando voertuig multidisciplinair",
-        "aantal": 18
+        "aantal": 17
     },
     {
         "afkorting": "COH-MU",
         "type": "Commando haakarmbak multidisciplinair",
-        "aantal": 19
+        "aantal": 20
     },
     {
         "afkorting": "VC",
@@ -902,7 +897,7 @@
     {
         "afkorting": "AC-CC",
         "type": "Algemeen commandant crisiscommunicatie",
-        "aantal": 1
+        "aantal": 2
     },
     {
         "afkorting": "AC-HB",
@@ -927,7 +922,7 @@
     {
         "afkorting": "CTL-B",
         "type": "Centralist brandweer",
-        "aantal": 4
+        "aantal": 5
     },
     {
         "afkorting": "C-VE",
@@ -972,7 +967,7 @@
     {
         "afkorting": "IM-COPI",
         "type": "Informatiemanager COPI",
-        "aantal": 41
+        "aantal": 40
     },
     {
         "afkorting": "IM-ROT",
@@ -1282,7 +1277,7 @@
     {
         "afkorting": "SI-BB",
         "type": "Snel inzetbaar voertuig bedrijfsbrandweer",
-        "aantal": 1
+        "aantal": 2
     },
     {
         "afkorting": "LO-BB",
@@ -1353,10 +1348,5 @@
         "afkorting": "COUGAR",
         "type": "Cougar Defensie t.b.v. FBO",
         "aantal": 17
-    },
-    {
-        "afkorting": "ONBEKEND",
-        "type": "Invoer Error",
-        "aantal": 4
     }
 ]
