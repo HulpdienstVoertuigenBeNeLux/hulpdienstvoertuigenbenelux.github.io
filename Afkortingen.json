@@ -1508,6 +1508,10 @@
         "type": "Hoogwerker Defensie"
     },
     {
+        "afkorting": "AL-DF",
+        "type": "Autoladder Defensie"
+    },
+    {
         "afkorting": "MSA-DF",
         "type": "Motorspuitaanhanger Defensie"
     },
