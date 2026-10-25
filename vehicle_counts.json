@@ -437,7 +437,7 @@
     {
         "afkorting": "SLH-GW",
         "type": "Slangenhaakarmbak grootschalige watervoorziening",
-        "aantal": 36
+        "aantal": 35
     },
     {
         "afkorting": "ON-GW",
@@ -542,7 +542,7 @@
     {
         "afkorting": "HV",
         "type": "Hulpverleningsvoertuig",
-        "aantal": 46
+        "aantal": 47
     },
     {
         "afkorting": "HVA",
@@ -732,12 +732,7 @@
     {
         "afkorting": "LO",
         "type": "Logistiek voertuig",
-        "aantal": 108
-    },
-    {
-        "afkorting": "LO",
-        "type": "Logistiek",
-        "aantal": 1
+        "aantal": 109
     },
     {
         "afkorting": "LO-KR",
@@ -752,7 +747,7 @@
     {
         "afkorting": "LOH",
         "type": "Logistiek haakarmbak",
-        "aantal": 24
+        "aantal": 25
     },
     {
         "afkorting": "LOH-KR",
@@ -906,18 +901,13 @@
     },
     {
         "afkorting": "AC-B",
-        "type": "Algemeen commandant brandweer",
+        "type": "Algemeen commandant Brandweer",
         "aantal": 3
     },
     {
         "afkorting": "CDT-B",
         "type": "Commandant Brandweer",
-        "aantal": 1
-    },
-    {
-        "afkorting": "CDT-B",
-        "type": "Algemeen commandant brandweer",
-        "aantal": 1
+        "aantal": 2
     },
     {
         "afkorting": "CVD-B",
@@ -1347,12 +1337,7 @@
     {
         "afkorting": "BMA-OTO",
         "type": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-        "aantal": 145
-    },
-    {
-        "afkorting": "BMA-OTO",
-        "type": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
-        "aantal": 1
+        "aantal": 146
     },
     {
         "afkorting": "BMH-OTO",
