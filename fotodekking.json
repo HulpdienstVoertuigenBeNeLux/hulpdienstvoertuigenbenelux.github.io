@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-10-25T13:50:29+00:00",
+  "bijgewerkt": "2026-10-25T18:31:13+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
-        "posten": 2591,
+        "posten": 2593,
         "posten_foto": 86,
-        "voertuigen": 14679,
-        "voertuigen_foto": 2372
+        "voertuigen": 14681,
+        "voertuigen_foto": 2402
       },
       "regios": [
         {
@@ -69,9 +69,9 @@
         },
         {
           "regio": "9 - Utrecht (VRU)",
-          "posten": 142,
+          "posten": 144,
           "posten_foto": 7,
-          "voertuigen": 724,
+          "voertuigen": 726,
           "voertuigen_foto": 224
         },
         {
@@ -79,28 +79,28 @@
           "posten": 117,
           "posten_foto": 3,
           "voertuigen": 483,
-          "voertuigen_foto": 38
+          "voertuigen_foto": 42
         },
         {
           "regio": "11 - Zaanstreek-Waterland (VRZW)",
           "posten": 42,
           "posten_foto": 3,
           "voertuigen": 201,
-          "voertuigen_foto": 65
+          "voertuigen_foto": 85
         },
         {
           "regio": "12 - Kennemerland (VRK)",
           "posten": 70,
           "posten_foto": 2,
           "voertuigen": 477,
-          "voertuigen_foto": 80
+          "voertuigen_foto": 81
         },
         {
           "regio": "13 - Amsterdam-Amstelland (VRAA)",
           "posten": 61,
           "posten_foto": 4,
           "voertuigen": 412,
-          "voertuigen_foto": 84
+          "voertuigen_foto": 86
         },
         {
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
@@ -121,7 +121,7 @@
           "posten": 84,
           "posten_foto": 2,
           "voertuigen": 457,
-          "voertuigen_foto": 87
+          "voertuigen_foto": 89
         },
         {
           "regio": "17 - Rotterdam-Rijnmond (VRR)",
@@ -135,7 +135,7 @@
           "posten": 69,
           "posten_foto": 4,
           "voertuigen": 398,
-          "voertuigen_foto": 93
+          "voertuigen_foto": 94
         },
         {
           "regio": "19 - Zeeland (VRZ)",
@@ -390,16 +390,16 @@
       "totaal": {
         "posten": 1505,
         "posten_foto": 7,
-        "voertuigen": 8620,
-        "voertuigen_foto": 123
+        "voertuigen": 8621,
+        "voertuigen_foto": 124
       },
       "regios": [
         {
           "regio": "Antwerpen Zone - Antwerpen",
           "posten": 37,
           "posten_foto": 3,
-          "voertuigen": 224,
-          "voertuigen_foto": 29
+          "voertuigen": 225,
+          "voertuigen_foto": 30
         },
         {
           "regio": "Antwerpen Zone - Kempen",
