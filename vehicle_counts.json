@@ -17,7 +17,7 @@
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
-        "aantal": 137
+        "aantal": 138
     },
     {
         "afkorting": "PMT",
@@ -181,7 +181,7 @@
     },
     {
         "afkorting": "TS-4",
-        "type": "Tankautospuit 4 mans bezetting",
+        "type": "Tankautospuit 4-mans bezetting",
         "aantal": 1
     },
     {
@@ -191,12 +191,12 @@
     },
     {
         "afkorting": "TS-RO",
-        "type": "Tankautospuit t.b.v. inzet bij rellen en ordeverstoring",
+        "type": "Tankautospuit rellen en ordeverstoring",
         "aantal": 1
     },
     {
         "afkorting": "TS-SK",
-        "type": "TS Slagkracht",
+        "type": "Tankautospuit slagkracht",
         "aantal": 4
     },
     {
@@ -211,7 +211,7 @@
     },
     {
         "afkorting": "BMH-NB",
-        "type": "Bijzonder materieel haakarmbak met natuurbrand bestrijdingmaterieel",
+        "type": "Bijzonder materieel haakarmbak met natuurbrandbestrijding materieel",
         "aantal": 2
     },
     {
@@ -392,7 +392,7 @@
     {
         "afkorting": "MSA",
         "type": "Motorspuitaanhanger",
-        "aantal": 98
+        "aantal": 99
     },
     {
         "afkorting": "SL-KW",
@@ -437,7 +437,7 @@
     {
         "afkorting": "SLH-GW",
         "type": "Slangenhaakarmbak grootschalige watervoorziening",
-        "aantal": 35
+        "aantal": 36
     },
     {
         "afkorting": "ON-GW",
@@ -702,7 +702,7 @@
     {
         "afkorting": "HA",
         "type": "Haakarmvoertuig",
-        "aantal": 244
+        "aantal": 245
     },
     {
         "afkorting": "HA-KR",
@@ -732,7 +732,7 @@
     {
         "afkorting": "LO",
         "type": "Logistiek voertuig",
-        "aantal": 109
+        "aantal": 108
     },
     {
         "afkorting": "LO-KR",
@@ -747,7 +747,7 @@
     {
         "afkorting": "LOH",
         "type": "Logistiek haakarmbak",
-        "aantal": 25
+        "aantal": 24
     },
     {
         "afkorting": "LOH-KR",
