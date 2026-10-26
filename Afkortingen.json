@@ -237,7 +237,7 @@
     },
     {
         "afkorting": "TS-4",
-        "type": "Tankautospuit 4 mans bezetting"
+        "type": "Tankautospuit 4-mans bezetting"
     },
     {
         "afkorting": "TS-IB",
@@ -245,19 +245,19 @@
     },
     {
         "afkorting": "TS-OPS",
-        "type": "Tankautospuit t.b.v. inzet bij opschaling"
+        "type": "Tankautospuit opschaling"
     },
     {
         "afkorting": "TS-RO",
-        "type": "Tankautospuit t.b.v. inzet bij rellen en ordeverstoring"
+        "type": "Tankautospuit rellen en ordeverstoring"
     },
     {
         "afkorting": "TS-SIB",
-        "type": "Tankautospuit inzetbaar voor scheepsincidentbestrijding"
+        "type": "Tankautospuit scheepsincidentbestrijding"
     },
     {
         "afkorting": "TS-SK",
-        "type": "TS Slagkracht"
+        "type": "Tankautospuit slagkracht"
     },
     {
         "afkorting": "-",
@@ -281,7 +281,7 @@
     },
     {
         "afkorting": "BMH-NB",
-        "type": "Bijzonder materieel haakarmbak met natuurbrand bestrijdingmaterieel"
+        "type": "Bijzonder materieel haakarmbak met natuurbrandbestrijding materieel"
     },
     {
         "afkorting": "HC",
@@ -1757,7 +1757,7 @@
     },
     {
         "afkorting": "SV-PLS",
-        "type": "Schuimvormend middel haakarmbak peloton specialistische blussing"
+        "type": "Schuimvormend middel voertuig peloton specialistische blussing"
     },
     {
         "afkorting": "TS-PLS",
@@ -1769,7 +1769,7 @@
     },
     {
         "afkorting": "SL-PLW",
-        "type": "Slangenhaakarmbak peloton grootschalige watervoorziening"
+        "type": "Slangenvoertuig peloton grootschalige watervoorziening"
     },
     {
         "afkorting": "ON-PLW",
@@ -1958,6 +1958,10 @@
     {
         "afkorting": "GGB",
         "type": "Grootschalige geneeskundige bijstand voertuig"
+    },
+    {
+        "afkorting": "GHOR",
+        "type": "Geneeskunidge Hulpverlingingsorganisatie in de Regio"
     },
     {
         "afkorting": "HART",
