@@ -702,7 +702,7 @@
     {
         "afkorting": "HA",
         "type": "Haakarmvoertuig",
-        "aantal": 245
+        "aantal": 246
     },
     {
         "afkorting": "HA-KR",
@@ -1342,7 +1342,7 @@
     {
         "afkorting": "BMH-OTO",
         "type": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
-        "aantal": 62
+        "aantal": 61
     },
     {
         "afkorting": "TS-OTO",
