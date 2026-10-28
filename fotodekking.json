@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-10-27T15:29:01+00:00",
+  "bijgewerkt": "2026-10-28T00:38:28+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2591,
-        "posten_foto": 94,
-        "voertuigen": 14682,
-        "voertuigen_foto": 2420
+        "posten_foto": 98,
+        "voertuigen": 14683,
+        "voertuigen_foto": 2430
       },
       "regios": [
         {
@@ -28,7 +28,7 @@
         {
           "regio": "3 - Drenthe (VRD)",
           "posten": 87,
-          "posten_foto": 4,
+          "posten_foto": 5,
           "voertuigen": 365,
           "voertuigen_foto": 67
         },
@@ -49,9 +49,9 @@
         {
           "regio": "6 - Noord- en Oost-Gelderland (VNOG)",
           "posten": 104,
-          "posten_foto": 1,
+          "posten_foto": 2,
           "voertuigen": 550,
-          "voertuigen_foto": 135
+          "voertuigen_foto": 137
         },
         {
           "regio": "7 - Gelderland-Midden (VGGM)",
@@ -84,16 +84,16 @@
         {
           "regio": "11 - Zaanstreek-Waterland (VRZW)",
           "posten": 42,
-          "posten_foto": 3,
-          "voertuigen": 203,
-          "voertuigen_foto": 97
+          "posten_foto": 5,
+          "voertuigen": 204,
+          "voertuigen_foto": 104
         },
         {
           "regio": "12 - Kennemerland (VRK)",
           "posten": 70,
           "posten_foto": 2,
           "voertuigen": 477,
-          "voertuigen_foto": 81
+          "voertuigen_foto": 82
         },
         {
           "regio": "13 - Amsterdam-Amstelland (VRAA)",
