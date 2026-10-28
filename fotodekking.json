@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-10-28T18:26:02+00:00",
+  "bijgewerkt": "2026-10-28T22:45:16+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2591,
-        "posten_foto": 99,
-        "voertuigen": 14684,
-        "voertuigen_foto": 2439
+        "posten_foto": 104,
+        "voertuigen": 14685,
+        "voertuigen_foto": 2444
       },
       "regios": [
         {
@@ -63,14 +63,14 @@
         {
           "regio": "8 - Gelderland-Zuid (VRGZ)",
           "posten": 68,
-          "posten_foto": 7,
+          "posten_foto": 9,
           "voertuigen": 392,
           "voertuigen_foto": 184
         },
         {
           "regio": "9 - Utrecht (VRU)",
           "posten": 142,
-          "posten_foto": 8,
+          "posten_foto": 9,
           "voertuigen": 726,
           "voertuigen_foto": 225
         },
@@ -92,7 +92,7 @@
           "regio": "12 - Kennemerland (VRK)",
           "posten": 70,
           "posten_foto": 2,
-          "voertuigen": 477,
+          "voertuigen": 478,
           "voertuigen_foto": 82
         },
         {
@@ -114,21 +114,21 @@
           "posten": 67,
           "posten_foto": 4,
           "voertuigen": 446,
-          "voertuigen_foto": 121
+          "voertuigen_foto": 122
         },
         {
           "regio": "16 - Hollands Midden (VRHM)",
           "posten": 84,
-          "posten_foto": 5,
+          "posten_foto": 6,
           "voertuigen": 457,
-          "voertuigen_foto": 90
+          "voertuigen_foto": 92
         },
         {
           "regio": "17 - Rotterdam-Rijnmond (VRR)",
           "posten": 153,
           "posten_foto": 11,
           "voertuigen": 1064,
-          "voertuigen_foto": 317
+          "voertuigen_foto": 318
         },
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
@@ -154,7 +154,7 @@
         {
           "regio": "21 - Brabant-Noord (VRBN)",
           "posten": 78,
-          "posten_foto": 1,
+          "posten_foto": 2,
           "voertuigen": 361,
           "voertuigen_foto": 14
         },
@@ -275,7 +275,7 @@
           "posten": 27,
           "posten_foto": 0,
           "voertuigen": 52,
-          "voertuigen_foto": 7
+          "voertuigen_foto": 8
         },
         {
           "regio": "MN-RWS",
