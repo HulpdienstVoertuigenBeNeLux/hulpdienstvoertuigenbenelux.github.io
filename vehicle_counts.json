@@ -12,12 +12,17 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 713
+        "aantal": 712
     },
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
         "aantal": 138
+    },
+    {
+        "afkorting": "PM",
+        "type": "Trekker klein",
+        "aantal": 1
     },
     {
         "afkorting": "PMT",
@@ -532,7 +537,7 @@
     {
         "afkorting": "MA",
         "type": "Medische assistentie voertuig",
-        "aantal": 6
+        "aantal": 7
     },
     {
         "afkorting": "PAT",
@@ -583,6 +588,11 @@
         "afkorting": "LIA",
         "type": "Verlichtingsaanhanger",
         "aantal": 6
+    },
+    {
+        "afkorting": "LIH",
+        "type": "Verlichtingshaakarmbak",
+        "aantal": 1
     },
     {
         "afkorting": "LIH-RTV",
@@ -692,7 +702,7 @@
     {
         "afkorting": "TK-K",
         "type": "Trekker klein",
-        "aantal": 7
+        "aantal": 6
     },
     {
         "afkorting": "TK-G",
