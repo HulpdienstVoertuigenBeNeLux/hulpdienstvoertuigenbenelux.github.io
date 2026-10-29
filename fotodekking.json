@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-10-29T13:30:16+00:00",
+  "bijgewerkt": "2026-10-29T20:26:01+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2591,
-        "posten_foto": 104,
-        "voertuigen": 14685,
-        "voertuigen_foto": 2444
+        "posten_foto": 108,
+        "voertuigen": 14691,
+        "voertuigen_foto": 2447
       },
       "regios": [
         {
@@ -63,7 +63,7 @@
         {
           "regio": "8 - Gelderland-Zuid (VRGZ)",
           "posten": 68,
-          "posten_foto": 9,
+          "posten_foto": 11,
           "voertuigen": 392,
           "voertuigen_foto": 184
         },
@@ -86,7 +86,7 @@
           "posten": 42,
           "posten_foto": 5,
           "voertuigen": 204,
-          "voertuigen_foto": 105
+          "voertuigen_foto": 106
         },
         {
           "regio": "12 - Kennemerland (VRK)",
@@ -106,7 +106,7 @@
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
           "posten": 32,
           "posten_foto": 1,
-          "voertuigen": 171,
+          "voertuigen": 172,
           "voertuigen_foto": 41
         },
         {
@@ -133,7 +133,7 @@
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
           "posten": 69,
-          "posten_foto": 5,
+          "posten_foto": 6,
           "voertuigen": 398,
           "voertuigen_foto": 94
         },
@@ -168,7 +168,7 @@
         {
           "regio": "23 - Limburg-Noord (VRLN)",
           "posten": 75,
-          "posten_foto": 8,
+          "posten_foto": 9,
           "voertuigen": 380,
           "voertuigen_foto": 23
         },
@@ -198,7 +198,7 @@
           "posten": 18,
           "posten_foto": 0,
           "voertuigen": 180,
-          "voertuigen_foto": 26
+          "voertuigen_foto": 27
         },
         {
           "regio": "AD-POL",
@@ -373,13 +373,13 @@
           "posten": 29,
           "posten_foto": 0,
           "voertuigen": 512,
-          "voertuigen_foto": 2
+          "voertuigen_foto": 3
         },
         {
           "regio": "(geen regio)",
           "posten": 5,
           "posten_foto": 0,
-          "voertuigen": 37,
+          "voertuigen": 42,
           "voertuigen_foto": 9
         }
       ]
@@ -390,7 +390,7 @@
       "totaal": {
         "posten": 1505,
         "posten_foto": 7,
-        "voertuigen": 8621,
+        "voertuigen": 8610,
         "voertuigen_foto": 125
       },
       "regios": [
@@ -489,7 +489,7 @@
           "regio": "Luik Zone - Hemeco",
           "posten": 18,
           "posten_foto": 0,
-          "voertuigen": 93,
+          "voertuigen": 81,
           "voertuigen_foto": 0
         },
         {
@@ -503,7 +503,7 @@
           "regio": "Luik Zone - IILE-SRI",
           "posten": 57,
           "posten_foto": 0,
-          "voertuigen": 467,
+          "voertuigen": 468,
           "voertuigen_foto": 0
         },
         {
