@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-10-30T10:20:05+00:00",
+  "bijgewerkt": "2026-10-30T18:08:07+00:00",
   "landen": [
     {
       "code": "NL",
@@ -7,8 +7,8 @@
       "totaal": {
         "posten": 2591,
         "posten_foto": 108,
-        "voertuigen": 14690,
-        "voertuigen_foto": 2447
+        "voertuigen": 14691,
+        "voertuigen_foto": 2450
       },
       "regios": [
         {
@@ -50,7 +50,7 @@
           "regio": "6 - Noord- en Oost-Gelderland (VNOG)",
           "posten": 104,
           "posten_foto": 2,
-          "voertuigen": 551,
+          "voertuigen": 552,
           "voertuigen_foto": 137
         },
         {
@@ -79,7 +79,7 @@
           "posten": 117,
           "posten_foto": 3,
           "voertuigen": 483,
-          "voertuigen_foto": 42
+          "voertuigen_foto": 41
         },
         {
           "regio": "11 - Zaanstreek-Waterland (VRZW)",
@@ -100,7 +100,7 @@
           "posten": 61,
           "posten_foto": 4,
           "voertuigen": 412,
-          "voertuigen_foto": 86
+          "voertuigen_foto": 87
         },
         {
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
@@ -135,7 +135,7 @@
           "posten": 69,
           "posten_foto": 6,
           "voertuigen": 398,
-          "voertuigen_foto": 94
+          "voertuigen_foto": 96
         },
         {
           "regio": "19 - Zeeland (VRZ)",
@@ -149,7 +149,7 @@
           "posten": 118,
           "posten_foto": 0,
           "voertuigen": 618,
-          "voertuigen_foto": 62
+          "voertuigen_foto": 63
         },
         {
           "regio": "21 - Brabant-Noord (VRBN)",
@@ -390,7 +390,7 @@
       "totaal": {
         "posten": 1505,
         "posten_foto": 7,
-        "voertuigen": 8614,
+        "voertuigen": 8652,
         "voertuigen_foto": 125
       },
       "regios": [
@@ -433,7 +433,7 @@
           "regio": "Brussel Zone - Brussel",
           "posten": 65,
           "posten_foto": 0,
-          "voertuigen": 380,
+          "voertuigen": 398,
           "voertuigen_foto": 0
         },
         {
@@ -643,7 +643,7 @@
           "regio": "(geen regio)",
           "posten": 5,
           "posten_foto": 0,
-          "voertuigen": 25,
+          "voertuigen": 45,
           "voertuigen_foto": 0
         }
       ]
