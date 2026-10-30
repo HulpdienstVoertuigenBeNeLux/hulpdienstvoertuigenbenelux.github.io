@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-10-30T01:13:29+00:00",
+  "bijgewerkt": "2026-10-30T10:20:05+00:00",
   "landen": [
     {
       "code": "NL",
@@ -7,7 +7,7 @@
       "totaal": {
         "posten": 2591,
         "posten_foto": 108,
-        "voertuigen": 14691,
+        "voertuigen": 14690,
         "voertuigen_foto": 2447
       },
       "regios": [
@@ -183,7 +183,7 @@
           "regio": "25 - Flevoland (VRFL)",
           "posten": 49,
           "posten_foto": 0,
-          "voertuigen": 228,
+          "voertuigen": 227,
           "voertuigen_foto": 46
         },
         {
@@ -390,7 +390,7 @@
       "totaal": {
         "posten": 1505,
         "posten_foto": 7,
-        "voertuigen": 8611,
+        "voertuigen": 8614,
         "voertuigen_foto": 125
       },
       "regios": [
@@ -419,7 +419,7 @@
           "regio": "Antwerpen Zone - Rivierenland",
           "posten": 45,
           "posten_foto": 0,
-          "voertuigen": 344,
+          "voertuigen": 345,
           "voertuigen_foto": 0
         },
         {
@@ -433,7 +433,7 @@
           "regio": "Brussel Zone - Brussel",
           "posten": 65,
           "posten_foto": 0,
-          "voertuigen": 379,
+          "voertuigen": 380,
           "voertuigen_foto": 0
         },
         {
@@ -468,7 +468,7 @@
           "regio": "Limburg Zone - Oost",
           "posten": 36,
           "posten_foto": 0,
-          "voertuigen": 200,
+          "voertuigen": 197,
           "voertuigen_foto": 1
         },
         {
@@ -643,7 +643,7 @@
           "regio": "(geen regio)",
           "posten": 5,
           "posten_foto": 0,
-          "voertuigen": 21,
+          "voertuigen": 25,
           "voertuigen_foto": 0
         }
       ]
