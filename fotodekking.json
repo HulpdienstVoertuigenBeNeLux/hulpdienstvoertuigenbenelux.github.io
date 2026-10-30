@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-10-29T20:26:01+00:00",
+  "bijgewerkt": "2026-10-30T01:13:29+00:00",
   "landen": [
     {
       "code": "NL",
@@ -390,7 +390,7 @@
       "totaal": {
         "posten": 1505,
         "posten_foto": 7,
-        "voertuigen": 8610,
+        "voertuigen": 8611,
         "voertuigen_foto": 125
       },
       "regios": [
@@ -475,7 +475,7 @@
           "regio": "Limburg Zone - Zuid-West",
           "posten": 46,
           "posten_foto": 0,
-          "voertuigen": 279,
+          "voertuigen": 277,
           "voertuigen_foto": 2
         },
         {
@@ -622,7 +622,7 @@
           "regio": "West-Vlaanderen Zone - Fluvia",
           "posten": 38,
           "posten_foto": 1,
-          "voertuigen": 244,
+          "voertuigen": 243,
           "voertuigen_foto": 10
         },
         {
@@ -643,7 +643,7 @@
           "regio": "(geen regio)",
           "posten": 5,
           "posten_foto": 0,
-          "voertuigen": 17,
+          "voertuigen": 21,
           "voertuigen_foto": 0
         }
       ]
