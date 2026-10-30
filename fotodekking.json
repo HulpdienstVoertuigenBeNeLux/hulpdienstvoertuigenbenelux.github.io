@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-10-30T18:08:07+00:00",
+  "bijgewerkt": "2026-10-30T22:34:01+00:00",
   "landen": [
     {
       "code": "NL",
@@ -7,8 +7,8 @@
       "totaal": {
         "posten": 2591,
         "posten_foto": 108,
-        "voertuigen": 14691,
-        "voertuigen_foto": 2450
+        "voertuigen": 14692,
+        "voertuigen_foto": 2456
       },
       "regios": [
         {
@@ -16,7 +16,7 @@
           "posten": 89,
           "posten_foto": 0,
           "voertuigen": 451,
-          "voertuigen_foto": 60
+          "voertuigen_foto": 61
         },
         {
           "regio": "2 - Fryslân (VRF)",
@@ -79,7 +79,7 @@
           "posten": 117,
           "posten_foto": 3,
           "voertuigen": 483,
-          "voertuigen_foto": 41
+          "voertuigen_foto": 43
         },
         {
           "regio": "11 - Zaanstreek-Waterland (VRZW)",
@@ -93,7 +93,7 @@
           "posten": 70,
           "posten_foto": 2,
           "voertuigen": 478,
-          "voertuigen_foto": 82
+          "voertuigen_foto": 85
         },
         {
           "regio": "13 - Amsterdam-Amstelland (VRAA)",
@@ -155,7 +155,7 @@
           "regio": "21 - Brabant-Noord (VRBN)",
           "posten": 78,
           "posten_foto": 2,
-          "voertuigen": 361,
+          "voertuigen": 362,
           "voertuigen_foto": 14
         },
         {
@@ -390,7 +390,7 @@
       "totaal": {
         "posten": 1505,
         "posten_foto": 7,
-        "voertuigen": 8652,
+        "voertuigen": 8661,
         "voertuigen_foto": 125
       },
       "regios": [
@@ -636,7 +636,7 @@
           "regio": "West-Vlaanderen Zone - Westhoek",
           "posten": 79,
           "posten_foto": 3,
-          "voertuigen": 314,
+          "voertuigen": 323,
           "voertuigen_foto": 46
         },
         {
