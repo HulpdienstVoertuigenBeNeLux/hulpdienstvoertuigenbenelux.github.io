@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-10-30T22:34:01+00:00",
+  "bijgewerkt": "2026-10-31T06:05:56+00:00",
   "landen": [
     {
       "code": "NL",
@@ -390,8 +390,8 @@
       "totaal": {
         "posten": 1505,
         "posten_foto": 7,
-        "voertuigen": 8661,
-        "voertuigen_foto": 125
+        "voertuigen": 8649,
+        "voertuigen_foto": 126
       },
       "regios": [
         {
@@ -405,7 +405,7 @@
           "regio": "Antwerpen Zone - Kempen",
           "posten": 30,
           "posten_foto": 0,
-          "voertuigen": 213,
+          "voertuigen": 209,
           "voertuigen_foto": 0
         },
         {
@@ -475,7 +475,7 @@
           "regio": "Limburg Zone - Zuid-West",
           "posten": 46,
           "posten_foto": 0,
-          "voertuigen": 277,
+          "voertuigen": 273,
           "voertuigen_foto": 2
         },
         {
@@ -595,7 +595,7 @@
           "posten": 60,
           "posten_foto": 0,
           "voertuigen": 324,
-          "voertuigen_foto": 11
+          "voertuigen_foto": 12
         },
         {
           "regio": "Vlaams-Brabant Zone - West",
@@ -643,7 +643,7 @@
           "regio": "(geen regio)",
           "posten": 5,
           "posten_foto": 0,
-          "voertuigen": 45,
+          "voertuigen": 41,
           "voertuigen_foto": 0
         }
       ]
