@@ -17,12 +17,7 @@
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
-        "aantal": 138
-    },
-    {
-        "afkorting": "PM",
-        "type": "Trekker klein",
-        "aantal": 1
+        "aantal": 139
     },
     {
         "afkorting": "PMT",
@@ -531,7 +526,7 @@
     },
     {
         "afkorting": "FR-B",
-        "type": "First responder brandweer",
+        "type": "First responder Brandweer",
         "aantal": 56
     },
     {
@@ -951,7 +946,7 @@
     },
     {
         "afkorting": "CTL-B",
-        "type": "Centralist brandweer",
+        "type": "Centralist Brandweer",
         "aantal": 5
     },
     {
