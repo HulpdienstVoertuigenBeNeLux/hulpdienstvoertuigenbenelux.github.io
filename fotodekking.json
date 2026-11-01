@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-01T06:35:23+00:00",
+  "bijgewerkt": "2026-11-01T16:12:57+00:00",
   "landen": [
     {
       "code": "NL",
@@ -29,7 +29,7 @@
           "regio": "3 - Drenthe (VRD)",
           "posten": 87,
           "posten_foto": 5,
-          "voertuigen": 365,
+          "voertuigen": 364,
           "voertuigen_foto": 67
         },
         {
@@ -64,7 +64,7 @@
           "regio": "8 - Gelderland-Zuid (VRGZ)",
           "posten": 68,
           "posten_foto": 11,
-          "voertuigen": 391,
+          "voertuigen": 392,
           "voertuigen_foto": 184
         },
         {
@@ -390,7 +390,7 @@
       "totaal": {
         "posten": 1505,
         "posten_foto": 7,
-        "voertuigen": 8649,
+        "voertuigen": 8667,
         "voertuigen_foto": 126
       },
       "regios": [
@@ -426,7 +426,7 @@
           "regio": "Antwerpen Zone - Taxandria",
           "posten": 25,
           "posten_foto": 0,
-          "voertuigen": 196,
+          "voertuigen": 200,
           "voertuigen_foto": 1
         },
         {
@@ -475,7 +475,7 @@
           "regio": "Limburg Zone - Zuid-West",
           "posten": 46,
           "posten_foto": 0,
-          "voertuigen": 273,
+          "voertuigen": 277,
           "voertuigen_foto": 2
         },
         {
@@ -503,14 +503,14 @@
           "regio": "Luik Zone - IILE-SRI",
           "posten": 57,
           "posten_foto": 0,
-          "voertuigen": 468,
+          "voertuigen": 469,
           "voertuigen_foto": 0
         },
         {
           "regio": "Luik Zone - Vesdre-Hoëgne & Plateau",
           "posten": 28,
           "posten_foto": 0,
-          "voertuigen": 164,
+          "voertuigen": 171,
           "voertuigen_foto": 0
         },
         {
@@ -566,7 +566,7 @@
           "regio": "Oost-Vlaanderen Zone - Oost",
           "posten": 25,
           "posten_foto": 0,
-          "voertuigen": 153,
+          "voertuigen": 154,
           "voertuigen_foto": 0
         },
         {
@@ -622,7 +622,7 @@
           "regio": "West-Vlaanderen Zone - Fluvia",
           "posten": 38,
           "posten_foto": 1,
-          "voertuigen": 243,
+          "voertuigen": 245,
           "voertuigen_foto": 10
         },
         {
@@ -643,7 +643,7 @@
           "regio": "(geen regio)",
           "posten": 5,
           "posten_foto": 0,
-          "voertuigen": 41,
+          "voertuigen": 40,
           "voertuigen_foto": 0
         }
       ]
