@@ -12,7 +12,7 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 712
+        "aantal": 713
     },
     {
         "afkorting": "PM",
@@ -162,7 +162,7 @@
     {
         "afkorting": "VK-GS",
         "type": "Verkenningsvoertuig IBGS",
-        "aantal": 80
+        "aantal": 79
     },
     {
         "afkorting": "OG",
