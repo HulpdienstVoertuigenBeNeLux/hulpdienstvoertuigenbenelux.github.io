@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 831
+        "aantal": 832
     },
     {
         "afkorting": "DAT",
@@ -117,7 +117,7 @@
     {
         "afkorting": "GSH",
         "type": "Gevaarlijke stoffen haakarmbak",
-        "aantal": 15
+        "aantal": 16
     },
     {
         "afkorting": "GSH-PBM",
@@ -172,7 +172,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1152
+        "aantal": 1151
     },
     {
         "afkorting": "TST",
@@ -592,7 +592,7 @@
     {
         "afkorting": "LIH-RTV",
         "type": "Verlichtingshaakarmbak rampterrein verlichting",
-        "aantal": 17
+        "aantal": 16
     },
     {
         "afkorting": "RH",
@@ -982,7 +982,7 @@
     {
         "afkorting": "HOVD-B",
         "type": "Hoofdofficier van dienst Brandweer",
-        "aantal": 47
+        "aantal": 46
     },
     {
         "afkorting": "HOVD-HB",
