@@ -117,7 +117,7 @@
     {
         "afkorting": "GSH",
         "type": "Gevaarlijke stoffen haakarmbak",
-        "aantal": 16
+        "aantal": 15
     },
     {
         "afkorting": "GSH-PBM",
@@ -682,7 +682,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 136
+        "aantal": 135
     },
     {
         "afkorting": "GMT",
@@ -937,7 +937,7 @@
     {
         "afkorting": "AGS",
         "type": "Adviseur gevaarlijke stoffen",
-        "aantal": 29
+        "aantal": 30
     },
     {
         "afkorting": "AGS-ROT",
@@ -1347,7 +1347,7 @@
     {
         "afkorting": "BMH-OTO",
         "type": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
-        "aantal": 61
+        "aantal": 62
     },
     {
         "afkorting": "TS-OTO",
