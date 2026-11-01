@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-10-31T06:05:56+00:00",
+  "bijgewerkt": "2026-11-01T06:35:23+00:00",
   "landen": [
     {
       "code": "NL",
@@ -7,7 +7,7 @@
       "totaal": {
         "posten": 2591,
         "posten_foto": 108,
-        "voertuigen": 14692,
+        "voertuigen": 14691,
         "voertuigen_foto": 2456
       },
       "regios": [
@@ -64,7 +64,7 @@
           "regio": "8 - Gelderland-Zuid (VRGZ)",
           "posten": 68,
           "posten_foto": 11,
-          "voertuigen": 392,
+          "voertuigen": 391,
           "voertuigen_foto": 184
         },
         {
