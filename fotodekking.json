@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-01T16:12:57+00:00",
+  "bijgewerkt": "2026-11-01T22:14:43+00:00",
   "landen": [
     {
       "code": "NL",
@@ -8,7 +8,7 @@
         "posten": 2591,
         "posten_foto": 108,
         "voertuigen": 14691,
-        "voertuigen_foto": 2456
+        "voertuigen_foto": 2459
       },
       "regios": [
         {
@@ -30,7 +30,7 @@
           "posten": 87,
           "posten_foto": 5,
           "voertuigen": 364,
-          "voertuigen_foto": 67
+          "voertuigen_foto": 68
         },
         {
           "regio": "4 - IJsselland (VRIJ)",
@@ -163,7 +163,7 @@
           "posten": 75,
           "posten_foto": 24,
           "voertuigen": 416,
-          "voertuigen_foto": 94
+          "voertuigen_foto": 95
         },
         {
           "regio": "23 - Limburg-Noord (VRLN)",
@@ -184,7 +184,7 @@
           "posten": 49,
           "posten_foto": 0,
           "voertuigen": 227,
-          "voertuigen_foto": 46
+          "voertuigen_foto": 47
         },
         {
           "regio": "26 - NIPV",
