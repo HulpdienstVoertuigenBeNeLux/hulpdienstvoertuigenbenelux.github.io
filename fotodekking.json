@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-01T22:14:43+00:00",
+  "bijgewerkt": "2026-11-02T06:35:51+00:00",
   "landen": [
     {
       "code": "NL",
@@ -8,7 +8,7 @@
         "posten": 2591,
         "posten_foto": 108,
         "voertuigen": 14691,
-        "voertuigen_foto": 2459
+        "voertuigen_foto": 2468
       },
       "regios": [
         {
@@ -114,28 +114,28 @@
           "posten": 67,
           "posten_foto": 4,
           "voertuigen": 446,
-          "voertuigen_foto": 122
+          "voertuigen_foto": 125
         },
         {
           "regio": "16 - Hollands Midden (VRHM)",
           "posten": 84,
           "posten_foto": 6,
           "voertuigen": 457,
-          "voertuigen_foto": 92
+          "voertuigen_foto": 94
         },
         {
           "regio": "17 - Rotterdam-Rijnmond (VRR)",
           "posten": 153,
           "posten_foto": 11,
           "voertuigen": 1064,
-          "voertuigen_foto": 318
+          "voertuigen_foto": 321
         },
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
           "posten": 69,
           "posten_foto": 6,
           "voertuigen": 398,
-          "voertuigen_foto": 96
+          "voertuigen_foto": 97
         },
         {
           "regio": "19 - Zeeland (VRZ)",
@@ -390,8 +390,8 @@
       "totaal": {
         "posten": 1505,
         "posten_foto": 7,
-        "voertuigen": 8667,
-        "voertuigen_foto": 126
+        "voertuigen": 8664,
+        "voertuigen_foto": 138
       },
       "regios": [
         {
@@ -426,7 +426,7 @@
           "regio": "Antwerpen Zone - Taxandria",
           "posten": 25,
           "posten_foto": 0,
-          "voertuigen": 200,
+          "voertuigen": 199,
           "voertuigen_foto": 1
         },
         {
@@ -524,7 +524,7 @@
           "regio": "Luxemburg Zone - Luxemburg",
           "posten": 66,
           "posten_foto": 0,
-          "voertuigen": 452,
+          "voertuigen": 450,
           "voertuigen_foto": 0
         },
         {
@@ -637,7 +637,7 @@
           "posten": 79,
           "posten_foto": 3,
           "voertuigen": 323,
-          "voertuigen_foto": 46
+          "voertuigen_foto": 58
         },
         {
           "regio": "(geen regio)",
@@ -655,7 +655,7 @@
         "posten": 199,
         "posten_foto": 0,
         "voertuigen": 1267,
-        "voertuigen_foto": 0
+        "voertuigen_foto": 1
       },
       "regios": [
         {
@@ -663,7 +663,7 @@
           "posten": 58,
           "posten_foto": 0,
           "voertuigen": 523,
-          "voertuigen_foto": 0
+          "voertuigen_foto": 1
         },
         {
           "regio": "Eastern Rescue Zone",
