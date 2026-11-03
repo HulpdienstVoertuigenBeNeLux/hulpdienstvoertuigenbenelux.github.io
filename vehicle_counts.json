@@ -80,6 +80,11 @@
         "aantal": 1
     },
     {
+        "afkorting": "WOH",
+        "type": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
+        "aantal": 1
+    },
+    {
         "afkorting": "WOV",
         "type": "Waterongevallenvaartuig",
         "aantal": 1
@@ -507,7 +512,7 @@
     {
         "afkorting": "WT-G",
         "type": "Watertankwagen groot",
-        "aantal": 13
+        "aantal": 15
     },
     {
         "afkorting": "WTH",
@@ -847,12 +852,12 @@
     {
         "afkorting": "VZH",
         "type": "Verzorgingshaakarmbak",
-        "aantal": 34
+        "aantal": 33
     },
     {
         "afkorting": "VZH-KA",
         "type": "Verzorgingshaakarmbak met kantine",
-        "aantal": 2
+        "aantal": 3
     },
     {
         "afkorting": "VZA-WC",
@@ -1347,7 +1352,7 @@
     {
         "afkorting": "BMH-OTO",
         "type": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
-        "aantal": 62
+        "aantal": 61
     },
     {
         "afkorting": "TS-OTO",
