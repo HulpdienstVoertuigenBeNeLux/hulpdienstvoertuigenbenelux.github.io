@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-02T19:40:02+00:00",
+  "bijgewerkt": "2026-11-03T11:11:31+00:00",
   "landen": [
     {
       "code": "NL",
@@ -7,8 +7,8 @@
       "totaal": {
         "posten": 2591,
         "posten_foto": 108,
-        "voertuigen": 14691,
-        "voertuigen_foto": 2475
+        "voertuigen": 14693,
+        "voertuigen_foto": 2480
       },
       "regios": [
         {
@@ -100,7 +100,7 @@
           "posten": 61,
           "posten_foto": 4,
           "voertuigen": 412,
-          "voertuigen_foto": 87
+          "voertuigen_foto": 91
         },
         {
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
@@ -127,8 +127,8 @@
           "regio": "17 - Rotterdam-Rijnmond (VRR)",
           "posten": 153,
           "posten_foto": 11,
-          "voertuigen": 1064,
-          "voertuigen_foto": 323
+          "voertuigen": 1066,
+          "voertuigen_foto": 324
         },
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
