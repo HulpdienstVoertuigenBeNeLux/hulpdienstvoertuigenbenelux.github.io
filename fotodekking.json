@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-03T11:11:31+00:00",
+  "bijgewerkt": "2026-11-03T19:41:51+00:00",
   "landen": [
     {
       "code": "NL",
@@ -7,8 +7,8 @@
       "totaal": {
         "posten": 2591,
         "posten_foto": 108,
-        "voertuigen": 14693,
-        "voertuigen_foto": 2480
+        "voertuigen": 14691,
+        "voertuigen_foto": 2500
       },
       "regios": [
         {
@@ -16,7 +16,7 @@
           "posten": 89,
           "posten_foto": 0,
           "voertuigen": 451,
-          "voertuigen_foto": 62
+          "voertuigen_foto": 63
         },
         {
           "regio": "2 - Fryslân (VRF)",
@@ -51,7 +51,7 @@
           "posten": 104,
           "posten_foto": 2,
           "voertuigen": 552,
-          "voertuigen_foto": 137
+          "voertuigen_foto": 138
         },
         {
           "regio": "7 - Gelderland-Midden (VGGM)",
@@ -79,42 +79,42 @@
           "posten": 117,
           "posten_foto": 3,
           "voertuigen": 483,
-          "voertuigen_foto": 43
+          "voertuigen_foto": 44
         },
         {
           "regio": "11 - Zaanstreek-Waterland (VRZW)",
           "posten": 42,
           "posten_foto": 5,
           "voertuigen": 204,
-          "voertuigen_foto": 106
+          "voertuigen_foto": 107
         },
         {
           "regio": "12 - Kennemerland (VRK)",
           "posten": 70,
           "posten_foto": 2,
-          "voertuigen": 478,
-          "voertuigen_foto": 87
+          "voertuigen": 477,
+          "voertuigen_foto": 90
         },
         {
           "regio": "13 - Amsterdam-Amstelland (VRAA)",
           "posten": 61,
           "posten_foto": 4,
           "voertuigen": 412,
-          "voertuigen_foto": 91
+          "voertuigen_foto": 96
         },
         {
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
           "posten": 32,
           "posten_foto": 1,
           "voertuigen": 172,
-          "voertuigen_foto": 41
+          "voertuigen_foto": 43
         },
         {
           "regio": "15 - Haaglanden (VRH)",
           "posten": 67,
           "posten_foto": 4,
-          "voertuigen": 446,
-          "voertuigen_foto": 126
+          "voertuigen": 447,
+          "voertuigen_foto": 130
         },
         {
           "regio": "16 - Hollands Midden (VRHM)",
@@ -134,7 +134,7 @@
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
           "posten": 69,
           "posten_foto": 6,
-          "voertuigen": 398,
+          "voertuigen": 397,
           "voertuigen_foto": 97
         },
         {
@@ -149,13 +149,13 @@
           "posten": 118,
           "posten_foto": 0,
           "voertuigen": 618,
-          "voertuigen_foto": 63
+          "voertuigen_foto": 64
         },
         {
           "regio": "21 - Brabant-Noord (VRBN)",
           "posten": 78,
           "posten_foto": 2,
-          "voertuigen": 362,
+          "voertuigen": 361,
           "voertuigen_foto": 14
         },
         {
@@ -198,7 +198,7 @@
           "posten": 18,
           "posten_foto": 0,
           "voertuigen": 180,
-          "voertuigen_foto": 27
+          "voertuigen_foto": 28
         },
         {
           "regio": "AD-POL",
