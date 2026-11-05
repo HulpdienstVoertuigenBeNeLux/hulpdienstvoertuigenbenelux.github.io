@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-05T11:20:41+00:00",
+  "bijgewerkt": "2026-11-05T20:11:19+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2594,
-        "posten_foto": 118,
-        "voertuigen": 14691,
-        "voertuigen_foto": 2582
+        "posten_foto": 119,
+        "voertuigen": 14690,
+        "voertuigen_foto": 2670
       },
       "regios": [
         {
@@ -93,7 +93,7 @@
           "posten": 70,
           "posten_foto": 2,
           "voertuigen": 478,
-          "voertuigen_foto": 98
+          "voertuigen_foto": 112
         },
         {
           "regio": "13 - Amsterdam-Amstelland (VRAA)",
@@ -107,7 +107,7 @@
           "posten": 32,
           "posten_foto": 1,
           "voertuigen": 172,
-          "voertuigen_foto": 43
+          "voertuigen_foto": 45
         },
         {
           "regio": "15 - Haaglanden (VRH)",
@@ -119,23 +119,23 @@
         {
           "regio": "16 - Hollands Midden (VRHM)",
           "posten": 84,
-          "posten_foto": 6,
+          "posten_foto": 7,
           "voertuigen": 456,
-          "voertuigen_foto": 105
+          "voertuigen_foto": 177
         },
         {
           "regio": "17 - Rotterdam-Rijnmond (VRR)",
           "posten": 153,
           "posten_foto": 11,
           "voertuigen": 1066,
-          "voertuigen_foto": 322
+          "voertuigen_foto": 321
         },
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
           "posten": 69,
           "posten_foto": 6,
           "voertuigen": 397,
-          "voertuigen_foto": 97
+          "voertuigen_foto": 98
         },
         {
           "regio": "19 - Zeeland (VRZ)",
@@ -379,7 +379,7 @@
           "regio": "(geen regio)",
           "posten": 5,
           "posten_foto": 0,
-          "voertuigen": 40,
+          "voertuigen": 39,
           "voertuigen_foto": 9
         }
       ]
@@ -391,7 +391,7 @@
         "posten": 1505,
         "posten_foto": 7,
         "voertuigen": 8654,
-        "voertuigen_foto": 146
+        "voertuigen_foto": 147
       },
       "regios": [
         {
@@ -637,7 +637,7 @@
           "posten": 79,
           "posten_foto": 3,
           "voertuigen": 323,
-          "voertuigen_foto": 64
+          "voertuigen_foto": 65
         },
         {
           "regio": "(geen regio)",
