@@ -177,7 +177,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1150
+        "aantal": 1151
     },
     {
         "afkorting": "TST",
@@ -547,7 +547,7 @@
     {
         "afkorting": "HV",
         "type": "Hulpverleningsvoertuig",
-        "aantal": 47
+        "aantal": 46
     },
     {
         "afkorting": "HVA",
@@ -567,7 +567,7 @@
     {
         "afkorting": "HV-KR",
         "type": "Hulpverleningsvoertuig met kraan",
-        "aantal": 46
+        "aantal": 47
     },
     {
         "afkorting": "ON-HV",
