@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-05T20:11:19+00:00",
+  "bijgewerkt": "2026-11-06T01:42:18+00:00",
   "landen": [
     {
       "code": "NL",
@@ -390,7 +390,7 @@
       "totaal": {
         "posten": 1505,
         "posten_foto": 7,
-        "voertuigen": 8654,
+        "voertuigen": 8644,
         "voertuigen_foto": 147
       },
       "regios": [
@@ -447,7 +447,7 @@
           "regio": "Henegouwen Zone - Hainaut-Est",
           "posten": 45,
           "posten_foto": 0,
-          "voertuigen": 221,
+          "voertuigen": 212,
           "voertuigen_foto": 0
         },
         {
@@ -608,7 +608,7 @@
           "regio": "Waals-Brabant Zone - Brabant-Wallon",
           "posten": 64,
           "posten_foto": 0,
-          "voertuigen": 255,
+          "voertuigen": 254,
           "voertuigen_foto": 0
         },
         {
@@ -655,7 +655,7 @@
         "posten": 199,
         "posten_foto": 0,
         "voertuigen": 1267,
-        "voertuigen_foto": 22
+        "voertuigen_foto": 41
       },
       "regios": [
         {
@@ -663,28 +663,28 @@
           "posten": 58,
           "posten_foto": 0,
           "voertuigen": 523,
-          "voertuigen_foto": 11
+          "voertuigen_foto": 22
         },
         {
           "regio": "Eastern Rescue Zone",
           "posten": 40,
           "posten_foto": 0,
           "voertuigen": 230,
-          "voertuigen_foto": 7
+          "voertuigen_foto": 10
         },
         {
           "regio": "Northern Rescue Zone",
           "posten": 67,
           "posten_foto": 0,
           "voertuigen": 309,
-          "voertuigen_foto": 1
+          "voertuigen_foto": 2
         },
         {
           "regio": "Southern Rescue Zone",
           "posten": 34,
           "posten_foto": 0,
           "voertuigen": 205,
-          "voertuigen_foto": 3
+          "voertuigen_foto": 7
         }
       ]
     }
