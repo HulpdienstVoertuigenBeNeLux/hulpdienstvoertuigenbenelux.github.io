@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-06T01:42:18+00:00",
+  "bijgewerkt": "2026-11-06T11:17:36+00:00",
   "landen": [
     {
       "code": "NL",
@@ -655,7 +655,7 @@
         "posten": 199,
         "posten_foto": 0,
         "voertuigen": 1267,
-        "voertuigen_foto": 41
+        "voertuigen_foto": 61
       },
       "regios": [
         {
@@ -663,28 +663,28 @@
           "posten": 58,
           "posten_foto": 0,
           "voertuigen": 523,
-          "voertuigen_foto": 22
+          "voertuigen_foto": 29
         },
         {
           "regio": "Eastern Rescue Zone",
           "posten": 40,
           "posten_foto": 0,
           "voertuigen": 230,
-          "voertuigen_foto": 10
+          "voertuigen_foto": 14
         },
         {
           "regio": "Northern Rescue Zone",
           "posten": 67,
           "posten_foto": 0,
           "voertuigen": 309,
-          "voertuigen_foto": 2
+          "voertuigen_foto": 7
         },
         {
           "regio": "Southern Rescue Zone",
           "posten": 34,
           "posten_foto": 0,
           "voertuigen": 205,
-          "voertuigen_foto": 7
+          "voertuigen_foto": 11
         }
       ]
     }
