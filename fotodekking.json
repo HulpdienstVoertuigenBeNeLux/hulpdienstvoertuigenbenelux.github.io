@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-06T11:17:36+00:00",
+  "bijgewerkt": "2026-11-06T19:37:05+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
-        "posten": 2594,
-        "posten_foto": 119,
+        "posten": 2593,
+        "posten_foto": 120,
         "voertuigen": 14690,
-        "voertuigen_foto": 2670
+        "voertuigen_foto": 2717
       },
       "regios": [
         {
@@ -30,14 +30,14 @@
           "posten": 87,
           "posten_foto": 7,
           "voertuigen": 364,
-          "voertuigen_foto": 76
+          "voertuigen_foto": 77
         },
         {
           "regio": "4 - IJsselland (VRIJ)",
           "posten": 68,
           "posten_foto": 0,
           "voertuigen": 391,
-          "voertuigen_foto": 149
+          "voertuigen_foto": 150
         },
         {
           "regio": "5 - Twente (VRT)",
@@ -48,10 +48,10 @@
         },
         {
           "regio": "6 - Noord- en Oost-Gelderland (VNOG)",
-          "posten": 105,
-          "posten_foto": 2,
+          "posten": 104,
+          "posten_foto": 3,
           "voertuigen": 555,
-          "voertuigen_foto": 147
+          "voertuigen_foto": 152
         },
         {
           "regio": "7 - Gelderland-Midden (VGGM)",
@@ -79,21 +79,21 @@
           "posten": 117,
           "posten_foto": 3,
           "voertuigen": 484,
-          "voertuigen_foto": 46
+          "voertuigen_foto": 47
         },
         {
           "regio": "11 - Zaanstreek-Waterland (VRZW)",
           "posten": 42,
           "posten_foto": 12,
           "voertuigen": 204,
-          "voertuigen_foto": 110
+          "voertuigen_foto": 114
         },
         {
           "regio": "12 - Kennemerland (VRK)",
           "posten": 70,
           "posten_foto": 2,
           "voertuigen": 478,
-          "voertuigen_foto": 112
+          "voertuigen_foto": 125
         },
         {
           "regio": "13 - Amsterdam-Amstelland (VRAA)",
@@ -114,14 +114,14 @@
           "posten": 67,
           "posten_foto": 4,
           "voertuigen": 450,
-          "voertuigen_foto": 129
+          "voertuigen_foto": 131
         },
         {
           "regio": "16 - Hollands Midden (VRHM)",
           "posten": 84,
           "posten_foto": 7,
           "voertuigen": 456,
-          "voertuigen_foto": 177
+          "voertuigen_foto": 191
         },
         {
           "regio": "17 - Rotterdam-Rijnmond (VRR)",
@@ -170,7 +170,7 @@
           "posten": 75,
           "posten_foto": 9,
           "voertuigen": 380,
-          "voertuigen_foto": 29
+          "voertuigen_foto": 35
         },
         {
           "regio": "24 - Zuid-Limburg (VRZL)",
@@ -388,10 +388,10 @@
       "code": "BE",
       "naam": "België",
       "totaal": {
-        "posten": 1505,
-        "posten_foto": 7,
-        "voertuigen": 8644,
-        "voertuigen_foto": 147
+        "posten": 1506,
+        "posten_foto": 8,
+        "voertuigen": 8646,
+        "voertuigen_foto": 149
       },
       "regios": [
         {
@@ -522,10 +522,10 @@
         },
         {
           "regio": "Luxemburg Zone - Luxemburg",
-          "posten": 66,
-          "posten_foto": 0,
-          "voertuigen": 450,
-          "voertuigen_foto": 0
+          "posten": 67,
+          "posten_foto": 1,
+          "voertuigen": 452,
+          "voertuigen_foto": 2
         },
         {
           "regio": "Namen Zone - Dinaphi",
@@ -652,39 +652,39 @@
       "code": "LUX",
       "naam": "Luxemburg",
       "totaal": {
-        "posten": 199,
-        "posten_foto": 0,
-        "voertuigen": 1267,
-        "voertuigen_foto": 61
+        "posten": 200,
+        "posten_foto": 5,
+        "voertuigen": 1277,
+        "voertuigen_foto": 141
       },
       "regios": [
         {
           "regio": "Central Rescue Zone",
           "posten": 58,
           "posten_foto": 0,
-          "voertuigen": 523,
-          "voertuigen_foto": 29
+          "voertuigen": 525,
+          "voertuigen_foto": 67
         },
         {
           "regio": "Eastern Rescue Zone",
           "posten": 40,
-          "posten_foto": 0,
+          "posten_foto": 1,
           "voertuigen": 230,
-          "voertuigen_foto": 14
+          "voertuigen_foto": 25
         },
         {
           "regio": "Northern Rescue Zone",
-          "posten": 67,
+          "posten": 68,
           "posten_foto": 0,
-          "voertuigen": 309,
-          "voertuigen_foto": 7
+          "voertuigen": 317,
+          "voertuigen_foto": 29
         },
         {
           "regio": "Southern Rescue Zone",
           "posten": 34,
-          "posten_foto": 0,
+          "posten_foto": 4,
           "voertuigen": 205,
-          "voertuigen_foto": 11
+          "voertuigen_foto": 20
         }
       ]
     }
