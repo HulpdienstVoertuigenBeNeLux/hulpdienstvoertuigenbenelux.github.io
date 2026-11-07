@@ -647,7 +647,7 @@
     {
         "afkorting": "AB",
         "type": "Adembescherming voertuig",
-        "aantal": 12
+        "aantal": 11
     },
     {
         "afkorting": "ABH",
@@ -737,7 +737,7 @@
     {
         "afkorting": "LO",
         "type": "Logistiek voertuig",
-        "aantal": 107
+        "aantal": 108
     },
     {
         "afkorting": "LO-KR",
@@ -747,7 +747,7 @@
     {
         "afkorting": "LOA",
         "type": "Logistiek aanhanger",
-        "aantal": 30
+        "aantal": 29
     },
     {
         "afkorting": "LOH",
