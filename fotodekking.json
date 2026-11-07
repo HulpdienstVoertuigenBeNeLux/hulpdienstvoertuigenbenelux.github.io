@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-07T01:02:05+00:00",
+  "bijgewerkt": "2026-11-07T10:32:39+00:00",
   "landen": [
     {
       "code": "NL",
@@ -8,7 +8,7 @@
         "posten": 2593,
         "posten_foto": 120,
         "voertuigen": 14690,
-        "voertuigen_foto": 2736
+        "voertuigen_foto": 2738
       },
       "regios": [
         {
@@ -114,7 +114,7 @@
           "posten": 67,
           "posten_foto": 4,
           "voertuigen": 450,
-          "voertuigen_foto": 136
+          "voertuigen_foto": 137
         },
         {
           "regio": "16 - Hollands Midden (VRHM)",
@@ -128,7 +128,7 @@
           "posten": 153,
           "posten_foto": 11,
           "voertuigen": 1066,
-          "voertuigen_foto": 321
+          "voertuigen_foto": 322
         },
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
