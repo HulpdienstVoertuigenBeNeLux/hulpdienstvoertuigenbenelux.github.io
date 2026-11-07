@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-06T19:37:05+00:00",
+  "bijgewerkt": "2026-11-07T01:02:05+00:00",
   "landen": [
     {
       "code": "NL",
@@ -8,7 +8,7 @@
         "posten": 2593,
         "posten_foto": 120,
         "voertuigen": 14690,
-        "voertuigen_foto": 2717
+        "voertuigen_foto": 2736
       },
       "regios": [
         {
@@ -72,7 +72,7 @@
           "posten": 143,
           "posten_foto": 9,
           "voertuigen": 728,
-          "voertuigen_foto": 223
+          "voertuigen_foto": 226
         },
         {
           "regio": "10 - Noord-Holland-Noord (VRNHN)",
@@ -86,14 +86,14 @@
           "posten": 42,
           "posten_foto": 12,
           "voertuigen": 204,
-          "voertuigen_foto": 114
+          "voertuigen_foto": 119
         },
         {
           "regio": "12 - Kennemerland (VRK)",
           "posten": 70,
           "posten_foto": 2,
           "voertuigen": 478,
-          "voertuigen_foto": 125
+          "voertuigen_foto": 129
         },
         {
           "regio": "13 - Amsterdam-Amstelland (VRAA)",
@@ -107,14 +107,14 @@
           "posten": 32,
           "posten_foto": 1,
           "voertuigen": 172,
-          "voertuigen_foto": 45
+          "voertuigen_foto": 47
         },
         {
           "regio": "15 - Haaglanden (VRH)",
           "posten": 67,
           "posten_foto": 4,
           "voertuigen": 450,
-          "voertuigen_foto": 131
+          "voertuigen_foto": 136
         },
         {
           "regio": "16 - Hollands Midden (VRHM)",
@@ -390,8 +390,8 @@
       "totaal": {
         "posten": 1506,
         "posten_foto": 8,
-        "voertuigen": 8646,
-        "voertuigen_foto": 149
+        "voertuigen": 8641,
+        "voertuigen_foto": 150
       },
       "regios": [
         {
@@ -412,7 +412,7 @@
           "regio": "Antwerpen Zone - Rand",
           "posten": 54,
           "posten_foto": 0,
-          "voertuigen": 701,
+          "voertuigen": 698,
           "voertuigen_foto": 0
         },
         {
@@ -426,7 +426,7 @@
           "regio": "Antwerpen Zone - Taxandria",
           "posten": 25,
           "posten_foto": 0,
-          "voertuigen": 199,
+          "voertuigen": 197,
           "voertuigen_foto": 1
         },
         {
@@ -637,7 +637,7 @@
           "posten": 79,
           "posten_foto": 3,
           "voertuigen": 323,
-          "voertuigen_foto": 65
+          "voertuigen_foto": 66
         },
         {
           "regio": "(geen regio)",
