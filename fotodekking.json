@@ -1,13 +1,13 @@
 {
-  "bijgewerkt": "2026-11-08T13:46:39+00:00",
+  "bijgewerkt": "2026-11-08T19:51:36+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
-        "posten": 2594,
+        "posten": 2595,
         "posten_foto": 124,
-        "voertuigen": 14690,
+        "voertuigen": 14696,
         "voertuigen_foto": 2870
       },
       "regios": [
@@ -41,9 +41,9 @@
         },
         {
           "regio": "5 - Twente (VRT)",
-          "posten": 68,
+          "posten": 69,
           "posten_foto": 0,
-          "voertuigen": 377,
+          "voertuigen": 380,
           "voertuigen_foto": 120
         },
         {
@@ -57,7 +57,7 @@
           "regio": "7 - Gelderland-Midden (VGGM)",
           "posten": 79,
           "posten_foto": 0,
-          "voertuigen": 425,
+          "voertuigen": 426,
           "voertuigen_foto": 75
         },
         {
@@ -379,7 +379,7 @@
           "regio": "(geen regio)",
           "posten": 5,
           "posten_foto": 0,
-          "voertuigen": 39,
+          "voertuigen": 41,
           "voertuigen_foto": 9
         }
       ]
@@ -388,10 +388,10 @@
       "code": "BE",
       "naam": "België",
       "totaal": {
-        "posten": 1505,
+        "posten": 1508,
         "posten_foto": 8,
         "voertuigen": 8629,
-        "voertuigen_foto": 150
+        "voertuigen_foto": 153
       },
       "regios": [
         {
@@ -550,10 +550,10 @@
         },
         {
           "regio": "Oost-Vlaanderen Zone - Centrum",
-          "posten": 60,
+          "posten": 62,
           "posten_foto": 0,
-          "voertuigen": 344,
-          "voertuigen_foto": 0
+          "voertuigen": 346,
+          "voertuigen_foto": 3
         },
         {
           "regio": "Oost-Vlaanderen Zone - Meetjesland",
@@ -620,9 +620,9 @@
         },
         {
           "regio": "West-Vlaanderen Zone - Fluvia",
-          "posten": 37,
+          "posten": 38,
           "posten_foto": 1,
-          "voertuigen": 239,
+          "voertuigen": 237,
           "voertuigen_foto": 10
         },
         {
