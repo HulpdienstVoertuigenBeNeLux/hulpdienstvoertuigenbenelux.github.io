@@ -542,7 +542,7 @@
     {
         "afkorting": "HV",
         "type": "Hulpverleningsvoertuig",
-        "aantal": 46
+        "aantal": 47
     },
     {
         "afkorting": "HVA",
@@ -562,7 +562,7 @@
     {
         "afkorting": "HV-KR",
         "type": "Hulpverleningsvoertuig met kraan",
-        "aantal": 47
+        "aantal": 46
     },
     {
         "afkorting": "ON-HV",
@@ -682,7 +682,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 135
+        "aantal": 136
     },
     {
         "afkorting": "GMT",
