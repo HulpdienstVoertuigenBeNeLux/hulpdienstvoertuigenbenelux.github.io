@@ -1227,7 +1227,7 @@
     {
         "afkorting": "TS-BB",
         "type": "Tankautospuit bedrijfsbrandweer",
-        "aantal": 45
+        "aantal": 46
     },
     {
         "afkorting": "SB-BB",
@@ -1352,7 +1352,7 @@
     {
         "afkorting": "TS-OTO",
         "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
-        "aantal": 29
+        "aantal": 28
     },
     {
         "afkorting": "HV-OTO",
