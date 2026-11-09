@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-08T19:51:36+00:00",
+  "bijgewerkt": "2026-11-09T01:06:06+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
-        "posten": 2595,
-        "posten_foto": 124,
+        "posten": 2594,
+        "posten_foto": 125,
         "voertuigen": 14696,
-        "voertuigen_foto": 2870
+        "voertuigen_foto": 3014
       },
       "regios": [
         {
@@ -23,42 +23,42 @@
           "posten": 154,
           "posten_foto": 1,
           "voertuigen": 576,
-          "voertuigen_foto": 51
+          "voertuigen_foto": 52
         },
         {
           "regio": "3 - Drenthe (VRD)",
           "posten": 87,
           "posten_foto": 7,
           "voertuigen": 364,
-          "voertuigen_foto": 80
+          "voertuigen_foto": 90
         },
         {
           "regio": "4 - IJsselland (VRIJ)",
           "posten": 68,
           "posten_foto": 0,
           "voertuigen": 391,
-          "voertuigen_foto": 153
+          "voertuigen_foto": 157
         },
         {
           "regio": "5 - Twente (VRT)",
           "posten": 69,
           "posten_foto": 0,
           "voertuigen": 380,
-          "voertuigen_foto": 120
+          "voertuigen_foto": 141
         },
         {
           "regio": "6 - Noord- en Oost-Gelderland (VNOG)",
           "posten": 105,
           "posten_foto": 3,
           "voertuigen": 555,
-          "voertuigen_foto": 153
+          "voertuigen_foto": 162
         },
         {
           "regio": "7 - Gelderland-Midden (VGGM)",
           "posten": 79,
           "posten_foto": 0,
           "voertuigen": 426,
-          "voertuigen_foto": 75
+          "voertuigen_foto": 94
         },
         {
           "regio": "8 - Gelderland-Zuid (VRGZ)",
@@ -70,16 +70,16 @@
         {
           "regio": "9 - Utrecht (VRU)",
           "posten": 143,
-          "posten_foto": 9,
+          "posten_foto": 10,
           "voertuigen": 728,
-          "voertuigen_foto": 226
+          "voertuigen_foto": 232
         },
         {
           "regio": "10 - Noord-Holland-Noord (VRNHN)",
           "posten": 117,
           "posten_foto": 4,
           "voertuigen": 484,
-          "voertuigen_foto": 47
+          "voertuigen_foto": 48
         },
         {
           "regio": "11 - Zaanstreek-Waterland (VRZW)",
@@ -100,21 +100,21 @@
           "posten": 61,
           "posten_foto": 7,
           "voertuigen": 412,
-          "voertuigen_foto": 104
+          "voertuigen_foto": 106
         },
         {
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
           "posten": 32,
           "posten_foto": 1,
           "voertuigen": 172,
-          "voertuigen_foto": 47
+          "voertuigen_foto": 48
         },
         {
           "regio": "15 - Haaglanden (VRH)",
           "posten": 67,
-          "posten_foto": 4,
+          "posten_foto": 5,
           "voertuigen": 450,
-          "voertuigen_foto": 140
+          "voertuigen_foto": 143
         },
         {
           "regio": "16 - Hollands Midden (VRHM)",
@@ -128,12 +128,12 @@
           "posten": 153,
           "posten_foto": 11,
           "voertuigen": 1066,
-          "voertuigen_foto": 326
+          "voertuigen_foto": 329
         },
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
-          "posten": 69,
-          "posten_foto": 6,
+          "posten": 68,
+          "posten_foto": 5,
           "voertuigen": 397,
           "voertuigen_foto": 98
         },
@@ -142,35 +142,35 @@
           "posten": 140,
           "posten_foto": 0,
           "voertuigen": 547,
-          "voertuigen_foto": 84
+          "voertuigen_foto": 90
         },
         {
           "regio": "20 - Midden en West-Brabant (VRMWB)",
           "posten": 119,
           "posten_foto": 0,
           "voertuigen": 619,
-          "voertuigen_foto": 64
+          "voertuigen_foto": 88
         },
         {
           "regio": "21 - Brabant-Noord (VRBN)",
           "posten": 78,
           "posten_foto": 2,
           "voertuigen": 359,
-          "voertuigen_foto": 14
+          "voertuigen_foto": 15
         },
         {
           "regio": "22 - Brabant-Zuidoost (VRBZO)",
           "posten": 75,
           "posten_foto": 24,
           "voertuigen": 415,
-          "voertuigen_foto": 99
+          "voertuigen_foto": 102
         },
         {
           "regio": "23 - Limburg-Noord (VRLN)",
           "posten": 75,
           "posten_foto": 9,
           "voertuigen": 380,
-          "voertuigen_foto": 56
+          "voertuigen_foto": 71
         },
         {
           "regio": "24 - Zuid-Limburg (VRZL)",
@@ -191,14 +191,14 @@
           "posten": 2,
           "posten_foto": 0,
           "voertuigen": 24,
-          "voertuigen_foto": 5
+          "voertuigen_foto": 6
         },
         {
           "regio": "28 - Defensie",
           "posten": 18,
           "posten_foto": 0,
           "voertuigen": 180,
-          "voertuigen_foto": 29
+          "voertuigen_foto": 34
         },
         {
           "regio": "AD-POL",
@@ -303,7 +303,7 @@
           "posten": 26,
           "posten_foto": 0,
           "voertuigen": 332,
-          "voertuigen_foto": 0
+          "voertuigen_foto": 1
         },
         {
           "regio": "OB-POL",
@@ -324,7 +324,7 @@
           "posten": 21,
           "posten_foto": 0,
           "voertuigen": 417,
-          "voertuigen_foto": 0
+          "voertuigen_foto": 6
         },
         {
           "regio": "RT-POL",
@@ -380,7 +380,7 @@
           "posten": 5,
           "posten_foto": 0,
           "voertuigen": 41,
-          "voertuigen_foto": 9
+          "voertuigen_foto": 11
         }
       ]
     },
