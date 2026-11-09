@@ -1444,6 +1444,10 @@
         "type": "Reddingsbrigade voertuig"
     },
     {
+        "afkorting": "RBA",
+        "type": "Reddingsbrigade Aanhanger"
+    },
+    {
         "afkorting": "RBT",
         "type": "Reddingsbrigade voertuig terreinvaardig"
     },
@@ -2258,5 +2262,57 @@
     {
         "afkorting": "BT-RB",
         "type": "Biketeam Reddingsbrigade"
+    },
+    {
+        "afkorting": "-",
+        "type": "- PRORAIL/ICB"
+    },
+    {
+        "afkorting": "GS-ICB",
+        "type": "Gevaarlijke stoffen voertuig incidentenbestrijding"
+    },
+    {
+        "afkorting": "GSH-ICB",
+        "type": "Gevaarlijke stoffen haakarmbak incidentenbestrijding"
+    },
+    {
+        "afkorting": "BOH-ICB",
+        "type": "Basis ontsmetting haakarmbak incidentenbestrijding"
+    },
+    {
+        "afkorting": "ICB",
+        "type": "Incidentenbestrijding voertuig"
+    },
+    {
+        "afkorting": "HS-ICB",
+        "type": "Herspoor voertuig incidentenbestrijding"
+    },
+    {
+        "afkorting": "HSH-ICB",
+        "type": "Herspoor haakarmbak incidentenbestrijding"
+    },
+    {
+        "afkorting": "VZ-ICB",
+        "type": "Verzorgingsvoertuig incidentenbestrijding"
+    },
+    {
+        "afkorting": "GM-ICB",
+        "type": "Gereedschap/materieelvoertuig incidentenbestrijding"
+    },
+    {
+        "afkorting": "HA-ICB",
+        "type": "Haakarmvoertuig incidentenbestrijding"
+    },
+    {
+        "afkorting": "BMH-ICB",
+        "type": "Bijzondere materiaal haakarmbak incidentenbestrijding"
+    },
+    {
+        "afkorting": "OVD-ICB",
+        "type": "Officier van dienst incidentbestrijding"
+    },
+    {
+        "afkorting": "PL-ICB",
+        "type": "Ploegleider incidentbestrijding"
     }
 ]
