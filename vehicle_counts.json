@@ -952,7 +952,7 @@
     {
         "afkorting": "C-VE",
         "type": "Coördinator verkenningseenheden",
-        "aantal": 6
+        "aantal": 5
     },
     {
         "afkorting": "FL",
@@ -977,6 +977,11 @@
     {
         "afkorting": "HON-B",
         "type": "Hoofd ondersteuning Brandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "HON-B",
+        "type": "Coördinator verkenningseenheden",
         "aantal": 1
     },
     {
