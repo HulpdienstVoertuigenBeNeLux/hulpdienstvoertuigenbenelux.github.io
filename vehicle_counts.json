@@ -12,7 +12,7 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 713
+        "aantal": 712
     },
     {
         "afkorting": "PM",
@@ -293,6 +293,11 @@
         "afkorting": "BMH-BRB",
         "type": "Bijzonder materieel haakarmbak met blusrobot",
         "aantal": 3
+    },
+    {
+        "afkorting": "BMH-BRB",
+        "type": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
+        "aantal": 1
     },
     {
         "afkorting": "BU-UHD",
@@ -815,9 +820,24 @@
         "aantal": 18
     },
     {
+        "afkorting": "VK-TDV",
+        "type": "Dienstbus",
+        "aantal": 1
+    },
+    {
         "afkorting": "VKL-DRG",
         "type": "Verkenningsluchtvaartuig groot",
-        "aantal": 4
+        "aantal": 1
+    },
+    {
+        "afkorting": "BUL-BUD",
+        "type": "Verkenningsluchtvaartuig groot",
+        "aantal": 3
+    },
+    {
+        "afkorting": "BU-VRB",
+        "type": "Bijzondere uitrusting verkenningsrobot",
+        "aantal": 1
     },
     {
         "afkorting": "BUV-OWD",
@@ -977,12 +997,7 @@
     {
         "afkorting": "HON-B",
         "type": "Hoofd ondersteuning Brandweer",
-        "aantal": 1
-    },
-    {
-        "afkorting": "HON-B",
-        "type": "Coördinator verkenningseenheden",
-        "aantal": 1
+        "aantal": 2
     },
     {
         "afkorting": "HOVD-B",
@@ -1057,7 +1072,7 @@
     {
         "afkorting": "PR",
         "type": "Preventie",
-        "aantal": 6
+        "aantal": 5
     },
     {
         "afkorting": "ROL",
@@ -1093,6 +1108,11 @@
         "afkorting": "TL-TDV",
         "type": "Teamleider team digitale verkenning",
         "aantal": 2
+    },
+    {
+        "afkorting": "TL-TDV",
+        "type": "Dienstauto",
+        "aantal": 1
     },
     {
         "afkorting": "TO-MKB",
