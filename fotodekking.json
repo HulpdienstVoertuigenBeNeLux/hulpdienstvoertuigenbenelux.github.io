@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-10T17:12:22+00:00",
+  "bijgewerkt": "2026-11-10T23:37:46+00:00",
   "landen": [
     {
       "code": "NL",
@@ -7,7 +7,7 @@
       "totaal": {
         "posten": 2595,
         "posten_foto": 126,
-        "voertuigen": 14699,
+        "voertuigen": 14702,
         "voertuigen_foto": 3102
       },
       "regios": [
@@ -127,7 +127,7 @@
           "regio": "17 - Rotterdam-Rijnmond (VRR)",
           "posten": 153,
           "posten_foto": 11,
-          "voertuigen": 1068,
+          "voertuigen": 1071,
           "voertuigen_foto": 331
         },
         {
