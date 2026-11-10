@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-10T07:36:41+00:00",
+  "bijgewerkt": "2026-11-10T17:12:22+00:00",
   "landen": [
     {
       "code": "NL",
@@ -8,7 +8,7 @@
         "posten": 2595,
         "posten_foto": 126,
         "voertuigen": 14699,
-        "voertuigen_foto": 3100
+        "voertuigen_foto": 3102
       },
       "regios": [
         {
@@ -163,7 +163,7 @@
           "posten": 75,
           "posten_foto": 24,
           "voertuigen": 415,
-          "voertuigen_foto": 105
+          "voertuigen_foto": 107
         },
         {
           "regio": "23 - Limburg-Noord (VRLN)",
