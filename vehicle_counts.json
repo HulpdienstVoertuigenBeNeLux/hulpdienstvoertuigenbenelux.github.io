@@ -5,6 +5,16 @@
         "aantal": 831
     },
     {
+        "afkorting": "DA",
+        "type": "Officier van dienst Brandweer",
+        "aantal": 1
+    },
+    {
+        "afkorting": "DA",
+        "type": "Teamleider team digitale verkenning",
+        "aantal": 1
+    },
+    {
         "afkorting": "DAT",
         "type": "Dienstauto terreinvaardig",
         "aantal": 7
@@ -15,9 +25,19 @@
         "aantal": 712
     },
     {
+        "afkorting": "DB",
+        "type": "Verkenningsvoertuig team digitale verkenning",
+        "aantal": 1
+    },
+    {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
         "aantal": 139
+    },
+    {
+        "afkorting": "PM",
+        "type": "Trekker klein",
+        "aantal": 1
     },
     {
         "afkorting": "PMT",
@@ -53,6 +73,11 @@
         "afkorting": "ON-BRV",
         "type": "Ondersteuningsteam brandweervaartuig",
         "aantal": 7
+    },
+    {
+        "afkorting": "ON-BRV",
+        "type": "Gereedschap/materieelvoertuig terreinvaardig",
+        "aantal": 1
     },
     {
         "afkorting": "HBV",
@@ -122,11 +147,16 @@
     {
         "afkorting": "GSH-PBM",
         "type": "Gevaarlijke stoffen haakarmbak met persoonlijke beschermingsmiddelen",
-        "aantal": 1
+        "aantal": 2
     },
     {
         "afkorting": "GS-S",
         "type": "Gevaarlijke stoffen voertuig specialistisch IBGS team",
+        "aantal": 2
+    },
+    {
+        "afkorting": "GSH-LS",
+        "type": "Gevaarlijke stoffen haakarmbak landelijk specialistisch IBGS team",
         "aantal": 2
     },
     {
@@ -292,12 +322,7 @@
     {
         "afkorting": "BMH-BRB",
         "type": "Bijzonder materieel haakarmbak met blusrobot",
-        "aantal": 3
-    },
-    {
-        "afkorting": "BMH-BRB",
-        "type": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
-        "aantal": 1
+        "aantal": 4
     },
     {
         "afkorting": "BU-UHD",
@@ -432,7 +457,7 @@
     {
         "afkorting": "DPH-GW",
         "type": "Dompelpomphaakarmbak grootschalige watervoorziening",
-        "aantal": 79
+        "aantal": 78
     },
     {
         "afkorting": "SL-GW",
@@ -528,6 +553,11 @@
         "afkorting": "WTH-G",
         "type": "Watertankhaakarmbak groot",
         "aantal": 10
+    },
+    {
+        "afkorting": "WTH-G",
+        "type": "Dompelpomphaakarmbak grootschalige watervoorziening",
+        "aantal": 1
     },
     {
         "afkorting": "FR-B",
@@ -692,17 +722,17 @@
     {
         "afkorting": "GMT",
         "type": "Gereedschap/materieelvoertuig terreinvaardig",
-        "aantal": 5
+        "aantal": 4
     },
     {
         "afkorting": "GMH",
         "type": "Gereedschap/materieelhaakarmbak",
-        "aantal": 13
+        "aantal": 11
     },
     {
         "afkorting": "TK-K",
         "type": "Trekker klein",
-        "aantal": 6
+        "aantal": 5
     },
     {
         "afkorting": "TK-G",
@@ -767,7 +797,7 @@
     {
         "afkorting": "LOH-O",
         "type": "Logistiek haakarmbak open uitvoering",
-        "aantal": 26
+        "aantal": 28
     },
     {
         "afkorting": "LO-ICT",
@@ -820,18 +850,13 @@
         "aantal": 18
     },
     {
-        "afkorting": "VK-TDV",
-        "type": "Dienstbus",
-        "aantal": 1
-    },
-    {
         "afkorting": "VKL-DRG",
         "type": "Verkenningsluchtvaartuig groot",
         "aantal": 1
     },
     {
         "afkorting": "BUL-BUD",
-        "type": "Verkenningsluchtvaartuig groot",
+        "type": "Bijzondere uitrusting luchtvaartuig buiten drone",
         "aantal": 3
     },
     {
@@ -1042,7 +1067,7 @@
     {
         "afkorting": "OVD-B",
         "type": "Officier van dienst Brandweer",
-        "aantal": 143
+        "aantal": 142
     },
     {
         "afkorting": "OVD-BZ",
@@ -1108,11 +1133,6 @@
         "afkorting": "TL-TDV",
         "type": "Teamleider team digitale verkenning",
         "aantal": 2
-    },
-    {
-        "afkorting": "TL-TDV",
-        "type": "Dienstauto",
-        "aantal": 1
     },
     {
         "afkorting": "TO-MKB",
