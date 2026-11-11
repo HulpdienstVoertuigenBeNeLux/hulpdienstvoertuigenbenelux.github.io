@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 831
+        "aantal": 829
     },
     {
         "afkorting": "DA",
@@ -50,9 +50,14 @@
         "aantal": 42
     },
     {
+        "afkorting": "BRV-K",
+        "type": "Brandweervaartuig middel",
+        "aantal": 6
+    },
+    {
         "afkorting": "BRV-M",
         "type": "Brandweervaartuig middel",
-        "aantal": 78
+        "aantal": 72
     },
     {
         "afkorting": "BRV-G",
@@ -202,7 +207,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1151
+        "aantal": 1152
     },
     {
         "afkorting": "TST",
@@ -278,11 +283,6 @@
         "afkorting": "HW",
         "type": "Hoogwerker",
         "aantal": 98
-    },
-    {
-        "afkorting": "AS",
-        "type": "Autospuit",
-        "aantal": 1
     },
     {
         "afkorting": "AS-IB",
@@ -422,7 +422,7 @@
     {
         "afkorting": "MSA",
         "type": "Motorspuitaanhanger",
-        "aantal": 99
+        "aantal": 101
     },
     {
         "afkorting": "SL-KW",
@@ -457,7 +457,7 @@
     {
         "afkorting": "DPH-GW",
         "type": "Dompelpomphaakarmbak grootschalige watervoorziening",
-        "aantal": 78
+        "aantal": 79
     },
     {
         "afkorting": "SL-GW",
@@ -742,12 +742,12 @@
     {
         "afkorting": "HA",
         "type": "Haakarmvoertuig",
-        "aantal": 246
+        "aantal": 245
     },
     {
         "afkorting": "HA-KR",
         "type": "Haakarmvoertuig met kraan",
-        "aantal": 30
+        "aantal": 31
     },
     {
         "afkorting": "HAT",
@@ -1402,11 +1402,6 @@
     {
         "afkorting": "HV-OTO",
         "type": "Hulpverleningsvoertuig t.b.v. opleiding, training en oefenen",
-        "aantal": 1
-    },
-    {
-        "afkorting": "AL-OTO",
-        "type": "Autoladder t.b.v. opleiding, training en oefenen",
         "aantal": 1
     },
     {
