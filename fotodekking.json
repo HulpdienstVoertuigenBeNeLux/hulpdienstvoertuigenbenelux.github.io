@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-11T17:20:39+00:00",
+  "bijgewerkt": "2026-11-12T00:55:29+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2595,
-        "posten_foto": 131,
-        "voertuigen": 14700,
-        "voertuigen_foto": 3143
+        "posten_foto": 133,
+        "voertuigen": 14701,
+        "voertuigen_foto": 3215
       },
       "regios": [
         {
@@ -30,35 +30,35 @@
           "posten": 87,
           "posten_foto": 7,
           "voertuigen": 362,
-          "voertuigen_foto": 91
+          "voertuigen_foto": 94
         },
         {
           "regio": "4 - IJsselland (VRIJ)",
           "posten": 68,
-          "posten_foto": 0,
+          "posten_foto": 1,
           "voertuigen": 391,
-          "voertuigen_foto": 161
+          "voertuigen_foto": 163
         },
         {
           "regio": "5 - Twente (VRT)",
           "posten": 69,
-          "posten_foto": 0,
-          "voertuigen": 380,
-          "voertuigen_foto": 141
+          "posten_foto": 1,
+          "voertuigen": 381,
+          "voertuigen_foto": 161
         },
         {
           "regio": "6 - Noord- en Oost-Gelderland (VNOG)",
           "posten": 105,
           "posten_foto": 3,
           "voertuigen": 555,
-          "voertuigen_foto": 168
+          "voertuigen_foto": 181
         },
         {
           "regio": "7 - Gelderland-Midden (VGGM)",
           "posten": 79,
           "posten_foto": 0,
           "voertuigen": 426,
-          "voertuigen_foto": 94
+          "voertuigen_foto": 95
         },
         {
           "regio": "8 - Gelderland-Zuid (VRGZ)",
@@ -72,14 +72,14 @@
           "posten": 143,
           "posten_foto": 10,
           "voertuigen": 727,
-          "voertuigen_foto": 237
+          "voertuigen_foto": 242
         },
         {
           "regio": "10 - Noord-Holland-Noord (VRNHN)",
           "posten": 117,
           "posten_foto": 4,
           "voertuigen": 484,
-          "voertuigen_foto": 54
+          "voertuigen_foto": 56
         },
         {
           "regio": "11 - Zaanstreek-Waterland (VRZW)",
@@ -100,14 +100,14 @@
           "posten": 61,
           "posten_foto": 8,
           "voertuigen": 411,
-          "voertuigen_foto": 118
+          "voertuigen_foto": 122
         },
         {
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
           "posten": 32,
           "posten_foto": 1,
           "voertuigen": 172,
-          "voertuigen_foto": 49
+          "voertuigen_foto": 50
         },
         {
           "regio": "15 - Haaglanden (VRH)",
@@ -128,14 +128,14 @@
           "posten": 153,
           "posten_foto": 11,
           "voertuigen": 1071,
-          "voertuigen_foto": 335
+          "voertuigen_foto": 344
         },
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
           "posten": 69,
           "posten_foto": 6,
           "voertuigen": 397,
-          "voertuigen_foto": 100
+          "voertuigen_foto": 101
         },
         {
           "regio": "19 - Zeeland (VRZ)",
@@ -184,7 +184,7 @@
           "posten": 49,
           "posten_foto": 0,
           "voertuigen": 227,
-          "voertuigen_foto": 59
+          "voertuigen_foto": 61
         },
         {
           "regio": "26 - NIPV",
@@ -198,14 +198,14 @@
           "posten": 18,
           "posten_foto": 0,
           "voertuigen": 180,
-          "voertuigen_foto": 53
+          "voertuigen_foto": 56
         },
         {
           "regio": "AD-POL",
           "posten": 24,
           "posten_foto": 0,
           "voertuigen": 38,
-          "voertuigen_foto": 7
+          "voertuigen_foto": 8
         },
         {
           "regio": "Cluster A",
@@ -282,7 +282,7 @@
           "posten": 17,
           "posten_foto": 1,
           "voertuigen": 345,
-          "voertuigen_foto": 2
+          "voertuigen_foto": 3
         },
         {
           "regio": "NH-POL",
@@ -324,7 +324,7 @@
           "posten": 21,
           "posten_foto": 0,
           "voertuigen": 417,
-          "voertuigen_foto": 6
+          "voertuigen_foto": 10
         },
         {
           "regio": "RT-POL",
