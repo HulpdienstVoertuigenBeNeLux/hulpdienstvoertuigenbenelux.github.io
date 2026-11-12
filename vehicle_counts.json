@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 829
+        "aantal": 819
     },
     {
         "afkorting": "DA",
@@ -22,7 +22,7 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 712
+        "aantal": 711
     },
     {
         "afkorting": "DB",
@@ -32,7 +32,7 @@
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
-        "aantal": 139
+        "aantal": 143
     },
     {
         "afkorting": "PM",
@@ -247,7 +247,7 @@
     {
         "afkorting": "BMH-NB",
         "type": "Bijzonder materieel haakarmbak met natuurbrandbestrijding materieel",
-        "aantal": 2
+        "aantal": 1
     },
     {
         "afkorting": "HC",
@@ -262,7 +262,7 @@
     {
         "afkorting": "TST-NB",
         "type": "Tankautospuit terreinvaardig natuurbrandbestrijding",
-        "aantal": 151
+        "aantal": 152
     },
     {
         "afkorting": "VKT-NB",
@@ -377,7 +377,7 @@
     {
         "afkorting": "SBA",
         "type": "Schuimblusaanhanger",
-        "aantal": 14
+        "aantal": 13
     },
     {
         "afkorting": "SBH",
@@ -457,7 +457,7 @@
     {
         "afkorting": "DPH-GW",
         "type": "Dompelpomphaakarmbak grootschalige watervoorziening",
-        "aantal": 79
+        "aantal": 77
     },
     {
         "afkorting": "SL-GW",
@@ -692,7 +692,7 @@
     {
         "afkorting": "AH",
         "type": "Arbeidshygiëne voertuig",
-        "aantal": 18
+        "aantal": 17
     },
     {
         "afkorting": "AHH",
@@ -717,7 +717,7 @@
     {
         "afkorting": "GM",
         "type": "Gereedschap/materieelvoertuig",
-        "aantal": 136
+        "aantal": 132
     },
     {
         "afkorting": "GMT",
@@ -752,12 +752,12 @@
     {
         "afkorting": "HAT",
         "type": "Haakarmvoertuig terreinvaardig",
-        "aantal": 9
+        "aantal": 8
     },
     {
         "afkorting": "HAT-KR",
         "type": "Haakarmvoertuig terreinvaardig met kraan",
-        "aantal": 1
+        "aantal": 2
     },
     {
         "afkorting": "BMH-KR",
@@ -787,7 +787,7 @@
     {
         "afkorting": "LOH",
         "type": "Logistiek haakarmbak",
-        "aantal": 24
+        "aantal": 23
     },
     {
         "afkorting": "LOH-KR",
