@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-13T02:00:10+00:00",
+  "bijgewerkt": "2026-11-13T19:56:08+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
-        "posten": 2595,
-        "posten_foto": 134,
-        "voertuigen": 13467,
-        "voertuigen_foto": 3419
+        "posten": 2596,
+        "posten_foto": 137,
+        "voertuigen": 13468,
+        "voertuigen_foto": 3421
       },
       "regios": [
         {
@@ -71,7 +71,7 @@
           "regio": "9 - Utrecht (VRU)",
           "posten": 143,
           "posten_foto": 10,
-          "voertuigen": 728,
+          "voertuigen": 727,
           "voertuigen_foto": 263
         },
         {
@@ -98,15 +98,15 @@
         {
           "regio": "13 - Amsterdam-Amstelland (VRAA)",
           "posten": 61,
-          "posten_foto": 8,
-          "voertuigen": 411,
+          "posten_foto": 10,
+          "voertuigen": 412,
           "voertuigen_foto": 125
         },
         {
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
-          "posten": 32,
+          "posten": 33,
           "posten_foto": 1,
-          "voertuigen": 172,
+          "voertuigen": 174,
           "voertuigen_foto": 50
         },
         {
@@ -126,7 +126,7 @@
         {
           "regio": "17 - Rotterdam-Rijnmond (VRR)",
           "posten": 153,
-          "posten_foto": 11,
+          "posten_foto": 12,
           "voertuigen": 1072,
           "voertuigen_foto": 349
         },
@@ -135,7 +135,7 @@
           "posten": 69,
           "posten_foto": 6,
           "voertuigen": 397,
-          "voertuigen_foto": 104
+          "voertuigen_foto": 105
         },
         {
           "regio": "19 - Zeeland (VRZ)",
@@ -205,7 +205,7 @@
           "posten": 24,
           "posten_foto": 0,
           "voertuigen": 39,
-          "voertuigen_foto": 9
+          "voertuigen_foto": 10
         },
         {
           "regio": "Cluster A",
@@ -379,7 +379,7 @@
           "regio": "(geen regio)",
           "posten": 5,
           "posten_foto": 0,
-          "voertuigen": 57,
+          "voertuigen": 56,
           "voertuigen_foto": 15
         }
       ]
