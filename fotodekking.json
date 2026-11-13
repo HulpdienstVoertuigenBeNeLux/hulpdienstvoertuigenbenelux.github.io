@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-12T20:15:28+00:00",
+  "bijgewerkt": "2026-11-13T02:00:10+00:00",
   "landen": [
     {
       "code": "NL",
@@ -7,7 +7,7 @@
       "totaal": {
         "posten": 2595,
         "posten_foto": 134,
-        "voertuigen": 13468,
+        "voertuigen": 13467,
         "voertuigen_foto": 3419
       },
       "regios": [
@@ -79,7 +79,7 @@
           "posten": 117,
           "posten_foto": 4,
           "voertuigen": 484,
-          "voertuigen_foto": 56
+          "voertuigen_foto": 57
         },
         {
           "regio": "11 - Zaanstreek-Waterland (VRZW)",
@@ -183,8 +183,8 @@
           "regio": "25 - Flevoland (VRFL)",
           "posten": 49,
           "posten_foto": 0,
-          "voertuigen": 227,
-          "voertuigen_foto": 63
+          "voertuigen": 226,
+          "voertuigen_foto": 62
         },
         {
           "regio": "26 - NIPV",
@@ -390,8 +390,8 @@
       "totaal": {
         "posten": 1510,
         "posten_foto": 8,
-        "voertuigen": 8638,
-        "voertuigen_foto": 184
+        "voertuigen": 8630,
+        "voertuigen_foto": 187
       },
       "regios": [
         {
@@ -482,7 +482,7 @@
           "regio": "Luik Zone - DG",
           "posten": 23,
           "posten_foto": 0,
-          "voertuigen": 121,
+          "voertuigen": 118,
           "voertuigen_foto": 1
         },
         {
@@ -573,7 +573,7 @@
           "regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
           "posten": 27,
           "posten_foto": 0,
-          "voertuigen": 153,
+          "voertuigen": 151,
           "voertuigen_foto": 0
         },
         {
@@ -616,13 +616,13 @@
           "posten": 137,
           "posten_foto": 0,
           "voertuigen": 431,
-          "voertuigen_foto": 6
+          "voertuigen_foto": 7
         },
         {
           "regio": "West-Vlaanderen Zone - Fluvia",
           "posten": 38,
           "posten_foto": 1,
-          "voertuigen": 237,
+          "voertuigen": 235,
           "voertuigen_foto": 10
         },
         {
@@ -637,13 +637,13 @@
           "posten": 79,
           "posten_foto": 3,
           "voertuigen": 322,
-          "voertuigen_foto": 66
+          "voertuigen_foto": 68
         },
         {
           "regio": "(geen regio)",
           "posten": 5,
           "posten_foto": 0,
-          "voertuigen": 28,
+          "voertuigen": 27,
           "voertuigen_foto": 0
         }
       ]
