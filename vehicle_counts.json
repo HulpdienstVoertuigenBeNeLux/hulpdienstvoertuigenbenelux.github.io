@@ -775,6 +775,11 @@
         "aantal": 108
     },
     {
+        "afkorting": "LO",
+        "type": "Logistiek",
+        "aantal": 1
+    },
+    {
         "afkorting": "LO-KR",
         "type": "Logistiek voertuig met kraan",
         "aantal": 1
