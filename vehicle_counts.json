@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 819
+        "aantal": 818
     },
     {
         "afkorting": "DA",
@@ -32,7 +32,7 @@
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
-        "aantal": 143
+        "aantal": 144
     },
     {
         "afkorting": "PM",
@@ -47,7 +47,7 @@
     {
         "afkorting": "BRV-K",
         "type": "Brandweervaartuig klein",
-        "aantal": 42
+        "aantal": 44
     },
     {
         "afkorting": "BRV-K",
@@ -57,7 +57,7 @@
     {
         "afkorting": "BRV-M",
         "type": "Brandweervaartuig middel",
-        "aantal": 72
+        "aantal": 70
     },
     {
         "afkorting": "BRV-G",
@@ -92,7 +92,7 @@
     {
         "afkorting": "OR",
         "type": "Oppervlakte reddingsteam voertuig",
-        "aantal": 44
+        "aantal": 43
     },
     {
         "afkorting": "WO",
@@ -572,12 +572,12 @@
     {
         "afkorting": "PAT",
         "type": "Patiëntenvervoer voertuig terreinvaardig",
-        "aantal": 2
+        "aantal": 4
     },
     {
         "afkorting": "HV",
         "type": "Hulpverleningsvoertuig",
-        "aantal": 47
+        "aantal": 46
     },
     {
         "afkorting": "HVA",
@@ -592,7 +592,7 @@
     {
         "afkorting": "HVT",
         "type": "Hulpverleningsvoertuig terreinvaardig",
-        "aantal": 4
+        "aantal": 5
     },
     {
         "afkorting": "HV-KR",
@@ -742,12 +742,12 @@
     {
         "afkorting": "HA",
         "type": "Haakarmvoertuig",
-        "aantal": 245
+        "aantal": 244
     },
     {
         "afkorting": "HA-KR",
         "type": "Haakarmvoertuig met kraan",
-        "aantal": 31
+        "aantal": 32
     },
     {
         "afkorting": "HAT",
@@ -772,7 +772,7 @@
     {
         "afkorting": "LO",
         "type": "Logistiek voertuig",
-        "aantal": 108
+        "aantal": 106
     },
     {
         "afkorting": "LO",
@@ -812,7 +812,7 @@
     {
         "afkorting": "MFT",
         "type": "Multifunctioneel voertuig terreinvaardig",
-        "aantal": 15
+        "aantal": 13
     },
     {
         "afkorting": "MFT-VER",
@@ -930,6 +930,11 @@
         "aantal": 2
     },
     {
+        "afkorting": "CO-LCM",
+        "type": "Commando voertuig leiding en coördinatie multi opschaling",
+        "aantal": 1
+    },
+    {
         "afkorting": "CO-MU",
         "type": "Commando voertuig multidisciplinair",
         "aantal": 17
@@ -942,7 +947,7 @@
     {
         "afkorting": "VC",
         "type": "Verbindingscommando voertuig",
-        "aantal": 4
+        "aantal": 3
     },
     {
         "afkorting": "VD-MOP",
@@ -997,7 +1002,7 @@
     {
         "afkorting": "CTL-B",
         "type": "Centralist Brandweer",
-        "aantal": 5
+        "aantal": 6
     },
     {
         "afkorting": "C-VE",
@@ -1007,7 +1012,7 @@
     {
         "afkorting": "FL",
         "type": "Functionaris logistiek",
-        "aantal": 6
+        "aantal": 8
     },
     {
         "afkorting": "GIMCOPI",
@@ -1402,7 +1407,7 @@
     {
         "afkorting": "TS-OTO",
         "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
-        "aantal": 28
+        "aantal": 29
     },
     {
         "afkorting": "HV-OTO",
