@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 818
+        "aantal": 819
     },
     {
         "afkorting": "DA",
@@ -742,7 +742,7 @@
     {
         "afkorting": "HA",
         "type": "Haakarmvoertuig",
-        "aantal": 244
+        "aantal": 245
     },
     {
         "afkorting": "HA-KR",
@@ -772,7 +772,7 @@
     {
         "afkorting": "LO",
         "type": "Logistiek voertuig",
-        "aantal": 106
+        "aantal": 107
     },
     {
         "afkorting": "LO",
@@ -1302,7 +1302,7 @@
     {
         "afkorting": "OVD-BB",
         "type": "Officier van dienst bedrijfsbrandweer",
-        "aantal": 9
+        "aantal": 10
     },
     {
         "afkorting": "PM-BB",
@@ -1392,7 +1392,7 @@
     {
         "afkorting": "OO",
         "type": "Opleidingsvoertuig",
-        "aantal": 5
+        "aantal": 6
     },
     {
         "afkorting": "BMA-OTO",
