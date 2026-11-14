@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-14T01:33:40+00:00",
+  "bijgewerkt": "2026-11-14T18:23:19+00:00",
   "landen": [
     {
       "code": "NL",
@@ -7,8 +7,8 @@
       "totaal": {
         "posten": 2596,
         "posten_foto": 137,
-        "voertuigen": 13468,
-        "voertuigen_foto": 3422
+        "voertuigen": 13469,
+        "voertuigen_foto": 3423
       },
       "regios": [
         {
@@ -72,7 +72,7 @@
           "posten": 143,
           "posten_foto": 10,
           "voertuigen": 727,
-          "voertuigen_foto": 263
+          "voertuigen_foto": 264
         },
         {
           "regio": "10 - Noord-Holland-Noord (VRNHN)",
@@ -106,7 +106,7 @@
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
           "posten": 33,
           "posten_foto": 1,
-          "voertuigen": 174,
+          "voertuigen": 175,
           "voertuigen_foto": 50
         },
         {
