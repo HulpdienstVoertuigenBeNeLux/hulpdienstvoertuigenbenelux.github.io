@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-14T18:23:19+00:00",
+  "bijgewerkt": "2026-11-14T22:39:36+00:00",
   "landen": [
     {
       "code": "NL",
@@ -8,7 +8,7 @@
         "posten": 2596,
         "posten_foto": 137,
         "voertuigen": 13469,
-        "voertuigen_foto": 3423
+        "voertuigen_foto": 3443
       },
       "regios": [
         {
@@ -37,7 +37,7 @@
           "posten": 68,
           "posten_foto": 1,
           "voertuigen": 391,
-          "voertuigen_foto": 166
+          "voertuigen_foto": 167
         },
         {
           "regio": "5 - Twente (VRT)",
@@ -51,7 +51,7 @@
           "posten": 105,
           "posten_foto": 3,
           "voertuigen": 555,
-          "voertuigen_foto": 181
+          "voertuigen_foto": 182
         },
         {
           "regio": "7 - Gelderland-Midden (VGGM)",
@@ -65,14 +65,14 @@
           "posten": 68,
           "posten_foto": 11,
           "voertuigen": 391,
-          "voertuigen_foto": 184
+          "voertuigen_foto": 186
         },
         {
           "regio": "9 - Utrecht (VRU)",
           "posten": 143,
           "posten_foto": 10,
           "voertuigen": 727,
-          "voertuigen_foto": 264
+          "voertuigen_foto": 266
         },
         {
           "regio": "10 - Noord-Holland-Noord (VRNHN)",
@@ -86,7 +86,7 @@
           "posten": 42,
           "posten_foto": 18,
           "voertuigen": 204,
-          "voertuigen_foto": 123
+          "voertuigen_foto": 124
         },
         {
           "regio": "12 - Kennemerland (VRK)",
@@ -100,7 +100,7 @@
           "posten": 61,
           "posten_foto": 10,
           "voertuigen": 412,
-          "voertuigen_foto": 126
+          "voertuigen_foto": 130
         },
         {
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
@@ -128,21 +128,21 @@
           "posten": 153,
           "posten_foto": 12,
           "voertuigen": 1072,
-          "voertuigen_foto": 349
+          "voertuigen_foto": 350
         },
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
           "posten": 69,
           "posten_foto": 6,
           "voertuigen": 397,
-          "voertuigen_foto": 105
+          "voertuigen_foto": 108
         },
         {
           "regio": "19 - Zeeland (VRZ)",
           "posten": 140,
           "posten_foto": 0,
           "voertuigen": 546,
-          "voertuigen_foto": 92
+          "voertuigen_foto": 97
         },
         {
           "regio": "20 - Midden en West-Brabant (VRMWB)",
@@ -391,7 +391,7 @@
         "posten": 1510,
         "posten_foto": 8,
         "voertuigen": 8610,
-        "voertuigen_foto": 188
+        "voertuigen_foto": 203
       },
       "regios": [
         {
@@ -399,14 +399,14 @@
           "posten": 37,
           "posten_foto": 3,
           "voertuigen": 226,
-          "voertuigen_foto": 32
+          "voertuigen_foto": 33
         },
         {
           "regio": "Antwerpen Zone - Kempen",
           "posten": 30,
           "posten_foto": 0,
           "voertuigen": 209,
-          "voertuigen_foto": 0
+          "voertuigen_foto": 1
         },
         {
           "regio": "Antwerpen Zone - Rand",
@@ -434,7 +434,7 @@
           "posten": 65,
           "posten_foto": 0,
           "voertuigen": 398,
-          "voertuigen_foto": 0
+          "voertuigen_foto": 1
         },
         {
           "regio": "Henegouwen Zone - Hainaut-Centre",
@@ -462,21 +462,21 @@
           "posten": 24,
           "posten_foto": 0,
           "voertuigen": 131,
-          "voertuigen_foto": 3
+          "voertuigen_foto": 5
         },
         {
           "regio": "Limburg Zone - Oost",
           "posten": 36,
           "posten_foto": 0,
           "voertuigen": 197,
-          "voertuigen_foto": 10
+          "voertuigen_foto": 11
         },
         {
           "regio": "Limburg Zone - Zuid-West",
           "posten": 46,
           "posten_foto": 0,
           "voertuigen": 277,
-          "voertuigen_foto": 4
+          "voertuigen_foto": 8
         },
         {
           "regio": "Luik Zone - DG",
@@ -602,7 +602,7 @@
           "posten": 64,
           "posten_foto": 0,
           "voertuigen": 326,
-          "voertuigen_foto": 15
+          "voertuigen_foto": 16
         },
         {
           "regio": "Waals-Brabant Zone - Brabant-Wallon",
@@ -616,14 +616,14 @@
           "posten": 137,
           "posten_foto": 0,
           "voertuigen": 431,
-          "voertuigen_foto": 8
+          "voertuigen_foto": 10
         },
         {
           "regio": "West-Vlaanderen Zone - Fluvia",
           "posten": 38,
           "posten_foto": 1,
           "voertuigen": 235,
-          "voertuigen_foto": 10
+          "voertuigen_foto": 12
         },
         {
           "regio": "West-Vlaanderen Zone - Midwest",
