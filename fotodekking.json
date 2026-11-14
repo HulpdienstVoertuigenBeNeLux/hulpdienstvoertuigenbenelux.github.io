@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-13T19:56:08+00:00",
+  "bijgewerkt": "2026-11-14T01:33:40+00:00",
   "landen": [
     {
       "code": "NL",
@@ -8,7 +8,7 @@
         "posten": 2596,
         "posten_foto": 137,
         "voertuigen": 13468,
-        "voertuigen_foto": 3421
+        "voertuigen_foto": 3422
       },
       "regios": [
         {
@@ -100,7 +100,7 @@
           "posten": 61,
           "posten_foto": 10,
           "voertuigen": 412,
-          "voertuigen_foto": 125
+          "voertuigen_foto": 126
         },
         {
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
@@ -390,8 +390,8 @@
       "totaal": {
         "posten": 1510,
         "posten_foto": 8,
-        "voertuigen": 8630,
-        "voertuigen_foto": 187
+        "voertuigen": 8610,
+        "voertuigen_foto": 188
       },
       "regios": [
         {
@@ -440,7 +440,7 @@
           "regio": "Henegouwen Zone - Hainaut-Centre",
           "posten": 68,
           "posten_foto": 0,
-          "voertuigen": 348,
+          "voertuigen": 328,
           "voertuigen_foto": 0
         },
         {
@@ -616,7 +616,7 @@
           "posten": 137,
           "posten_foto": 0,
           "voertuigen": 431,
-          "voertuigen_foto": 7
+          "voertuigen_foto": 8
         },
         {
           "regio": "West-Vlaanderen Zone - Fluvia",
