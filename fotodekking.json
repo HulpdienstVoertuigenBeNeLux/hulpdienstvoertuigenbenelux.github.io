@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-14T22:39:36+00:00",
+  "bijgewerkt": "2026-11-15T06:56:05+00:00",
   "landen": [
     {
       "code": "NL",
@@ -7,7 +7,7 @@
       "totaal": {
         "posten": 2596,
         "posten_foto": 137,
-        "voertuigen": 13469,
+        "voertuigen": 13473,
         "voertuigen_foto": 3443
       },
       "regios": [
@@ -71,7 +71,7 @@
           "regio": "9 - Utrecht (VRU)",
           "posten": 143,
           "posten_foto": 10,
-          "voertuigen": 727,
+          "voertuigen": 728,
           "voertuigen_foto": 266
         },
         {
@@ -141,14 +141,14 @@
           "regio": "19 - Zeeland (VRZ)",
           "posten": 140,
           "posten_foto": 0,
-          "voertuigen": 546,
+          "voertuigen": 547,
           "voertuigen_foto": 97
         },
         {
           "regio": "20 - Midden en West-Brabant (VRMWB)",
           "posten": 119,
           "posten_foto": 0,
-          "voertuigen": 619,
+          "voertuigen": 620,
           "voertuigen_foto": 93
         },
         {
@@ -183,7 +183,7 @@
           "regio": "25 - Flevoland (VRFL)",
           "posten": 49,
           "posten_foto": 0,
-          "voertuigen": 226,
+          "voertuigen": 227,
           "voertuigen_foto": 62
         },
         {
@@ -390,8 +390,8 @@
       "totaal": {
         "posten": 1510,
         "posten_foto": 8,
-        "voertuigen": 8610,
-        "voertuigen_foto": 203
+        "voertuigen": 8612,
+        "voertuigen_foto": 207
       },
       "regios": [
         {
@@ -412,7 +412,7 @@
           "regio": "Antwerpen Zone - Rand",
           "posten": 55,
           "posten_foto": 0,
-          "voertuigen": 701,
+          "voertuigen": 702,
           "voertuigen_foto": 4
         },
         {
@@ -461,7 +461,7 @@
           "regio": "Limburg Zone - Noord",
           "posten": 24,
           "posten_foto": 0,
-          "voertuigen": 131,
+          "voertuigen": 132,
           "voertuigen_foto": 5
         },
         {
@@ -602,7 +602,7 @@
           "posten": 64,
           "posten_foto": 0,
           "voertuigen": 326,
-          "voertuigen_foto": 16
+          "voertuigen_foto": 20
         },
         {
           "regio": "Waals-Brabant Zone - Brabant-Wallon",
