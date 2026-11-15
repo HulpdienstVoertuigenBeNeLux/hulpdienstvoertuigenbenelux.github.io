@@ -207,7 +207,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1152
+        "aantal": 1151
     },
     {
         "afkorting": "TST",
@@ -422,7 +422,7 @@
     {
         "afkorting": "MSA",
         "type": "Motorspuitaanhanger",
-        "aantal": 101
+        "aantal": 100
     },
     {
         "afkorting": "SL-KW",
@@ -787,7 +787,7 @@
     {
         "afkorting": "LOA",
         "type": "Logistiek aanhanger",
-        "aantal": 29
+        "aantal": 28
     },
     {
         "afkorting": "LOH",
