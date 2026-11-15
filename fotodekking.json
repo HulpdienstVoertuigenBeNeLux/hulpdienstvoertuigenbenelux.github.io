@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-15T16:29:36+00:00",
+  "bijgewerkt": "2026-11-15T23:02:58+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2596,
-        "posten_foto": 141,
+        "posten_foto": 142,
         "voertuigen": 13470,
-        "voertuigen_foto": 3480
+        "voertuigen_foto": 3484
       },
       "regios": [
         {
@@ -77,9 +77,9 @@
         {
           "regio": "10 - Noord-Holland-Noord (VRNHN)",
           "posten": 117,
-          "posten_foto": 8,
+          "posten_foto": 9,
           "voertuigen": 484,
-          "voertuigen_foto": 68
+          "voertuigen_foto": 70
         },
         {
           "regio": "11 - Zaanstreek-Waterland (VRZW)",
@@ -93,7 +93,7 @@
           "posten": 70,
           "posten_foto": 3,
           "voertuigen": 477,
-          "voertuigen_foto": 135
+          "voertuigen_foto": 136
         },
         {
           "regio": "13 - Amsterdam-Amstelland (VRAA)",
@@ -163,7 +163,7 @@
           "posten": 75,
           "posten_foto": 24,
           "voertuigen": 414,
-          "voertuigen_foto": 122
+          "voertuigen_foto": 123
         },
         {
           "regio": "23 - Limburg-Noord (VRLN)",
@@ -391,7 +391,7 @@
         "posten": 1511,
         "posten_foto": 8,
         "voertuigen": 8618,
-        "voertuigen_foto": 230
+        "voertuigen_foto": 231
       },
       "regios": [
         {
@@ -602,7 +602,7 @@
           "posten": 64,
           "posten_foto": 0,
           "voertuigen": 326,
-          "voertuigen_foto": 21
+          "voertuigen_foto": 22
         },
         {
           "regio": "Waals-Brabant Zone - Brabant-Wallon",
