@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-16T07:01:09+00:00",
+  "bijgewerkt": "2026-11-16T19:45:23+00:00",
   "landen": [
     {
       "code": "NL",
@@ -8,7 +8,7 @@
         "posten": 2596,
         "posten_foto": 142,
         "voertuigen": 13470,
-        "voertuigen_foto": 3484
+        "voertuigen_foto": 3490
       },
       "regios": [
         {
@@ -114,7 +114,7 @@
           "posten": 67,
           "posten_foto": 5,
           "voertuigen": 450,
-          "voertuigen_foto": 147
+          "voertuigen_foto": 153
         },
         {
           "regio": "16 - Hollands Midden (VRHM)",
