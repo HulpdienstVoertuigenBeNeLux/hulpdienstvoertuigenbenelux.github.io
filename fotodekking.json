@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-15T23:02:58+00:00",
+  "bijgewerkt": "2026-11-16T07:01:09+00:00",
   "landen": [
     {
       "code": "NL",
@@ -390,7 +390,7 @@
       "totaal": {
         "posten": 1511,
         "posten_foto": 8,
-        "voertuigen": 8618,
+        "voertuigen": 8617,
         "voertuigen_foto": 231
       },
       "regios": [
@@ -622,7 +622,7 @@
           "regio": "West-Vlaanderen Zone - Fluvia",
           "posten": 38,
           "posten_foto": 1,
-          "voertuigen": 235,
+          "voertuigen": 234,
           "voertuigen_foto": 12
         },
         {
