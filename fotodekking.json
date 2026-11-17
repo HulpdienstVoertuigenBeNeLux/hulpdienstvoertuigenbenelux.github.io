@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-17T04:04:30+00:00",
+  "bijgewerkt": "2026-11-17T16:21:08+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2596,
-        "posten_foto": 144,
+        "posten_foto": 145,
         "voertuigen": 13471,
-        "voertuigen_foto": 3495
+        "voertuigen_foto": 3498
       },
       "regios": [
         {
@@ -135,7 +135,7 @@
           "posten": 69,
           "posten_foto": 6,
           "voertuigen": 397,
-          "voertuigen_foto": 109
+          "voertuigen_foto": 110
         },
         {
           "regio": "19 - Zeeland (VRZ)",
@@ -168,9 +168,9 @@
         {
           "regio": "23 - Limburg-Noord (VRLN)",
           "posten": 75,
-          "posten_foto": 9,
+          "posten_foto": 10,
           "voertuigen": 380,
-          "voertuigen_foto": 129
+          "voertuigen_foto": 131
         },
         {
           "regio": "24 - Zuid-Limburg (VRZL)",
