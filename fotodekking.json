@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-16T19:45:23+00:00",
+  "bijgewerkt": "2026-11-17T04:04:30+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2596,
-        "posten_foto": 142,
-        "voertuigen": 13470,
-        "voertuigen_foto": 3490
+        "posten_foto": 144,
+        "voertuigen": 13471,
+        "voertuigen_foto": 3495
       },
       "regios": [
         {
@@ -112,9 +112,9 @@
         {
           "regio": "15 - Haaglanden (VRH)",
           "posten": 67,
-          "posten_foto": 5,
-          "voertuigen": 450,
-          "voertuigen_foto": 153
+          "posten_foto": 7,
+          "voertuigen": 451,
+          "voertuigen_foto": 155
         },
         {
           "regio": "16 - Hollands Midden (VRHM)",
@@ -135,7 +135,7 @@
           "posten": 69,
           "posten_foto": 6,
           "voertuigen": 397,
-          "voertuigen_foto": 108
+          "voertuigen_foto": 109
         },
         {
           "regio": "19 - Zeeland (VRZ)",
@@ -247,7 +247,7 @@
           "posten": 32,
           "posten_foto": 0,
           "voertuigen": 47,
-          "voertuigen_foto": 1
+          "voertuigen_foto": 3
         },
         {
           "regio": "LB-POL",
@@ -388,10 +388,10 @@
       "code": "BE",
       "naam": "België",
       "totaal": {
-        "posten": 1511,
-        "posten_foto": 8,
+        "posten": 1512,
+        "posten_foto": 9,
         "voertuigen": 8617,
-        "voertuigen_foto": 231
+        "voertuigen_foto": 233
       },
       "regios": [
         {
@@ -410,10 +410,10 @@
         },
         {
           "regio": "Antwerpen Zone - Rand",
-          "posten": 55,
-          "posten_foto": 0,
-          "voertuigen": 702,
-          "voertuigen_foto": 5
+          "posten": 56,
+          "posten_foto": 1,
+          "voertuigen": 703,
+          "voertuigen_foto": 7
         },
         {
           "regio": "Antwerpen Zone - Rivierenland",
@@ -622,7 +622,7 @@
           "regio": "West-Vlaanderen Zone - Fluvia",
           "posten": 38,
           "posten_foto": 1,
-          "voertuigen": 234,
+          "voertuigen": 233,
           "voertuigen_foto": 12
         },
         {
