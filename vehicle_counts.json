@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 819
+        "aantal": 820
     },
     {
         "afkorting": "DA",
@@ -22,7 +22,7 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 712
+        "aantal": 715
     },
     {
         "afkorting": "DB",
@@ -207,7 +207,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1151
+        "aantal": 1149
     },
     {
         "afkorting": "TST",
@@ -422,7 +422,7 @@
     {
         "afkorting": "MSA",
         "type": "Motorspuitaanhanger",
-        "aantal": 100
+        "aantal": 101
     },
     {
         "afkorting": "SL-KW",
@@ -452,7 +452,7 @@
     {
         "afkorting": "DPA-GW",
         "type": "Dompelpompaanhanger grootschalige watervoorziening",
-        "aantal": 17
+        "aantal": 18
     },
     {
         "afkorting": "DPH-GW",
@@ -467,7 +467,7 @@
     {
         "afkorting": "SLH-GW",
         "type": "Slangenhaakarmbak grootschalige watervoorziening",
-        "aantal": 36
+        "aantal": 37
     },
     {
         "afkorting": "ON-GW",
@@ -965,6 +965,11 @@
         "aantal": 3
     },
     {
+        "afkorting": "AC-B",
+        "type": "Hoofdofficier van dienst Brandweer",
+        "aantal": 1
+    },
+    {
         "afkorting": "CDT-B",
         "type": "Commandant Brandweer",
         "aantal": 2
@@ -1037,7 +1042,7 @@
     {
         "afkorting": "HOVD-B",
         "type": "Hoofdofficier van dienst Brandweer",
-        "aantal": 46
+        "aantal": 45
     },
     {
         "afkorting": "HOVD-HB",
@@ -1127,7 +1132,7 @@
     {
         "afkorting": "TD",
         "type": "Technische dienst",
-        "aantal": 59
+        "aantal": 60
     },
     {
         "afkorting": "TL-QRT",
