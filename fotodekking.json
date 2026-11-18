@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-18T01:07:46+00:00",
+  "bijgewerkt": "2026-11-18T12:02:30+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2596,
-        "posten_foto": 145,
-        "voertuigen": 13472,
-        "voertuigen_foto": 3497
+        "posten_foto": 155,
+        "voertuigen": 13473,
+        "voertuigen_foto": 3524
       },
       "regios": [
         {
@@ -21,16 +21,16 @@
         {
           "regio": "2 - Fryslân (VRF)",
           "posten": 154,
-          "posten_foto": 2,
-          "voertuigen": 576,
-          "voertuigen_foto": 58
+          "posten_foto": 5,
+          "voertuigen": 577,
+          "voertuigen_foto": 65
         },
         {
           "regio": "3 - Drenthe (VRD)",
           "posten": 87,
           "posten_foto": 7,
           "voertuigen": 362,
-          "voertuigen_foto": 96
+          "voertuigen_foto": 98
         },
         {
           "regio": "4 - IJsselland (VRIJ)",
@@ -49,9 +49,9 @@
         {
           "regio": "6 - Noord- en Oost-Gelderland (VNOG)",
           "posten": 105,
-          "posten_foto": 3,
+          "posten_foto": 4,
           "voertuigen": 556,
-          "voertuigen_foto": 186
+          "voertuigen_foto": 193
         },
         {
           "regio": "7 - Gelderland-Midden (VGGM)",
@@ -63,7 +63,7 @@
         {
           "regio": "8 - Gelderland-Zuid (VRGZ)",
           "posten": 68,
-          "posten_foto": 11,
+          "posten_foto": 12,
           "voertuigen": 391,
           "voertuigen_foto": 186
         },
@@ -72,21 +72,21 @@
           "posten": 143,
           "posten_foto": 10,
           "voertuigen": 728,
-          "voertuigen_foto": 268
+          "voertuigen_foto": 269
         },
         {
           "regio": "10 - Noord-Holland-Noord (VRNHN)",
           "posten": 117,
-          "posten_foto": 9,
+          "posten_foto": 10,
           "voertuigen": 484,
-          "voertuigen_foto": 70
+          "voertuigen_foto": 74
         },
         {
           "regio": "11 - Zaanstreek-Waterland (VRZW)",
           "posten": 42,
-          "posten_foto": 18,
+          "posten_foto": 21,
           "voertuigen": 204,
-          "voertuigen_foto": 124
+          "voertuigen_foto": 126
         },
         {
           "regio": "12 - Kennemerland (VRK)",
@@ -100,7 +100,7 @@
           "posten": 61,
           "posten_foto": 10,
           "voertuigen": 411,
-          "voertuigen_foto": 130
+          "voertuigen_foto": 132
         },
         {
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
@@ -135,7 +135,7 @@
           "posten": 69,
           "posten_foto": 6,
           "voertuigen": 397,
-          "voertuigen_foto": 110
+          "voertuigen_foto": 111
         },
         {
           "regio": "19 - Zeeland (VRZ)",
@@ -163,7 +163,7 @@
           "posten": 75,
           "posten_foto": 24,
           "voertuigen": 414,
-          "voertuigen_foto": 123
+          "voertuigen_foto": 124
         },
         {
           "regio": "23 - Limburg-Noord (VRLN)",
@@ -175,7 +175,7 @@
         {
           "regio": "24 - Zuid-Limburg (VRZL)",
           "posten": 54,
-          "posten_foto": 0,
+          "posten_foto": 1,
           "voertuigen": 378,
           "voertuigen_foto": 99
         },
@@ -388,10 +388,10 @@
       "code": "BE",
       "naam": "België",
       "totaal": {
-        "posten": 1512,
+        "posten": 1511,
         "posten_foto": 9,
         "voertuigen": 8617,
-        "voertuigen_foto": 233
+        "voertuigen_foto": 242
       },
       "regios": [
         {
@@ -410,7 +410,7 @@
         },
         {
           "regio": "Antwerpen Zone - Rand",
-          "posten": 56,
+          "posten": 55,
           "posten_foto": 1,
           "voertuigen": 703,
           "voertuigen_foto": 7
@@ -427,7 +427,7 @@
           "posten": 25,
           "posten_foto": 0,
           "voertuigen": 197,
-          "voertuigen_foto": 1
+          "voertuigen_foto": 10
         },
         {
           "regio": "Brussel Zone - Brussel",
