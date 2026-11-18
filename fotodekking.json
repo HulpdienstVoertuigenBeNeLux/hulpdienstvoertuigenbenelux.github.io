@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-17T16:21:08+00:00",
+  "bijgewerkt": "2026-11-18T01:07:46+00:00",
   "landen": [
     {
       "code": "NL",
@@ -7,8 +7,8 @@
       "totaal": {
         "posten": 2596,
         "posten_foto": 145,
-        "voertuigen": 13471,
-        "voertuigen_foto": 3498
+        "voertuigen": 13472,
+        "voertuigen_foto": 3497
       },
       "regios": [
         {
@@ -44,13 +44,13 @@
           "posten": 69,
           "posten_foto": 1,
           "voertuigen": 380,
-          "voertuigen_foto": 160
+          "voertuigen_foto": 159
         },
         {
           "regio": "6 - Noord- en Oost-Gelderland (VNOG)",
           "posten": 105,
           "posten_foto": 3,
-          "voertuigen": 555,
+          "voertuigen": 556,
           "voertuigen_foto": 186
         },
         {
