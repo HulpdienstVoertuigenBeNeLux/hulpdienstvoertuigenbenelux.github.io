@@ -27,7 +27,7 @@
     {
         "afkorting": "BRV-K",
         "type": "Brandweervaartuig klein",
-        "aantal": 50
+        "aantal": 49
     },
     {
         "afkorting": "BRV-M",
@@ -322,7 +322,7 @@
     {
         "afkorting": "RIA",
         "type": "Rietdakbrandbestrijdingsteam aanhanger",
-        "aantal": 5
+        "aantal": 4
     },
     {
         "afkorting": "PBA",
@@ -997,7 +997,7 @@
     {
         "afkorting": "HOVD-B",
         "type": "Hoofdofficier van dienst Brandweer",
-        "aantal": 45
+        "aantal": 44
     },
     {
         "afkorting": "HOVD-HB",
