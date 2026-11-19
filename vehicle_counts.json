@@ -2,17 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 820
-    },
-    {
-        "afkorting": "DA",
-        "type": "Officier van dienst Brandweer",
-        "aantal": 1
-    },
-    {
-        "afkorting": "DA",
-        "type": "Teamleider team digitale verkenning",
-        "aantal": 1
+        "aantal": 821
     },
     {
         "afkorting": "DAT",
@@ -22,22 +12,12 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 715
-    },
-    {
-        "afkorting": "DB",
-        "type": "Verkenningsvoertuig team digitale verkenning",
-        "aantal": 1
+        "aantal": 716
     },
     {
         "afkorting": "PM",
         "type": "Personeel/materieelvoertuig",
-        "aantal": 144
-    },
-    {
-        "afkorting": "PM",
-        "type": "Trekker klein",
-        "aantal": 1
+        "aantal": 145
     },
     {
         "afkorting": "PMT",
@@ -47,12 +27,7 @@
     {
         "afkorting": "BRV-K",
         "type": "Brandweervaartuig klein",
-        "aantal": 44
-    },
-    {
-        "afkorting": "BRV-K",
-        "type": "Brandweervaartuig middel",
-        "aantal": 6
+        "aantal": 50
     },
     {
         "afkorting": "BRV-M",
@@ -77,12 +52,7 @@
     {
         "afkorting": "ON-BRV",
         "type": "Ondersteuningsteam brandweervaartuig",
-        "aantal": 7
-    },
-    {
-        "afkorting": "ON-BRV",
-        "type": "Gereedschap/materieelvoertuig terreinvaardig",
-        "aantal": 1
+        "aantal": 8
     },
     {
         "afkorting": "HBV",
@@ -207,7 +177,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1149
+        "aantal": 1148
     },
     {
         "afkorting": "TST",
@@ -552,12 +522,7 @@
     {
         "afkorting": "WTH-G",
         "type": "Watertankhaakarmbak groot",
-        "aantal": 10
-    },
-    {
-        "afkorting": "WTH-G",
-        "type": "Dompelpomphaakarmbak grootschalige watervoorziening",
-        "aantal": 1
+        "aantal": 11
     },
     {
         "afkorting": "FR-B",
@@ -772,12 +737,7 @@
     {
         "afkorting": "LO",
         "type": "Logistiek voertuig",
-        "aantal": 107
-    },
-    {
-        "afkorting": "LO",
-        "type": "Logistiek",
-        "aantal": 1
+        "aantal": 108
     },
     {
         "afkorting": "LO-KR",
@@ -837,7 +797,7 @@
     {
         "afkorting": "BM-TES",
         "type": "Test eenheid",
-        "aantal": 2
+        "aantal": 6
     },
     {
         "afkorting": "VK",
@@ -946,7 +906,7 @@
     },
     {
         "afkorting": "VC",
-        "type": "Verbindingscommando voertuig",
+        "type": "Verbindingscommandowagen",
         "aantal": 3
     },
     {
@@ -962,12 +922,7 @@
     {
         "afkorting": "AC-B",
         "type": "Algemeen commandant Brandweer",
-        "aantal": 3
-    },
-    {
-        "afkorting": "AC-B",
-        "type": "Hoofdofficier van dienst Brandweer",
-        "aantal": 1
+        "aantal": 4
     },
     {
         "afkorting": "CDT-B",
@@ -1397,7 +1352,12 @@
     {
         "afkorting": "OO",
         "type": "Opleidingsvoertuig",
-        "aantal": 6
+        "aantal": 7
+    },
+    {
+        "afkorting": "OO",
+        "type": "Dienstauto",
+        "aantal": 1
     },
     {
         "afkorting": "BMA-OTO",
