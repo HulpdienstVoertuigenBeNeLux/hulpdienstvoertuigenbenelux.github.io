@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-18T20:47:17+00:00",
+  "bijgewerkt": "2026-11-19T02:42:44+00:00",
   "landen": [
     {
       "code": "NL",
@@ -8,7 +8,7 @@
         "posten": 2597,
         "posten_foto": 158,
         "voertuigen": 13478,
-        "voertuigen_foto": 3675
+        "voertuigen_foto": 3676
       },
       "regios": [
         {
@@ -128,7 +128,7 @@
           "posten": 153,
           "posten_foto": 12,
           "voertuigen": 1072,
-          "voertuigen_foto": 364
+          "voertuigen_foto": 365
         },
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
@@ -391,7 +391,7 @@
         "posten": 1513,
         "posten_foto": 18,
         "voertuigen": 8636,
-        "voertuigen_foto": 345
+        "voertuigen_foto": 350
       },
       "regios": [
         {
@@ -420,14 +420,14 @@
           "posten": 45,
           "posten_foto": 0,
           "voertuigen": 345,
-          "voertuigen_foto": 2
+          "voertuigen_foto": 3
         },
         {
           "regio": "Antwerpen Zone - Taxandria",
           "posten": 25,
           "posten_foto": 2,
           "voertuigen": 196,
-          "voertuigen_foto": 19
+          "voertuigen_foto": 20
         },
         {
           "regio": "Brussel Zone - Brussel",
@@ -476,14 +476,14 @@
           "posten": 46,
           "posten_foto": 0,
           "voertuigen": 280,
-          "voertuigen_foto": 8
+          "voertuigen_foto": 9
         },
         {
           "regio": "Luik Zone - DG",
           "posten": 23,
           "posten_foto": 2,
           "voertuigen": 120,
-          "voertuigen_foto": 16
+          "voertuigen_foto": 18
         },
         {
           "regio": "Luik Zone - Hemeco",
