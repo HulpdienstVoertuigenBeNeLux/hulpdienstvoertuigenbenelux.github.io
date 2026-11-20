@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 821
+        "aantal": 822
     },
     {
         "afkorting": "DAT",
@@ -177,7 +177,7 @@
     {
         "afkorting": "TS",
         "type": "Tankautospuit",
-        "aantal": 1148
+        "aantal": 1147
     },
     {
         "afkorting": "TST",
@@ -192,7 +192,7 @@
     {
         "afkorting": "TS-IB",
         "type": "Tankautospuit industriebrandbestrijding",
-        "aantal": 14
+        "aantal": 13
     },
     {
         "afkorting": "TS-RO",
@@ -1352,12 +1352,7 @@
     {
         "afkorting": "OO",
         "type": "Opleidingsvoertuig",
-        "aantal": 7
-    },
-    {
-        "afkorting": "OO",
-        "type": "Dienstauto",
-        "aantal": 1
+        "aantal": 8
     },
     {
         "afkorting": "BMA-OTO",
@@ -1372,7 +1367,12 @@
     {
         "afkorting": "TS-OTO",
         "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
-        "aantal": 29
+        "aantal": 30
+    },
+    {
+        "afkorting": "TS-OTO",
+        "type": "Tankautospuit industriebrandbestrijding",
+        "aantal": 1
     },
     {
         "afkorting": "HV-OTO",
