@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-20T11:59:25+00:00",
+  "bijgewerkt": "2026-11-20T20:37:54+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2597,
-        "posten_foto": 360,
-        "voertuigen": 13482,
-        "voertuigen_foto": 3869
+        "posten_foto": 363,
+        "voertuigen": 13495,
+        "voertuigen_foto": 3894
       },
       "regios": [
         {
@@ -21,9 +21,9 @@
         {
           "regio": "2 - Fryslân (VRF)",
           "posten": 154,
-          "posten_foto": 9,
-          "voertuigen": 576,
-          "voertuigen_foto": 69
+          "posten_foto": 10,
+          "voertuigen": 572,
+          "voertuigen_foto": 71
         },
         {
           "regio": "3 - Drenthe (VRD)",
@@ -72,14 +72,14 @@
           "posten": 143,
           "posten_foto": 39,
           "voertuigen": 727,
-          "voertuigen_foto": 275
+          "voertuigen_foto": 277
         },
         {
           "regio": "10 - Noord-Holland-Noord (VRNHN)",
           "posten": 117,
           "posten_foto": 13,
-          "voertuigen": 484,
-          "voertuigen_foto": 78
+          "voertuigen": 483,
+          "voertuigen_foto": 76
         },
         {
           "regio": "11 - Zaanstreek-Waterland (VRZW)",
@@ -91,9 +91,9 @@
         {
           "regio": "12 - Kennemerland (VRK)",
           "posten": 70,
-          "posten_foto": 3,
-          "voertuigen": 479,
-          "voertuigen_foto": 142
+          "posten_foto": 4,
+          "voertuigen": 500,
+          "voertuigen_foto": 149
         },
         {
           "regio": "13 - Amsterdam-Amstelland (VRAA)",
@@ -112,9 +112,9 @@
         {
           "regio": "15 - Haaglanden (VRH)",
           "posten": 67,
-          "posten_foto": 8,
-          "voertuigen": 448,
-          "voertuigen_foto": 161
+          "posten_foto": 9,
+          "voertuigen": 447,
+          "voertuigen_foto": 164
         },
         {
           "regio": "16 - Hollands Midden (VRHM)",
@@ -127,21 +127,21 @@
           "regio": "17 - Rotterdam-Rijnmond (VRR)",
           "posten": 153,
           "posten_foto": 24,
-          "voertuigen": 1077,
-          "voertuigen_foto": 398
+          "voertuigen": 1076,
+          "voertuigen_foto": 399
         },
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
           "posten": 69,
           "posten_foto": 11,
           "voertuigen": 394,
-          "voertuigen_foto": 125
+          "voertuigen_foto": 127
         },
         {
           "regio": "19 - Zeeland (VRZ)",
           "posten": 141,
           "posten_foto": 21,
-          "voertuigen": 548,
+          "voertuigen": 547,
           "voertuigen_foto": 129
         },
         {
@@ -149,7 +149,7 @@
           "posten": 119,
           "posten_foto": 43,
           "voertuigen": 620,
-          "voertuigen_foto": 123
+          "voertuigen_foto": 124
         },
         {
           "regio": "21 - Brabant-Noord (VRBN)",
@@ -163,14 +163,14 @@
           "posten": 75,
           "posten_foto": 40,
           "voertuigen": 418,
-          "voertuigen_foto": 176
+          "voertuigen_foto": 184
         },
         {
           "regio": "23 - Limburg-Noord (VRLN)",
           "posten": 75,
           "posten_foto": 17,
           "voertuigen": 379,
-          "voertuigen_foto": 139
+          "voertuigen_foto": 140
         },
         {
           "regio": "24 - Zuid-Limburg (VRZL)",
@@ -391,7 +391,7 @@
         "posten": 1513,
         "posten_foto": 42,
         "voertuigen": 8646,
-        "voertuigen_foto": 550
+        "voertuigen_foto": 552
       },
       "regios": [
         {
@@ -462,7 +462,7 @@
           "posten": 24,
           "posten_foto": 3,
           "voertuigen": 137,
-          "voertuigen_foto": 28
+          "voertuigen_foto": 29
         },
         {
           "regio": "Limburg Zone - Oost",
@@ -637,7 +637,7 @@
           "posten": 79,
           "posten_foto": 5,
           "voertuigen": 322,
-          "voertuigen_foto": 71
+          "voertuigen_foto": 72
         },
         {
           "regio": "(geen regio)",
