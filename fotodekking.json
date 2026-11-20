@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-19T20:52:37+00:00",
+  "bijgewerkt": "2026-11-20T02:29:05+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2597,
-        "posten_foto": 161,
+        "posten_foto": 162,
         "voertuigen": 13482,
-        "voertuigen_foto": 3785
+        "voertuigen_foto": 3788
       },
       "regios": [
         {
@@ -70,7 +70,7 @@
         {
           "regio": "9 - Utrecht (VRU)",
           "posten": 143,
-          "posten_foto": 10,
+          "posten_foto": 11,
           "voertuigen": 728,
           "voertuigen_foto": 272
         },
@@ -149,7 +149,7 @@
           "posten": 119,
           "posten_foto": 0,
           "voertuigen": 620,
-          "voertuigen_foto": 120
+          "voertuigen_foto": 122
         },
         {
           "regio": "21 - Brabant-Noord (VRBN)",
@@ -317,7 +317,7 @@
           "posten": 36,
           "posten_foto": 0,
           "voertuigen": 83,
-          "voertuigen_foto": 4
+          "voertuigen_foto": 5
         },
         {
           "regio": "ON-RWS",
