@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-21T02:40:21+00:00",
+  "bijgewerkt": "2026-11-21T11:33:44+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2597,
-        "posten_foto": 363,
-        "voertuigen": 13495,
-        "voertuigen_foto": 3895
+        "posten_foto": 364,
+        "voertuigen": 13496,
+        "voertuigen_foto": 3899
       },
       "regios": [
         {
@@ -51,7 +51,7 @@
           "posten": 105,
           "posten_foto": 17,
           "voertuigen": 556,
-          "voertuigen_foto": 195
+          "voertuigen_foto": 196
         },
         {
           "regio": "7 - Gelderland-Midden (VGGM)",
@@ -78,8 +78,8 @@
           "regio": "10 - Noord-Holland-Noord (VRNHN)",
           "posten": 117,
           "posten_foto": 13,
-          "voertuigen": 483,
-          "voertuigen_foto": 76
+          "voertuigen": 484,
+          "voertuigen_foto": 77
         },
         {
           "regio": "11 - Zaanstreek-Waterland (VRZW)",
@@ -93,7 +93,7 @@
           "posten": 70,
           "posten_foto": 4,
           "voertuigen": 500,
-          "voertuigen_foto": 149
+          "voertuigen_foto": 150
         },
         {
           "regio": "13 - Amsterdam-Amstelland (VRAA)",
@@ -105,9 +105,9 @@
         {
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
           "posten": 33,
-          "posten_foto": 2,
+          "posten_foto": 3,
           "voertuigen": 175,
-          "voertuigen_foto": 56
+          "voertuigen_foto": 57
         },
         {
           "regio": "15 - Haaglanden (VRH)",
@@ -391,7 +391,7 @@
         "posten": 1515,
         "posten_foto": 42,
         "voertuigen": 8644,
-        "voertuigen_foto": 556
+        "voertuigen_foto": 557
       },
       "regios": [
         {
@@ -427,7 +427,7 @@
           "posten": 25,
           "posten_foto": 6,
           "voertuigen": 202,
-          "voertuigen_foto": 56
+          "voertuigen_foto": 57
         },
         {
           "regio": "Brussel Zone - Brussel",
