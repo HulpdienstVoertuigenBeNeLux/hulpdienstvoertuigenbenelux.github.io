@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-20T20:37:54+00:00",
+  "bijgewerkt": "2026-11-21T02:40:21+00:00",
   "landen": [
     {
       "code": "NL",
@@ -8,7 +8,7 @@
         "posten": 2597,
         "posten_foto": 363,
         "voertuigen": 13495,
-        "voertuigen_foto": 3894
+        "voertuigen_foto": 3895
       },
       "regios": [
         {
@@ -128,7 +128,7 @@
           "posten": 153,
           "posten_foto": 24,
           "voertuigen": 1076,
-          "voertuigen_foto": 399
+          "voertuigen_foto": 400
         },
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
@@ -388,10 +388,10 @@
       "code": "BE",
       "naam": "België",
       "totaal": {
-        "posten": 1513,
+        "posten": 1515,
         "posten_foto": 42,
-        "voertuigen": 8646,
-        "voertuigen_foto": 552
+        "voertuigen": 8644,
+        "voertuigen_foto": 556
       },
       "regios": [
         {
@@ -503,7 +503,7 @@
           "regio": "Luik Zone - IILE-SRI",
           "posten": 57,
           "posten_foto": 0,
-          "voertuigen": 469,
+          "voertuigen": 468,
           "voertuigen_foto": 6
         },
         {
@@ -543,9 +543,9 @@
         },
         {
           "regio": "Namen Zone - Val de Sambre",
-          "posten": 25,
+          "posten": 26,
           "posten_foto": 1,
-          "voertuigen": 94,
+          "voertuigen": 93,
           "voertuigen_foto": 6
         },
         {
@@ -588,11 +588,11 @@
           "posten": 33,
           "posten_foto": 1,
           "voertuigen": 219,
-          "voertuigen_foto": 26
+          "voertuigen_foto": 30
         },
         {
           "regio": "Vlaams-Brabant Zone - Oost",
-          "posten": 61,
+          "posten": 62,
           "posten_foto": 0,
           "voertuigen": 324,
           "voertuigen_foto": 14
