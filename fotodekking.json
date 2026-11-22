@@ -1,22 +1,22 @@
 {
-  "bijgewerkt": "2026-11-22T11:47:07+00:00",
+  "bijgewerkt": "2026-11-22T19:54:13+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
-        "posten": 2597,
-        "posten_foto": 366,
-        "voertuigen": 13497,
-        "voertuigen_foto": 3929
+        "posten": 2598,
+        "posten_foto": 368,
+        "voertuigen": 13499,
+        "voertuigen_foto": 3940
       },
       "regios": [
         {
           "regio": "1 - Groningen (VRG)",
           "posten": 89,
-          "posten_foto": 1,
-          "voertuigen": 452,
-          "voertuigen_foto": 73
+          "posten_foto": 3,
+          "voertuigen": 451,
+          "voertuigen_foto": 81
         },
         {
           "regio": "2 - Fryslân (VRF)",
@@ -44,7 +44,7 @@
           "posten": 69,
           "posten_foto": 1,
           "voertuigen": 379,
-          "voertuigen_foto": 175
+          "voertuigen_foto": 176
         },
         {
           "regio": "6 - Noord- en Oost-Gelderland (VNOG)",
@@ -112,7 +112,7 @@
         {
           "regio": "15 - Haaglanden (VRH)",
           "posten": 67,
-          "posten_foto": 10,
+          "posten_foto": 9,
           "voertuigen": 447,
           "voertuigen_foto": 165
         },
@@ -127,7 +127,7 @@
           "regio": "17 - Rotterdam-Rijnmond (VRR)",
           "posten": 153,
           "posten_foto": 24,
-          "voertuigen": 1076,
+          "voertuigen": 1077,
           "voertuigen_foto": 402
         },
         {
@@ -140,9 +140,9 @@
         {
           "regio": "19 - Zeeland (VRZ)",
           "posten": 141,
-          "posten_foto": 22,
+          "posten_foto": 23,
           "voertuigen": 547,
-          "voertuigen_foto": 131
+          "voertuigen_foto": 132
         },
         {
           "regio": "20 - Midden en West-Brabant (VRMWB)",
@@ -167,10 +167,10 @@
         },
         {
           "regio": "23 - Limburg-Noord (VRLN)",
-          "posten": 75,
+          "posten": 76,
           "posten_foto": 17,
-          "voertuigen": 379,
-          "voertuigen_foto": 140
+          "voertuigen": 381,
+          "voertuigen_foto": 141
         },
         {
           "regio": "24 - Zuid-Limburg (VRZL)",
@@ -388,10 +388,10 @@
       "code": "BE",
       "naam": "België",
       "totaal": {
-        "posten": 1515,
-        "posten_foto": 43,
-        "voertuigen": 8644,
-        "voertuigen_foto": 577
+        "posten": 1517,
+        "posten_foto": 44,
+        "voertuigen": 8654,
+        "voertuigen_foto": 584
       },
       "regios": [
         {
@@ -427,7 +427,7 @@
           "posten": 25,
           "posten_foto": 6,
           "voertuigen": 202,
-          "voertuigen_foto": 57
+          "voertuigen_foto": 58
         },
         {
           "regio": "Brussel Zone - Brussel",
@@ -508,16 +508,16 @@
         },
         {
           "regio": "Luik Zone - Vesdre-Hoëgne & Plateau",
-          "posten": 28,
-          "posten_foto": 0,
-          "voertuigen": 171,
-          "voertuigen_foto": 1
+          "posten": 30,
+          "posten_foto": 1,
+          "voertuigen": 180,
+          "voertuigen_foto": 7
         },
         {
           "regio": "Luik Zone - Warche-Amblève-Lienne",
           "posten": 14,
           "posten_foto": 0,
-          "voertuigen": 74,
+          "voertuigen": 75,
           "voertuigen_foto": 0
         },
         {
