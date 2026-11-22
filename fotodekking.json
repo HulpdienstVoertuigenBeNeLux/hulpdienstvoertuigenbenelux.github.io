@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-22T01:28:46+00:00",
+  "bijgewerkt": "2026-11-22T11:47:07+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2597,
-        "posten_foto": 364,
+        "posten_foto": 366,
         "voertuigen": 13497,
-        "voertuigen_foto": 3925
+        "voertuigen_foto": 3929
       },
       "regios": [
         {
@@ -112,7 +112,7 @@
         {
           "regio": "15 - Haaglanden (VRH)",
           "posten": 67,
-          "posten_foto": 9,
+          "posten_foto": 10,
           "voertuigen": 447,
           "voertuigen_foto": 165
         },
@@ -128,7 +128,7 @@
           "posten": 153,
           "posten_foto": 24,
           "voertuigen": 1076,
-          "voertuigen_foto": 400
+          "voertuigen_foto": 402
         },
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
@@ -140,9 +140,9 @@
         {
           "regio": "19 - Zeeland (VRZ)",
           "posten": 141,
-          "posten_foto": 21,
+          "posten_foto": 22,
           "voertuigen": 547,
-          "voertuigen_foto": 129
+          "voertuigen_foto": 131
         },
         {
           "regio": "20 - Midden en West-Brabant (VRMWB)",
@@ -391,7 +391,7 @@
         "posten": 1515,
         "posten_foto": 43,
         "voertuigen": 8644,
-        "voertuigen_foto": 573
+        "voertuigen_foto": 577
       },
       "regios": [
         {
@@ -616,7 +616,7 @@
           "posten": 137,
           "posten_foto": 0,
           "voertuigen": 431,
-          "voertuigen_foto": 11
+          "voertuigen_foto": 15
         },
         {
           "regio": "West-Vlaanderen Zone - Fluvia",
