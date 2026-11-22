@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-21T19:37:46+00:00",
+  "bijgewerkt": "2026-11-22T01:28:46+00:00",
   "landen": [
     {
       "code": "NL",
@@ -7,7 +7,7 @@
       "totaal": {
         "posten": 2597,
         "posten_foto": 364,
-        "voertuigen": 13496,
+        "voertuigen": 13497,
         "voertuigen_foto": 3925
       },
       "regios": [
@@ -106,7 +106,7 @@
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
           "posten": 33,
           "posten_foto": 3,
-          "voertuigen": 175,
+          "voertuigen": 176,
           "voertuigen_foto": 57
         },
         {
@@ -389,9 +389,9 @@
       "naam": "België",
       "totaal": {
         "posten": 1515,
-        "posten_foto": 42,
+        "posten_foto": 43,
         "voertuigen": 8644,
-        "voertuigen_foto": 557
+        "voertuigen_foto": 573
       },
       "regios": [
         {
@@ -460,9 +460,9 @@
         {
           "regio": "Limburg Zone - Noord",
           "posten": 24,
-          "posten_foto": 3,
+          "posten_foto": 4,
           "voertuigen": 137,
-          "voertuigen_foto": 29
+          "voertuigen_foto": 45
         },
         {
           "regio": "Limburg Zone - Oost",
