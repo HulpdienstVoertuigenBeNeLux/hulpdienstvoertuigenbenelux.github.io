@@ -27,7 +27,7 @@
     {
         "afkorting": "BRV-K",
         "type": "Brandweervaartuig klein",
-        "aantal": 49
+        "aantal": 48
     },
     {
         "afkorting": "BRV-M",
@@ -337,7 +337,7 @@
     {
         "afkorting": "CT",
         "type": "Crashtender",
-        "aantal": 25
+        "aantal": 27
     },
     {
         "afkorting": "SB",
@@ -1362,17 +1362,12 @@
     {
         "afkorting": "BMH-OTO",
         "type": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
-        "aantal": 61
+        "aantal": 62
     },
     {
         "afkorting": "TS-OTO",
         "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
-        "aantal": 30
-    },
-    {
-        "afkorting": "TS-OTO",
-        "type": "Tankautospuit industriebrandbestrijding",
-        "aantal": 1
+        "aantal": 31
     },
     {
         "afkorting": "HV-OTO",
