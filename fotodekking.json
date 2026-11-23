@@ -1,22 +1,22 @@
 {
-  "bijgewerkt": "2026-11-22T19:54:13+00:00",
+  "bijgewerkt": "2026-11-23T01:53:31+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2598,
-        "posten_foto": 368,
+        "posten_foto": 369,
         "voertuigen": 13499,
-        "voertuigen_foto": 3940
+        "voertuigen_foto": 3956
       },
       "regios": [
         {
           "regio": "1 - Groningen (VRG)",
           "posten": 89,
-          "posten_foto": 3,
+          "posten_foto": 4,
           "voertuigen": 451,
-          "voertuigen_foto": 81
+          "voertuigen_foto": 88
         },
         {
           "regio": "2 - Fryslân (VRF)",
@@ -37,7 +37,7 @@
           "posten": 68,
           "posten_foto": 2,
           "voertuigen": 391,
-          "voertuigen_foto": 168
+          "voertuigen_foto": 170
         },
         {
           "regio": "5 - Twente (VRT)",
@@ -100,7 +100,7 @@
           "posten": 61,
           "posten_foto": 11,
           "voertuigen": 411,
-          "voertuigen_foto": 134
+          "voertuigen_foto": 135
         },
         {
           "regio": "14 - Gooi en Vechtstreek (VRGV)",
@@ -163,7 +163,7 @@
           "posten": 75,
           "posten_foto": 40,
           "voertuigen": 418,
-          "voertuigen_foto": 184
+          "voertuigen_foto": 190
         },
         {
           "regio": "23 - Limburg-Noord (VRLN)",
@@ -391,7 +391,7 @@
         "posten": 1517,
         "posten_foto": 44,
         "voertuigen": 8654,
-        "voertuigen_foto": 584
+        "voertuigen_foto": 585
       },
       "regios": [
         {
@@ -518,7 +518,7 @@
           "posten": 14,
           "posten_foto": 0,
           "voertuigen": 75,
-          "voertuigen_foto": 0
+          "voertuigen_foto": 1
         },
         {
           "regio": "Luxemburg Zone - Luxemburg",
