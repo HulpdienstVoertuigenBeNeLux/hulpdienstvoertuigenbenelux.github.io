@@ -1453,7 +1453,7 @@
     },
     {
         "afkorting": "RMT-KHV",
-        "type": "Reddingsmaatschappij voertuig terreinvaardig kusthulpverleningsvoertuig"
+        "type": "Reddingmaatschappij voertuig terreinvaardig kusthulpverleningsvoertuig"
     },
     {
         "afkorting": "RBV",
@@ -1461,11 +1461,11 @@
     },
     {
         "afkorting": "RMV",
-        "type": "Reddingsmaatschappij vaartuig"
+        "type": "Reddingmaatschappij vaartuig"
     },
     {
         "afkorting": "RMV-WSC",
-        "type": "Reddingsmaatschappij vaartuig waterscooter"
+        "type": "Reddingmaatschappij vaartuig waterscooter"
     },
     {
         "afkorting": "RBV-WSC",
@@ -2096,10 +2096,6 @@
         "type": "Rapid responder"
     },
     {
-        "afkorting": "RES-PKT",
-        "type": "Reserve piketvoertuig"
-    },
-    {
         "afkorting": "OVDG-NW",
         "type": "Officier van dienst geneeskundige zorg Noord-West"
     },
@@ -2116,6 +2112,10 @@
         "type": "Officier van dienst geneeskundige zorg Oost"
     },
     {
+        "afkorting": "OVDG-ZO",
+        "type": "Officier van dienst geneeskundige zorg Zuid-Oost"
+    },
+    {
         "afkorting": "OVDG-Z",
         "type": "Officier van dienst geneeskundige zorg Zuid"
     },
@@ -2126,6 +2126,62 @@
     {
         "afkorting": "OVDG-W",
         "type": "Officier van dienst geneeskundige zorg West"
+    },
+    {
+        "afkorting": "CVDG",
+        "type": "Commandant van dienst geneeskundige zorg"
+    },
+    {
+        "afkorting": "NHT",
+        "type": "Noodhulpteam voertuig Rode Kruis"
+    },
+    {
+        "afkorting": "GAGS",
+        "type": "Geneeskundig adviseur gevaarlijke stoffen"
+    },
+    {
+        "afkorting": "HAC",
+        "type": "Hoofd actiecentrum geneeskundige zorg"
+    },
+    {
+        "afkorting": "HIN",
+        "type": "Hoofd informatie geneeskundige zorg"
+    },
+    {
+        "afkorting": "HON",
+        "type": "Hoofd ondersteuning geneeskundige zorg"
+    },
+    {
+        "afkorting": "ACGZ",
+        "type": "Algemeen commandant geneeskundige zorg"
+    },
+    {
+        "afkorting": "DPG",
+        "type": "Directeur publieke gezondheid"
+    },
+    {
+        "afkorting": "RES-PKT",
+        "type": "Reserve piketvoertuig"
+    },
+    {
+        "afkorting": "VC",
+        "type": "Verbindingscommandowagen"
+    },
+    {
+        "afkorting": "TCVC",
+        "type": "Technisch centralist verbindingscommando"
+    },
+    {
+        "afkorting": "TVT",
+        "type": "Taakverantwoordelijke triage"
+    },
+    {
+        "afkorting": "MMT",
+        "type": "Mobiel medisch team"
+    },
+    {
+        "afkorting": "HOVDG",
+        "type": "Hoofdofficier van dienst geneeskundige zorg"
     },
     {
         "afkorting": "-",
@@ -2162,10 +2218,6 @@
     {
         "afkorting": "LO-RK",
         "type": "Logistiek voertuig Rode Kruis"
-    },
-    {
-        "afkorting": "NHT",
-        "type": "Noodhulpteam voertuig Rode Kruis"
     },
     {
         "afkorting": "ON-RK",
