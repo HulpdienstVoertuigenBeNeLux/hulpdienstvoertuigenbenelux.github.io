@@ -905,11 +905,6 @@
         "aantal": 18
     },
     {
-        "afkorting": "VC",
-        "type": "Verbindingscommandowagen",
-        "aantal": 3
-    },
-    {
         "afkorting": "VD-MOP",
         "type": "Verbindingsdienst voertuig mobiel opstelpunt",
         "aantal": 5
@@ -1378,6 +1373,11 @@
         "afkorting": "RAH",
         "type": "Regionale ambulancevoorziening haakarmbak",
         "aantal": 1
+    },
+    {
+        "afkorting": "VC",
+        "type": "Verbindingscommandowagen",
+        "aantal": 3
     },
     {
         "afkorting": "CAH-BH",
