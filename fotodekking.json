@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-23T01:53:31+00:00",
+  "bijgewerkt": "2026-11-24T02:28:21+00:00",
   "landen": [
     {
       "code": "NL",
@@ -7,7 +7,7 @@
       "totaal": {
         "posten": 2598,
         "posten_foto": 369,
-        "voertuigen": 13499,
+        "voertuigen": 13506,
         "voertuigen_foto": 3956
       },
       "regios": [
@@ -134,7 +134,7 @@
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
           "posten": 69,
           "posten_foto": 11,
-          "voertuigen": 394,
+          "voertuigen": 401,
           "voertuigen_foto": 127
         },
         {
