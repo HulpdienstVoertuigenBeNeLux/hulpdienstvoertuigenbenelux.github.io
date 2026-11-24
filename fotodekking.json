@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-24T02:28:21+00:00",
+  "bijgewerkt": "2026-11-24T14:06:00+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2598,
-        "posten_foto": 369,
+        "posten_foto": 370,
         "voertuigen": 13506,
-        "voertuigen_foto": 3956
+        "voertuigen_foto": 3959
       },
       "regios": [
         {
@@ -93,7 +93,7 @@
           "posten": 70,
           "posten_foto": 4,
           "voertuigen": 500,
-          "voertuigen_foto": 156
+          "voertuigen_foto": 157
         },
         {
           "regio": "13 - Amsterdam-Amstelland (VRAA)",
@@ -161,9 +161,9 @@
         {
           "regio": "22 - Brabant-Zuidoost (VRBZO)",
           "posten": 75,
-          "posten_foto": 40,
+          "posten_foto": 41,
           "voertuigen": 418,
-          "voertuigen_foto": 190
+          "voertuigen_foto": 191
         },
         {
           "regio": "23 - Limburg-Noord (VRLN)",
@@ -310,7 +310,7 @@
           "posten": 16,
           "posten_foto": 0,
           "voertuigen": 26,
-          "voertuigen_foto": 2
+          "voertuigen_foto": 3
         },
         {
           "regio": "ON-POL",
