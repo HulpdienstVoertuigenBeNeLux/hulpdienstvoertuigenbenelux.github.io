@@ -800,6 +800,11 @@
         "aantal": 6
     },
     {
+        "afkorting": "BM-TES",
+        "type": "Dienstauto",
+        "aantal": 7
+    },
+    {
         "afkorting": "VK",
         "type": "Verkenningsvoertuig",
         "aantal": 4
