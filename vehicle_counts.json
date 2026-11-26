@@ -2,7 +2,7 @@
     {
         "afkorting": "DA",
         "type": "Dienstauto",
-        "aantal": 821
+        "aantal": 823
     },
     {
         "afkorting": "DAT",
@@ -12,7 +12,7 @@
     {
         "afkorting": "DB",
         "type": "Dienstbus",
-        "aantal": 715
+        "aantal": 717
     },
     {
         "afkorting": "PM",
@@ -737,7 +737,7 @@
     {
         "afkorting": "LO",
         "type": "Logistiek voertuig",
-        "aantal": 108
+        "aantal": 109
     },
     {
         "afkorting": "LO-KR",
@@ -1127,7 +1127,7 @@
     {
         "afkorting": "DB-DF",
         "type": "Dienstbus Defensie",
-        "aantal": 18
+        "aantal": 19
     },
     {
         "afkorting": "PM-DF",
