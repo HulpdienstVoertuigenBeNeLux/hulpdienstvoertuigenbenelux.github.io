@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-26T17:11:31+00:00",
+  "bijgewerkt": "2026-11-27T01:51:22+00:00",
   "landen": [
     {
       "code": "NL",
@@ -8,7 +8,7 @@
         "posten": 2597,
         "posten_foto": 390,
         "voertuigen": 13524,
-        "voertuigen_foto": 4067
+        "voertuigen_foto": 4069
       },
       "regios": [
         {
@@ -30,7 +30,7 @@
           "posten": 87,
           "posten_foto": 11,
           "voertuigen": 362,
-          "voertuigen_foto": 100
+          "voertuigen_foto": 101
         },
         {
           "regio": "4 - IJsselland (VRIJ)",
@@ -128,7 +128,7 @@
           "posten": 153,
           "posten_foto": 26,
           "voertuigen": 1074,
-          "voertuigen_foto": 418
+          "voertuigen_foto": 419
         },
         {
           "regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
@@ -391,7 +391,7 @@
         "posten": 1519,
         "posten_foto": 52,
         "voertuigen": 8721,
-        "voertuigen_foto": 833
+        "voertuigen_foto": 834
       },
       "regios": [
         {
@@ -609,7 +609,7 @@
           "posten": 64,
           "posten_foto": 0,
           "voertuigen": 329,
-          "voertuigen_foto": 28
+          "voertuigen_foto": 29
         },
         {
           "regio": "Waals-Brabant Zone - Brabant-Wallon",
