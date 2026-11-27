@@ -37,7 +37,7 @@
     {
         "afkorting": "BRV-G",
         "type": "Brandweervaartuig groot",
-        "aantal": 4
+        "aantal": 5
     },
     {
         "afkorting": "BRV-Z",
@@ -57,7 +57,7 @@
     {
         "afkorting": "HBV",
         "type": "Havenbedrijf vaartuig",
-        "aantal": 15
+        "aantal": 14
     },
     {
         "afkorting": "OR",
