@@ -1,22 +1,22 @@
 {
-  "bijgewerkt": "2026-11-27T01:51:22+00:00",
+  "bijgewerkt": "2026-11-27T12:55:48+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
         "posten": 2597,
-        "posten_foto": 390,
+        "posten_foto": 391,
         "voertuigen": 13524,
-        "voertuigen_foto": 4069
+        "voertuigen_foto": 4070
       },
       "regios": [
         {
           "regio": "1 - Groningen (VRG)",
           "posten": 89,
-          "posten_foto": 10,
+          "posten_foto": 11,
           "voertuigen": 452,
-          "voertuigen_foto": 105
+          "voertuigen_foto": 106
         },
         {
           "regio": "2 - Fryslân (VRF)",
