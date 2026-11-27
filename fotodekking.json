@@ -1,14 +1,14 @@
 {
-  "bijgewerkt": "2026-11-27T12:55:48+00:00",
+  "bijgewerkt": "2026-11-27T23:38:06+00:00",
   "landen": [
     {
       "code": "NL",
       "naam": "Nederland",
       "totaal": {
-        "posten": 2597,
-        "posten_foto": 391,
-        "voertuigen": 13524,
-        "voertuigen_foto": 4070
+        "posten": 2598,
+        "posten_foto": 392,
+        "voertuigen": 13525,
+        "voertuigen_foto": 4071
       },
       "regios": [
         {
@@ -112,9 +112,9 @@
         {
           "regio": "15 - Haaglanden (VRH)",
           "posten": 67,
-          "posten_foto": 9,
+          "posten_foto": 10,
           "voertuigen": 447,
-          "voertuigen_foto": 166
+          "voertuigen_foto": 167
         },
         {
           "regio": "16 - Hollands Midden (VRHM)",
@@ -127,7 +127,7 @@
           "regio": "17 - Rotterdam-Rijnmond (VRR)",
           "posten": 153,
           "posten_foto": 26,
-          "voertuigen": 1074,
+          "voertuigen": 1073,
           "voertuigen_foto": 419
         },
         {
@@ -146,9 +146,9 @@
         },
         {
           "regio": "20 - Midden en West-Brabant (VRMWB)",
-          "posten": 119,
+          "posten": 120,
           "posten_foto": 43,
-          "voertuigen": 620,
+          "voertuigen": 621,
           "voertuigen_foto": 129
         },
         {
@@ -379,7 +379,7 @@
           "regio": "(geen regio)",
           "posten": 5,
           "posten_foto": 0,
-          "voertuigen": 59,
+          "voertuigen": 60,
           "voertuigen_foto": 23
         }
       ]
@@ -391,7 +391,7 @@
         "posten": 1519,
         "posten_foto": 52,
         "voertuigen": 8721,
-        "voertuigen_foto": 834
+        "voertuigen_foto": 835
       },
       "regios": [
         {
@@ -553,7 +553,7 @@
           "posten": 1,
           "posten_foto": 0,
           "voertuigen": 17,
-          "voertuigen_foto": 7
+          "voertuigen_foto": 8
         },
         {
           "regio": "Oost-Vlaanderen Zone - Centrum",
