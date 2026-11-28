@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-27T23:38:06+00:00",
+  "bijgewerkt": "2026-11-28T17:41:52+00:00",
   "landen": [
     {
       "code": "NL",
@@ -8,7 +8,7 @@
         "posten": 2598,
         "posten_foto": 392,
         "voertuigen": 13525,
-        "voertuigen_foto": 4071
+        "voertuigen_foto": 4076
       },
       "regios": [
         {
@@ -163,7 +163,7 @@
           "posten": 74,
           "posten_foto": 41,
           "voertuigen": 418,
-          "voertuigen_foto": 191
+          "voertuigen_foto": 196
         },
         {
           "regio": "23 - Limburg-Noord (VRLN)",
@@ -389,9 +389,9 @@
       "naam": "België",
       "totaal": {
         "posten": 1519,
-        "posten_foto": 52,
+        "posten_foto": 54,
         "voertuigen": 8721,
-        "voertuigen_foto": 835
+        "voertuigen_foto": 853
       },
       "regios": [
         {
@@ -593,9 +593,9 @@
         {
           "regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
           "posten": 33,
-          "posten_foto": 1,
+          "posten_foto": 2,
           "voertuigen": 219,
-          "voertuigen_foto": 39
+          "voertuigen_foto": 50
         },
         {
           "regio": "Vlaams-Brabant Zone - Oost",
@@ -628,9 +628,9 @@
         {
           "regio": "West-Vlaanderen Zone - Fluvia",
           "posten": 39,
-          "posten_foto": 1,
+          "posten_foto": 2,
           "voertuigen": 240,
-          "voertuigen_foto": 17
+          "voertuigen_foto": 24
         },
         {
           "regio": "West-Vlaanderen Zone - Midwest",
