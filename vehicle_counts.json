@@ -657,7 +657,7 @@
     {
         "afkorting": "AH",
         "type": "Arbeidshygiëne voertuig",
-        "aantal": 17
+        "aantal": 16
     },
     {
         "afkorting": "AHH",
@@ -737,7 +737,7 @@
     {
         "afkorting": "LO",
         "type": "Logistiek voertuig",
-        "aantal": 109
+        "aantal": 110
     },
     {
         "afkorting": "LO-KR",
